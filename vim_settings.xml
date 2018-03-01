@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/contract_handler.py" timestamp="1516347615118">
         <mark key="[" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_server.py" timestamp="1519820656239">
+      <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_server.py" timestamp="1519894054569">
         <mark key="[" line="88" column="51" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -256,9 +256,6 @@
         <mark key="^" line="127" column="15" />
         <mark key="." line="127" column="15" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/exceptions/base.py" timestamp="1519695333473">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/report_handler.py" timestamp="1516347413122">
         <mark key="[" line="8" column="7" />
       </file>
@@ -343,8 +340,11 @@
       <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_resources.py" timestamp="1519817044803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/test.py" timestamp="1519890730392">
-        <mark key="[" line="2" column="25" />
+      <file name="$USER_HOME$/Dropbox/project/python/grpc/test.py" timestamp="1519894033934">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/base.py" timestamp="1519717585958" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_pb2.py" timestamp="1519868576266">

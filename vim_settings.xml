@@ -231,11 +231,11 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/rpc/manager.py" timestamp="1519962444292" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519981964174">
-        <mark key="[" line="57" column="1" />
-        <mark key="]" line="56" column="3" />
-        <mark key="." line="56" column="3" />
-        <mark key="^" line="56" column="3" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519982245551">
+        <mark key="[" line="70" column="1" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/helloworld/greeter_server.py" timestamp="1519957150977" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/route_guide/route_guide_server.py" timestamp="1519821969946">
@@ -290,35 +290,51 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings
+message HelloReply {
+  string message = 1;
+}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings
+message HelloReply {
+  string message = 1;
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRldmljZSwgd3hfb3Blbl9pZCwgd3hfbmlja25hbWUsIHd4X2hlYWRpbWd1cmwgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERldmljZSBkZXZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5kYXRhYmFzZS50YWJsZSBpbXBvcnQgVGFibGVCYXNlCg==</text>
+        <text encoding="base64">ICAgIGRldmljZSwgd3hfb3Blbl9pZCwgd3hfbmlja25hbWUsIHd4X2hlYWRpbWd1cmwgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIERldmljZSBkZXZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5kYXRhYmFzZS50YWJsZSBpbXBvcnQgVGFibGVCYXNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJwYyBTYXlIZWxsbyAoSGVsbG9SZXF1ZXN0KSByZXR1cm5zIChIZWxsb1JlcGx5KSB7fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBycGMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJwYyBTYXlIZWxsbyAoSGVsbG9SZXF1ZXN0KSByZXR1cm5zIChIZWxsb1JlcGx5KSB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text>HelloReply</text>

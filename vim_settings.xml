@@ -62,6 +62,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/gift/manager.py" timestamp="1519984954144">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="18" />
+        <mark key="^" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/common.proto" timestamp="1519962173770">
         <mark key="[" line="19" column="1" />
         <mark key="^" line="19" column="0" />
@@ -117,6 +123,7 @@
         <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/interceptors/default_value/default_value_client_interceptor.py" timestamp="1519957280435" />
+      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/gift/register_gift.py" timestamp="1519984940074" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/test.py" timestamp="1519894033934">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -231,7 +238,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/rpc/manager.py" timestamp="1519962444292" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519982245551">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519984838482">
         <mark key="[" line="70" column="1" />
         <mark key="]" line="68" column="0" />
         <mark key="^" line="68" column="0" />

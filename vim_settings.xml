@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_server.py" timestamp="1519952239571">
-        <mark key="[" line="88" column="51" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1519780196695">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -21,14 +16,12 @@
         <mark key="^" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/interceptors/headers/request_header_validator_interceptor.py" timestamp="1519957558175" />
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/push_text.py" timestamp="1519962727159" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/protocol/common.proto" timestamp="1519962110237" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/reports/tests_report.html/Test_test_basic.BasicTestCase_2018-02-24_08-29-55.html" timestamp="1519432633669" />
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/bind_device.py" timestamp="1519962236686" />
       <file name="$USER_HOME$/.local/share/virtualenvs/dodoo-admin-DTEm6NWR/lib/python3.6/site-packages/flask/views.py" timestamp="1519636718152" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpcsrc/examples/protos/route_guide.proto" timestamp="1519819233752" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/client.py" timestamp="1519526949862">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/code.py" timestamp="1519526776419">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="21" column="31" />
@@ -48,17 +41,16 @@
         <mark key="^" line="149" column="42" />
         <mark key="." line="149" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/error/client.py" timestamp="1519634479067">
-        <mark key="[" line="98" column="1" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc/_channel.py" timestamp="1519957106796" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/sentry/sentry_handler.py" timestamp="1519780303214">
         <mark key="[" line="5" column="1" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/common.proto" timestamp="1519962173770">
+        <mark key="[" line="19" column="1" />
+        <mark key="^" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/dodoo-admin-DTEm6NWR/lib/python3.6/site-packages/werkzeug/exceptions.py" timestamp="1519637024682" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/token.py" timestamp="1519526912279">
@@ -90,11 +82,6 @@
         <mark key="^" line="4" column="36" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/route_guide/route_guide_client.py" timestamp="1519825308068">
-        <mark key="[" line="102" column="37" />
-        <mark key="]" line="102" column="37" />
-        <mark key="." line="102" column="37" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/user.py" timestamp="1519542508542">
         <mark key="[" line="28" column="38" />
         <mark key="]" line="0" column="74" />
@@ -115,6 +102,7 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/base.py" timestamp="1519717585958" />
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/stop_malicious.py" timestamp="1519962714371" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/api/__init__.py" timestamp="1519633327755" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/deploy/gunicorn.py" timestamp="1519388888584" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/ios/version_check_handler.py" timestamp="1519798861276">
@@ -133,12 +121,8 @@
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc/__init__.py" timestamp="1519957046359" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc/_auth.py" timestamp="1519957075822" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/interceptors/headers/greeter_server.py" timestamp="1519957580218" />
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/push_voice.py" timestamp="1519962720246" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/video/report_handler.py" timestamp="1519780367180" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/manage.py" timestamp="1519633110307">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/apidoc/admin/apidoc.json" timestamp="1519568961676" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/pylintrc" timestamp="1519399249718">
         <mark key="[" line="2" column="29" />
@@ -146,13 +130,8 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/__init__.py" timestamp="1519960480201" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/__init__.py" timestamp="1519961041272" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/interceptors/headers/greeter_client.py" timestamp="1519957597379" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/error/base.py" timestamp="1519637168344">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/view.py" timestamp="1519636740387">
         <mark key="[" line="13" column="75" />
         <mark key="]" line="16" column="7" />
@@ -168,11 +147,6 @@
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/doc/apidoc/apidoc.json" timestamp="1519569562007" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/api/error.py" timestamp="1519633795358" />
       <file name="$USER_HOME$/.local/share/virtualenvs/dodoo-admin-DTEm6NWR/lib/python3.6/site-packages/click/core.py" timestamp="1519633088757" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/api/exceptions.py" timestamp="1519634404375">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/base.py" timestamp="1519553580788">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="29" />
@@ -201,6 +175,7 @@
         <mark key="^" line="127" column="15" />
         <mark key="." line="127" column="15" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/protos/helloworld.proto" timestamp="1519962539423" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/tests/test_basic.py" timestamp="1519442283320">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -220,6 +195,13 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/rpc/manager.py" timestamp="1519962444292" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519962886051">
+        <mark key="[" line="45" column="2" />
+        <mark key="]" line="45" column="1" />
+        <mark key="." line="45" column="1" />
+        <mark key="^" line="45" column="1" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/helloworld/greeter_server.py" timestamp="1519957150977" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/route_guide/route_guide_server.py" timestamp="1519821969946">
         <mark key="[" line="117" column="37" />
@@ -235,6 +217,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/push_video.py" timestamp="1519962722145" />
     </filemarks>
     <jumps>
       <jump line="58" column="28" filename="$USER_HOME$/Dropbox/company/project/torpeewee/torpeewee/query.py" />
@@ -266,37 +249,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJsaXN0ZW5pbmcgcG9ydDogIiwgcG9ydCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>HelloRequest</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHJwYyBTYXlIZWxsbyAoSGVsbG9SZXF1ZXN0KSByZXR1cm5zIChIZWxsb1JlcGx5KSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBycGMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Ly8gVGhlIGdyZWV0aW5nIHNlcnZpY2UgZGVmaW5pdGlvbi4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">cGFja2FnZSBoZWxsb3dvcmxkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>HelloRequest</text>
       </register>
     </registers>
     <search>

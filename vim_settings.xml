@@ -75,6 +75,7 @@
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc_core_dependencies.py" timestamp="1519955452529" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/helloworld/greeter_client.py" timestamp="1519957140187" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/protocol/handlers.proto" timestamp="1519973076056" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/env/lib/python3.6/site-packages/HtmlTestRunner/runner.py" timestamp="1519432249705" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/api/handler.py" timestamp="1519388562645">
         <mark key="[" line="132" column="1" />
@@ -229,7 +230,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/rpc/manager.py" timestamp="1519962444292" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519972200692">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1519972997617">
         <mark key="[" line="50" column="1" />
         <mark key="]" line="49" column="27" />
         <mark key="." line="49" column="27" />

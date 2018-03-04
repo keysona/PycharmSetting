@@ -120,10 +120,6 @@
         <mark key="^" line="31" column="18" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/common.proto" timestamp="1519962173770">
-        <mark key="[" line="19" column="1" />
-        <mark key="^" line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/dodoo-admin-DTEm6NWR/lib/python3.6/site-packages/werkzeug/exceptions.py" timestamp="1519637024682" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/token.py" timestamp="1519526912279">
         <mark key="[" line="6" column="4" />
@@ -165,6 +161,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/env/lib/python3.6/site-packages/flask/views.py" timestamp="1517848830992">
         <mark key="[" line="148" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/common_pb2.py" timestamp="1520131240447" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/protocol/common.proto" timestamp="1517975564677">
         <mark key="[" line="23" column="0" />
       </file>
@@ -255,8 +252,10 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/rpc/utils.py" timestamp="1519976265747" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/push_voice.py" timestamp="1519972110746" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/weixin_pb2_grpc.py" timestamp="1520131356659" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/video/report_handler.py" timestamp="1519780367180" />
       <file name="$USER_HOME$/Dropbox/company/project/version-server/apidoc/admin/apidoc.json" timestamp="1519568961676" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/weixin_pb2.py" timestamp="1520131250904" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/pylintrc" timestamp="1519399249718">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="28" />
@@ -271,6 +270,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/sell-server/app/handler/base.py" timestamp="1517987520575">
         <mark key="[" line="131" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/common_pb2_grpc.py" timestamp="1520131222071" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/view.py" timestamp="1519636740387">
         <mark key="[" line="13" column="75" />
         <mark key="]" line="16" column="7" />
@@ -374,7 +374,7 @@
         <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/rpc/manager.py" timestamp="1519962444292" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1520130309188">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1520131229377">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="^" line="30" column="0" />

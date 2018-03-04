@@ -101,6 +101,12 @@
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/area_code_handler.py" timestamp="1516347627520">
         <mark key="[" line="16" column="29" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/xg/core.py" timestamp="1520134916689">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc/_channel.py" timestamp="1519957106796" />
       <file name="$USER_HOME$/Dropbox/company/project/util-server/torcore/log.py" timestamp="1514281635925">
         <mark key="[" line="50" column="25" />
@@ -171,6 +177,12 @@
       <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/common/common/proto/common_pb2.py" timestamp="1516161333023">
         <mark key="[" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/xg/request.py" timestamp="1520134712631">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_client.py" timestamp="1519887869881">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="36" />
@@ -211,6 +223,7 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/base.py" timestamp="1519717585958" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/method/weixin/stop_malicious.py" timestamp="1519962714371" />
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/lib/xg/__init__.py" timestamp="1520135335207" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/doc/channel.py" timestamp="1519568485528">
         <mark key="[" line="0" column="0" />
       </file>
@@ -446,7 +459,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>// Push Text</text>
+        <text>, client=self.client</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -458,30 +471,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>// The request message containing the user's name.
-message HelloRequest {
-  string name = 1;
-}
-
-// The response message containing the greetings
-message HelloReply {
-  string message = 1;
-}</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="-" type="4">
-        <text>// Push Text</text>
+        <text>, client=self.client</text>
       </register>
     </registers>
     <search>

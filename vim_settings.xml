@@ -311,7 +311,12 @@
         <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/env/lib/python3.6/site-packages/HtmlTestRunner/runner.py" timestamp="1519432249705" />
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/config.py" timestamp="1520149720551" />
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/config.py" timestamp="1520152349155">
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/api/handler.py" timestamp="1519388562645">
         <mark key="[" line="132" column="1" />
         <mark key="]" line="131" column="0" />
@@ -371,6 +376,12 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/protocol/common.proto" timestamp="1517975564677">
         <mark key="[" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/action/application.py" timestamp="1520151462938">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/common/common/proto/common_pb2.py" timestamp="1516161333023">
         <mark key="[" line="17" column="0" />
@@ -542,6 +553,7 @@
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc/_auth.py" timestamp="1519957075822" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/xg/utils.py" timestamp="1520146724339" />
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/utils.py" timestamp="1520151541095" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/api/base.py" timestamp="1516172602007">
         <mark key="[" line="9" column="19" />
       </file>
@@ -718,6 +730,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/core.py" timestamp="1520151493664" />
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/product/controller.py" timestamp="1516807733404">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="98" column="37" />
@@ -902,37 +915,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIERPTUFJTiA9ICcnCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>'openapi.xg.qq.com'</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>KeySONA</text>
+        <text>'openapi.xg.qq.com'</text>
       </register>
     </registers>
     <search>

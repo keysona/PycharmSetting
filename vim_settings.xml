@@ -148,7 +148,7 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/apidoc/admin/app_version.py" timestamp="1519568954685" />
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/multiplex/multiplex_server.py" timestamp="1519957667968" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/client.py" timestamp="1520132235772">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/src/client.py" timestamp="1520133656198">
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/Makefile" timestamp="1519629047116">
@@ -346,6 +346,9 @@
         <mark key="]" line="127" column="15" />
         <mark key="^" line="127" column="15" />
         <mark key="." line="127" column="15" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/exceptions/base.py" timestamp="1519695333473">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/protos/helloworld.proto" timestamp="1519962539423" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/tests/test_basic.py" timestamp="1519442283320">

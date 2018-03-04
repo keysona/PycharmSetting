@@ -311,7 +311,7 @@
         <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/env/lib/python3.6/site-packages/HtmlTestRunner/runner.py" timestamp="1519432249705" />
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/config.py" timestamp="1520153744415">
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/config.py" timestamp="1520156760171">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
@@ -639,6 +639,7 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="7" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/base.py" timestamp="1520156789054" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/__init__.py" timestamp="1517969671896">
         <mark key="[" line="15" column="57" />
         <mark key="]" line="15" column="56" />

@@ -553,6 +553,12 @@
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/src/python/grpcio/grpc/_auth.py" timestamp="1519957075822" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/xg/utils.py" timestamp="1520146724339" />
+      <file name="$USER_HOME$/Dropbox/company/project/user-server/.env" timestamp="1520232687128">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/utils.py" timestamp="1520151541095" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/api/base.py" timestamp="1516172602007">
         <mark key="[" line="9" column="19" />
@@ -709,6 +715,12 @@
         <mark key="[" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/interceptors/default_value/greeter_client.py" timestamp="1519957291802" />
+      <file name="$USER_HOME$/Dropbox/company/project/user-server/.env.leave" timestamp="1520232693261">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/Makefile" timestamp="1517975981328">
         <mark key="[" line="10" column="6" />
       </file>
@@ -916,37 +928,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERPTUFJTiA9ICcnCg==</text>
+        <text encoding="base64">c291cmNlICIkQVVUT0VOVl9DVVJfRElSL2Vudi9iaW4vYWN0aXZhdGUiCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>'openapi.xg.qq.com'</text>
+        <text>deactivate</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIERPTUFJTiA9ICcnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="-" type="4">
-        <text>'openapi.xg.qq.com'</text>
+        <text>deactivate</text>
       </register>
     </registers>
     <search>

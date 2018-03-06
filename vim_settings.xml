@@ -185,8 +185,8 @@
         <mark key="^" line="149" column="42" />
         <mark key="." line="149" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/main.py" timestamp="1520145396747">
-        <mark key="[" line="61" column="4" />
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/main.py" timestamp="1520329968631">
+        <mark key="[" line="85" column="0" />
         <mark key="]" line="61" column="3" />
         <mark key="^" line="61" column="3" />
         <mark key="." line="61" column="3" />
@@ -298,11 +298,10 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/config.py" timestamp="1520156760171">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/config.py" timestamp="1520329933409">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/api/handler.py" timestamp="1519388562645">
         <mark key="[" line="132" column="1" />
@@ -353,7 +352,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/main.py" timestamp="1520146850687">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/main.py" timestamp="1520329888378">
         <mark key="[" line="79" column="5" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -925,34 +924,45 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvcHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpL21vYmlsZS9jb25maWcnLCBNb2JpbGVDb25maWcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbmZpZwo=</text>
+      <register name="4" type="4">
+        <text>class Config:
+
+    DEFAULT_DOMAIN = &quot;openapi.xg.qq.com&quot;
+    DEFAULT_API_VERSION = &quot;v2&quot;
+
+    def __init__(self, **kwargs):
+        self.scheme = kwargs.get('domain') if not kwargs.get('')
+        self.domain = kwargs.get('domain') if not kwargs.get('domain', '') else self.DEFAULT_DOMAIN
+        self.api_version = kwargs.get('api_version') if not kwargs.get('api_version', ) else self.DEFAULT_API_VERSION
+
+    @property
+    def scheme(self):</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBjb25maWcK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuY29uZmlnLm1vYmlsZV9jb25maWcgaW1wb3J0IE1vYmlsZUNvbmZpZwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvcHkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAocicvYXBpL21vYmlsZS9jb25maWcnLCBNb2JpbGVDb25maWcpLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5sb2cgaW1wb3J0IGFwcF9sb2cgYXMgbG9nZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNvbmZpZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0b3Jjb3JlLmRhdGFiYXNlLnRhYmxlIGltcG9ydCBUYWJsZQo=</text>
+        <text encoding="base64">IyBjb25maWcK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>

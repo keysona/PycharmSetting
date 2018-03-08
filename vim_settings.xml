@@ -105,11 +105,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/contract.py" timestamp="1520496996989">
-        <mark key="[" line="10" column="56" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/contract.py" timestamp="1520498367491">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/hotel.py" timestamp="1520496628062">
         <mark key="[" line="16" column="4" />
@@ -985,7 +985,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>hotel</text>
+        <text>e</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -997,22 +997,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZWRfYXQgPSBUaW1lc3RhbXBGaWVsZChpbmRleD1UKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9hdCA9IAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>hotel</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

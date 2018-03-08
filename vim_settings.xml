@@ -541,11 +541,10 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/logging.py" timestamp="1520479282275">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="2" column="27" />
-        <mark key="^" line="2" column="27" />
-        <mark key="." line="2" column="27" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/logging.py" timestamp="1520480012996">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/database/table.py" timestamp="1520240110502">
         <mark key="[" line="242" column="12" />
@@ -686,7 +685,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/wx_pay_tornado/core.py" timestamp="1520478178917" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1519724635864">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1520480092326">
         <mark key="[" line="65" column="1" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -758,11 +757,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/options.py" timestamp="1520479259459">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/options.py" timestamp="1520480229155">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/error.py" timestamp="1520239271010">
         <mark key="[" line="0" column="1" />
@@ -886,6 +885,11 @@
         <mark key="^" line="158" column="26" />
         <mark key="." line="158" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/__init__.py" timestamp="1520480062093">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/torcore/application.py" timestamp="1517988217696">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="0" />
@@ -897,6 +901,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1520479906605" />
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/check_handler.py" timestamp="1517109057453">
         <mark key="[" line="172" column="43" />
         <mark key="]" line="172" column="42" />
@@ -946,37 +951,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ubG9jYWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ubG9jYWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8uaW9sb29wCg==</text>
+        <text encoding="base64">ZGVmIGxvYWRfY29uZmlnX2ZpbGUocGF0aCk6CiAgICBwYXJzZV9jb25maWdfZmlsZShwYXRoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRvcm5hZG8ud2ViCg==</text>
+        <text encoding="base64">ZnJvbSAuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9zLnBhdGgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQgYXR0ciBkYjogY29yZS5EYXRhYmFzZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0X2xvZyhrd2FyZ3NbJ2xvZyddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICdsb2cnIGluIGt3YXJnczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oJ2xvY2FsZSBsb2FkIGZhaWxlZDolcycsIGUpCg==</text>
+        <text encoding="base64">ZGVmIGluaXQoKiprd2FyZ3MpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
+        <text encoding="base64">ZnJvbSAubG9nZ2luZyBpbXBvcnQgaW5pdF9sb2cK</text>
       </register>
       <register name="-" type="4">
-        <text>pipenv shell</text>
+        <text>g</text>
       </register>
     </registers>
     <search>

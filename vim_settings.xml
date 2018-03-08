@@ -27,7 +27,7 @@
         <mark key="." line="114" column="11" />
         <mark key="^" line="118" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/distribute.py" timestamp="1517538476850">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/distribute.py" timestamp="1520496842834">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
@@ -105,11 +105,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/contract.py" timestamp="1520496767032">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
-        <mark key="^" line="8" column="3" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/contract.py" timestamp="1520496996989">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/hotel.py" timestamp="1520496628062">
         <mark key="[" line="16" column="4" />
@@ -410,7 +410,7 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/base.py" timestamp="1520496534639">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/base.py" timestamp="1520496825773">
         <mark key="[" line="35" column="30" />
         <mark key="]" line="35" column="29" />
         <mark key="." line="35" column="29" />
@@ -568,7 +568,7 @@
         <mark key="." line="241" column="11" />
         <mark key="^" line="241" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/version.py" timestamp="1518072596664">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/version.py" timestamp="1520496864806">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -984,8 +984,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>hotel</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1012,7 +1012,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>deleted_at</text>
+        <text>hotel</text>
       </register>
     </registers>
     <search>

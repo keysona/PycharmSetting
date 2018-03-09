@@ -669,7 +669,7 @@
         <mark key="^" line="5" column="48" />
         <mark key="." line="5" column="54" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/user.py" timestamp="1520585630180">
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/user.py" timestamp="1520587435500">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="31" />
@@ -856,11 +856,11 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/article.py" timestamp="1520585476030">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/article.py" timestamp="1520587586157">
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="12" column="48" />
+        <mark key="." line="12" column="48" />
+        <mark key="^" line="12" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg_tornado/action/base.py" timestamp="1520147605014">
         <mark key="[" line="10" column="12" />
@@ -960,39 +960,39 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybCA9IENoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>emplo</text>
+        <text>content</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGVtYWlsID0gQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1LCApCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>class LocalAuth(Model):
     id = AutoField()
     user = ForeignKeyField(HotelUser)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">QUNDT1VOVF9UWVBFUyA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUNDT1VOVF9UWVBFUyA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>emplo</text>
+        <text>content</text>
       </register>
     </registers>
     <search>

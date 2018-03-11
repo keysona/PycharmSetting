@@ -48,6 +48,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/controller.py" timestamp="1520736254534">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1520748594429" />
       <file name="$USER_HOME$/.local/share/virtualenvs/dodoo-model-PRO7jTPT/lib/python3.6/site-packages/peewee.py" timestamp="1520584308733" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/options.py" timestamp="1520479046868">
         <mark key="[" line="3" column="27" />
@@ -55,11 +56,11 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/access_handler.py" timestamp="1520740256915">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="51" />
-        <mark key="." line="20" column="51" />
-        <mark key="^" line="20" column="51" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/access_handler.py" timestamp="1520748607861">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="61" />
+        <mark key="." line="5" column="61" />
+        <mark key="^" line="5" column="61" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/log.py" timestamp="1520585238480">
         <mark key="[" line="6" column="38" />
@@ -239,37 +240,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfYWdlbnQnOiBzZWxmLmdldF9hcmd1bWVudCgndXNlcl9hZ2VudCcsIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfYWdlbnQnOiBzZWxmLmdldF9hcmd1bWVudCgndXNlcl9hZ2VudCcsIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuY2FwdGNoYS5jYWxsaW4ubWFuYWdlciBpbXBvcnQgTWFuYWdlciBhcyBNb2JpbGVNYW5hZ2VyCg==</text>
+        <text encoding="base64">ZnJvbSAudXRpbCBpbXBvcnQgQ2FwdGNoYUh0dHBVdGlsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHAudXNlci5tYW5hZ2VyIGltcG9ydCBDbGllbnRVc2VyTWFuYWdlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4dGVuc2lvbl9udW1iZXIgPSBGaWVsZChzdHIsICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0KGRhdGE9eydjYXB0Y2hhJzogY2FwdGNoYSwgJ3RvJzogdG99KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBob25lX251bWJlciA9IEZpZWxkKHN0ciwgJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJnZW4gcGhvbmUgY2FwdGNoYSwgY2FwdGNoYTogJXMsIGlkZW50aXR5OiAlcyIsIGNhcHRjaGEsIGlkZW50aXR5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyZWFfY29kZSA9IEZpZWxkKHN0ciwgJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXB0Y2hhID0geWllbGQgbWFuYWdlci5jcmVhdGVfY2FwdGNoYV9waG9uZShwaG9uZSwgY29kZSwgb3BlcmF0aW9uLCBjYXB0Y2hhX3R5cGUpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2RlID0gbWFuYWdlci5nZW5fY29kZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICB0byA9IENhcHRjaGFIdHRwVXRpbC5nZW5fdG9fYnlfcGhvbmUocGhvbmUpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>login_name</text>
       </register>
     </registers>
     <search>

@@ -3,83 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/.env.leave" timestamp="1520477928653">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/.env.leave" timestamp="1519439017469">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="3" />
-        <mark key="." line="1" column="3" />
-        <mark key="^" line="1" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/token/manager.py" timestamp="1520239041841">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/captcha/manager.py" timestamp="1520238644959">
-        <mark key="[" line="114" column="12" />
-        <mark key="]" line="114" column="11" />
-        <mark key="." line="114" column="11" />
-        <mark key="^" line="118" column="10" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/distribute.py" timestamp="1520496842834">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="46" />
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/channel/get_channel.py" timestamp="1516346249434">
-        <mark key="[" line="36" column="64" />
-        <mark key="]" line="36" column="63" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="63" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/ios/version_check_handler.py" timestamp="1519798861276">
-        <mark key="[" line="32" column="47" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="31" column="10" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/api/handler.py" timestamp="1516346383209">
-        <mark key="[" line="185" column="1" />
-        <mark key="]" line="185" column="0" />
-        <mark key="^" line="188" column="20" />
-        <mark key="." line="185" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_redis.py" timestamp="1516352173600">
-        <mark key="[" line="394" column="8" />
-        <mark key="]" line="394" column="7" />
-        <mark key="^" line="394" column="7" />
-        <mark key="." line="394" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/oauth/oauth_handlers.py" timestamp="1516331591367">
-        <mark key="[" line="129" column="34" />
-        <mark key="]" line="129" column="33" />
-        <mark key="^" line="129" column="33" />
-        <mark key="." line="129" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/captcha/model_mysql.py" timestamp="1520238676534">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/__init__.py" timestamp="1519368714142">
-        <mark key="[" line="92" column="62" />
-        <mark key="]" line="92" column="61" />
-        <mark key="." line="92" column="61" />
-        <mark key="^" line="92" column="61" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/.env" timestamp="1519438987805">
-        <mark key="[" line="2" column="12" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1520738348402">
         <mark key="[" line="11" column="4" />
@@ -93,24 +21,6 @@
         <mark key="^" line="116" column="26" />
         <mark key="." line="116" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/exceptions/client.py" timestamp="1519694535405">
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="15" column="18" />
-        <mark key="." line="15" column="18" />
-        <mark key="^" line="15" column="18" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/auth/channel.py" timestamp="1517671807645">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/duration/log/model_mysql.py" timestamp="1520238719116">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="30" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="30" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/contract.py" timestamp="1520734170824">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="6" column="0" />
@@ -123,53 +33,11 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/.env" timestamp="1520232687128">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/auth/local_auth.py" timestamp="1517558836326">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/custom-service/apidoc.json" timestamp="1520733608845">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="39" />
-        <mark key="." line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/public.py" timestamp="1520734587591" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/auth/views.py" timestamp="1518502417999">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1520734735453">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/auth/__init__.py" timestamp="1518501457111">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config/prod.py" timestamp="1517197812260">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/auth/ability.py" timestamp="1518071940390">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/phone/contracts.py" timestamp="1520733753312">
         <mark key="[" line="11" column="1" />
@@ -180,186 +48,24 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/controller.py" timestamp="1520736254534">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/base/log.py" timestamp="1517390347977">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/auth/model_mysql.py" timestamp="1520239015296">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/admin/apidoc.json" timestamp="1520733587560">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config/dev.py" timestamp="1517390400793">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/pylintrc" timestamp="1519399249718">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="28" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/exceptions/server.py" timestamp="1519694308214">
-        <mark key="[" line="5" column="21" />
-        <mark key="]" line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/user/login_handler.py" timestamp="1516329223708">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/utils/password/manager.py" timestamp="1517558073382">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="12" column="25" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/up_douban.py" timestamp="1517205694010">
-        <mark key="[" line="14" column="30" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-      </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/dodoo-model-PRO7jTPT/lib/python3.6/site-packages/peewee.py" timestamp="1520584308733" />
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/common/common/rpc/method/user/force_logout.py" timestamp="1516165378167">
-        <mark key="[" line="12" column="52" />
-        <mark key="]" line="12" column="51" />
-        <mark key="^" line="12" column="51" />
-        <mark key="." line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/code.py" timestamp="1519526776419">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/xg/request.py" timestamp="1520145006056">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="13" column="38" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/base/__init__.py" timestamp="1517368946671">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="23" />
-        <mark key="^" line="0" column="23" />
-        <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/exceptions.py" timestamp="1519693639937">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/view/__init__.py" timestamp="1518073141240">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/options.py" timestamp="1520479046868">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/__init__.py" timestamp="1520495702698">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/manager.py" timestamp="1516172585671">
-        <mark key="[" line="40" column="61" />
-        <mark key="]" line="40" column="60" />
-        <mark key="^" line="40" column="60" />
-        <mark key="." line="40" column="60" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/product/model_mysql.py" timestamp="1516806911565">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="24" />
-        <mark key="^" line="1" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/test/base.py" timestamp="1517933777375">
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="35" column="50" />
-        <mark key="." line="35" column="50" />
-        <mark key="^" line="35" column="50" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/token/model_mysql.py" timestamp="1520239056536">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/upload/user_log_handler.py" timestamp="1516347535194">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="185" column="22" />
-        <mark key="." line="185" column="22" />
-        <mark key="^" line="185" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg_tornado/action/application.py" timestamp="1520147760500">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/test/__init__.py" timestamp="1517924821141">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/access_handler.py" timestamp="1520740256915">
+        <mark key="[" line="20" column="52" />
+        <mark key="]" line="20" column="51" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/log.py" timestamp="1520585238480">
         <mark key="[" line="6" column="38" />
         <mark key="]" line="6" column="38" />
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="38" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/channel.py" timestamp="1518073654961">
-        <mark key="[" line="23" column="46" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="23" column="45" />
-        <mark key="." line="23" column="45" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/deploy/deploy.py" timestamp="1519352484228">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="21" />
-        <mark key="." line="5" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/__init__.py" timestamp="1519635127847">
-        <mark key="[" line="149" column="43" />
-        <mark key="]" line="149" column="42" />
-        <mark key="^" line="149" column="42" />
-        <mark key="." line="149" column="42" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/view.py" timestamp="1519636740387">
-        <mark key="[" line="13" column="75" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
-        <mark key="^" line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/main.py" timestamp="1520407064492">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="61" column="3" />
-        <mark key="^" line="61" column="3" />
-        <mark key="." line="61" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/model_mysql.py" timestamp="1520736270730">
         <mark key="[" line="81" column="16" />
@@ -373,65 +79,17 @@
         <mark key="^" line="8" column="10" />
         <mark key="." line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/torcore/__init__.py" timestamp="1517988259522">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/__init__.py" timestamp="1517969671896">
-        <mark key="[" line="15" column="57" />
-        <mark key="]" line="15" column="56" />
-        <mark key="." line="15" column="56" />
-        <mark key="^" line="15" column="56" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/phone/apidoc.json" timestamp="1520733647170">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="26" />
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/api/auth/login.py" timestamp="1518503202931">
-        <mark key="[" line="0" column="27" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/handlers/sync_handlers/user/force_logout.py" timestamp="1516170945800">
-        <mark key="[" line="27" column="96" />
-        <mark key="]" line="27" column="95" />
-        <mark key="." line="27" column="95" />
-        <mark key="^" line="27" column="95" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/xg/core.py" timestamp="1520134916689">
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/model_mysql.py" timestamp="1520738675103">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/model_mysql.py" timestamp="1520739660041">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="16" column="22" />
         <mark key="^" line="16" column="22" />
         <mark key="." line="16" column="22" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/avatar_handler.py" timestamp="1517824130480">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/exceptions/__init__.py" timestamp="1519694502032">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/channel.py" timestamp="1517817140189">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="53" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="7" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/base.py" timestamp="1520496825773">
         <mark key="[" line="35" column="30" />
@@ -439,106 +97,10 @@
         <mark key="." line="35" column="29" />
         <mark key="^" line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/msg_mgr.py" timestamp="1517990390026">
-        <mark key="[" line="65" column="45" />
-        <mark key="]" line="65" column="45" />
-        <mark key="." line="65" column="45" />
-        <mark key="^" line="149" column="81" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/device/__init__.py" timestamp="1518501523330">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/common/common/protocol/handlers.proto" timestamp="1516165347023">
-        <mark key="[" line="346" column="8" />
-        <mark key="]" line="346" column="28" />
-        <mark key="." line="346" column="28" />
-        <mark key="^" line="346" column="28" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/duration/manager.py" timestamp="1520238731494">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/gift/model_mysql.py" timestamp="1520238783325">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/api/channel.py" timestamp="1519711487079">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="10" />
-        <mark key="." line="11" column="10" />
-        <mark key="^" line="11" column="10" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/video/manager.py" timestamp="1520239209103">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/captcha/util.py" timestamp="1520238689495">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/.style.yapf" timestamp="1519376261603">
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/sentry/sentry_handler.py" timestamp="1519780303214">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/gift/manager.py" timestamp="1519984954144">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="18" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="31" column="18" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/application.py" timestamp="1520479593881">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/.env.leave" timestamp="1520232693261">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/base.py" timestamp="1517988775953">
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="15" column="39" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/utils/__init__.py" timestamp="1517558088998">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg_tornado/base.py" timestamp="1520147293410">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/category.py" timestamp="1520732502247">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="13" column="37" />
-        <mark key="^" line="13" column="37" />
-        <mark key="." line="13" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/token.py" timestamp="1520496499951">
         <mark key="[" line="6" column="4" />
@@ -552,24 +114,6 @@
         <mark key="^" line="39" column="18" />
         <mark key="." line="39" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/user/handlers.py" timestamp="1516328834977">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="50" column="53" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/token/model_redis.py" timestamp="1520239108299">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/error/server.py" timestamp="1519634492754">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/app.py" timestamp="1520495573128">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="7" column="4" />
@@ -581,47 +125,11 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/database/table.py" timestamp="1520240110502">
-        <mark key="[" line="242" column="12" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/version.py" timestamp="1520496864806">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/product/controller.py" timestamp="1516807733404">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="98" column="37" />
-        <mark key="^" line="98" column="37" />
-        <mark key="." line="98" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/common/api/handler.py" timestamp="1519388562645">
-        <mark key="[" line="132" column="1" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/device/group.py" timestamp="1517671708563">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="41" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config/test.py" timestamp="1518057644964">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/local_auth.py" timestamp="1517538988360">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="7" column="23" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="7" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/common/core/option.py" timestamp="1520479296606" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/README.md" timestamp="1520495117139">
@@ -630,101 +138,17 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/apidoc.json" timestamp="1520733564393" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/.coveragerc" timestamp="1519440613608">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/__init__.py" timestamp="1517110255081">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="33" />
-        <mark key="^" line="3" column="33" />
-        <mark key="." line="3" column="33" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/password/manager.py" timestamp="1517557699576">
-        <mark key="[" line="11" column="46" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/application.py" timestamp="1520240143129">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/auth/local_auth.py" timestamp="1518079792690">
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/app.py" timestamp="1520413177435">
-        <mark key="[" line="64" column="59" />
-        <mark key="]" line="68" column="14" />
-        <mark key="^" line="68" column="14" />
-        <mark key="." line="68" column="14" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/.env" timestamp="1520478103674">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/tests/base.py" timestamp="1518057921992">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/order/model_mysql.py" timestamp="1520238847500">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/manager.py" timestamp="1520237148459">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/main.py" timestamp="1520329888378">
-        <mark key="[" line="79" column="5" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="79" column="9" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app.py" timestamp="1517214306340">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/common/Makefile" timestamp="1516161140834">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="54" />
-        <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="54" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/user.py" timestamp="1520736653308">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="31" />
         <mark key="." line="13" column="31" />
         <mark key="^" line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/api/exception.py" timestamp="1517281870223">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="31" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="31" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/product/model_mysql.py" timestamp="1520238914470">
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="30" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/wx_pay_tornado/core.py" timestamp="1520478178917" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1520492569323">
@@ -733,80 +157,14 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/tests/api/test_channel.py" timestamp="1518070966328">
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="67" column="46" />
-        <mark key="." line="67" column="46" />
-        <mark key="^" line="67" column="46" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/tests/test_basic.py" timestamp="1519442283320">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg/action/application.py" timestamp="1520151462938">
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/core/option.py" timestamp="1516345876788">
-        <mark key="[" line="45" column="58" />
-        <mark key="]" line="45" column="57" />
-        <mark key="^" line="45" column="57" />
-        <mark key="." line="45" column="57" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/xg/request.py" timestamp="1520134712631">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="11" column="30" />
-        <mark key="." line="11" column="30" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/channel.py" timestamp="1520733678731" />
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_client.py" timestamp="1519887869881">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="36" />
-        <mark key="^" line="4" column="36" />
-        <mark key="." line="4" column="36" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/user/controller.py" timestamp="1520736188181" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/utils.py" timestamp="1519637195111">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/hotel/hotel.py" timestamp="1520495964834">
         <mark key="[" line="2" column="25" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/auth/local_auth.py" timestamp="1520238996712">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/handler/restful.py" timestamp="1520479067476" />
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/user.py" timestamp="1519542508542">
-        <mark key="[" line="28" column="38" />
-        <mark key="]" line="0" column="74" />
-        <mark key="^" line="0" column="74" />
-        <mark key="." line="0" column="74" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/login_handler.py" timestamp="1520239133502">
-        <mark key="[" line="54" column="18" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/push-svr.py" timestamp="1517991765827">
-        <mark key="[" line="48" column="1" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="13" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/core.py" timestamp="1520585252735">
         <mark key="[" line="5" column="31" />
         <mark key="]" line="5" column="30" />
@@ -819,88 +177,16 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/user.py" timestamp="1518073861265">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="4" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/view.py" timestamp="1519825268599">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/captcha/callin/timer.py" timestamp="1520238616134">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" timestamp="1516346771349">
-        <mark key="[" line="550" column="39" />
-        <mark key="]" line="550" column="38" />
-        <mark key="." line="550" column="38" />
-        <mark key="^" line="550" column="38" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/oauth2/__init__.py" timestamp="1518078126932">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="34" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/doc/apidoc/channel.py" timestamp="1519629898724">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/apidoc.json.js" timestamp="1519568547699">
-        <mark key="[" line="2" column="2" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="2" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-rpc-server/proto/weixin.proto" timestamp="1520131229377">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/channel_rest_handler.py" timestamp="1516359808261">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="40" column="81" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/model_mysql.py" timestamp="1520739979412">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="19" column="62" />
+        <mark key="^" line="19" column="62" />
+        <mark key="." line="19" column="62" />
       </file>
       <file name="/Dummy.txt" timestamp="1520734403569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/recharge/manager.py" timestamp="1520238947243">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/grpc/examples/python/route_guide/route_guide_server.py" timestamp="1519821969946">
-        <mark key="[" line="117" column="37" />
-        <mark key="]" line="117" column="37" />
-        <mark key="^" line="117" column="45" />
-        <mark key="." line="117" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/utils/password/__init__.py" timestamp="1517558060822">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="35" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="35" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/base.py" timestamp="1517539561586">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/article.py" timestamp="1520732634766">
         <mark key="[" line="11" column="4" />
@@ -908,72 +194,19 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/PycharmProject/xg-tornado/xg_tornado/action/base.py" timestamp="1520147605014">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/config.py" timestamp="1520235683310">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="11" />
-        <mark key="^" line="3" column="11" />
-        <mark key="." line="3" column="11" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/auth.py" timestamp="1520584756996">
         <mark key="[" line="18" column="9" />
         <mark key="]" line="18" column="8" />
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/test.py" timestamp="1519894033934">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config.py" timestamp="1517187998301">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="13" column="23" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/options.py" timestamp="1520237745423">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/captcha/callin/manager.py" timestamp="1520238596622">
-        <mark key="[" line="154" column="28" />
-        <mark key="]" line="158" column="27" />
-        <mark key="^" line="158" column="26" />
-        <mark key="." line="158" column="27" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/python/grpc/route_guide_pb2.py" timestamp="1519868576266">
-        <mark key="[" line="14" column="1" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/manager.py" timestamp="1520739992495" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1520479906605" />
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/check_handler.py" timestamp="1517109057453">
-        <mark key="[" line="172" column="43" />
-        <mark key="]" line="172" column="42" />
-        <mark key="." line="172" column="42" />
-        <mark key="^" line="172" column="42" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/model_mysql.py" timestamp="1520736898714">
         <mark key="[" line="119" column="7" />
         <mark key="]" line="119" column="6" />
         <mark key="^" line="119" column="6" />
         <mark key="." line="119" column="6" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/lib/xg/message.py" timestamp="1516173521731">
-        <mark key="[" line="52" column="54" />
-        <mark key="]" line="52" column="52" />
-        <mark key="^" line="52" column="52" />
-        <mark key="." line="52" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -1006,34 +239,34 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfYWdlbnQnOiBzZWxmLmdldF9hcmd1bWVudCgndXNlcl9hZ2VudCcsIE5vbmUpLAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfYWdlbnQnOiBzZWxmLmdldF9hcmd1bWVudCgndXNlcl9hZ2VudCcsIE5vbmUpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcHAuY2FwdGNoYS5jYWxsaW4ubWFuYWdlciBpbXBvcnQgTWFuYWdlciBhcyBNb2JpbGVNYW5hZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBhcHAudXNlci5tYW5hZ2VyIGltcG9ydCBDbGllbnRVc2VyTWFuYWdlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTm90U3VwcG9ydEFjY291bnRUeXBlKEV4Y2VwdGlvbik6Cg==</text>
+        <text encoding="base64">ICAgIGV4dGVuc2lvbl9udW1iZXIgPSBGaWVsZChzdHIsICcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBob25lX251bWJlciA9IEZpZWxkKHN0ciwgJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBEdXJhdGlvbk1hbmFnZXIuY3JlYXRlX2RlZmF1bHQodXNlclsnbG9naW5fbmFtZSddKQo=</text>
+        <text encoding="base64">ICAgIGFyZWFfY29kZSA9IEZpZWxkKHN0ciwgJycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgQ2xpZW50VXNlck1hbmFnZXIuY3JlYXRlX2R1cmF0aW9uKHVzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhY2NvdW50X3R5cGUgaW4gKEFjY291bnRUeXBlLk1PQklMRSk6Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>

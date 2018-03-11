@@ -564,10 +564,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520771830608">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520772961853">
+        <mark key="[" line="55" column="42" />
+        <mark key="]" line="54" column="14" />
+        <mark key="." line="54" column="14" />
+        <mark key="^" line="54" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config.py" timestamp="1517187998301">
         <mark key="[" line="12" column="16" />
@@ -1149,8 +1150,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>captcha_db</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">IyBmcm9tIGFwcC51c2VyLmF1dGggaW1wb3J0IExvY2FsQXV0aE1hbmFnZXIK</text>
@@ -1177,7 +1178,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>captcha_db</text>
       </register>
     </registers>
     <search>

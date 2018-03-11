@@ -564,11 +564,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520772961853">
-        <mark key="[" line="55" column="42" />
-        <mark key="]" line="54" column="14" />
-        <mark key="." line="54" column="14" />
-        <mark key="^" line="54" column="14" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520774463111">
+        <mark key="'" line="93" column="8" />
+        <mark key="[" line="84" column="77" />
+        <mark key="]" line="64" column="81" />
+        <mark key="^" line="64" column="81" />
+        <mark key="." line="64" column="81" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config.py" timestamp="1517187998301">
         <mark key="[" line="12" column="16" />
@@ -1142,43 +1143,47 @@
       <jump line="52" column="0" filename="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/dodoo_core/rest/exceptions.py" />
       <jump line="7" column="26" filename="$USER_HOME$/Dropbox/company/project/user-server/app/video/check.py" />
       <jump line="22" column="8" filename="$USER_HOME$/Dropbox/company/project/user-server/app/video/check.py" />
+      <jump line="57" column="25" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" />
+      <jump line="3" column="118" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>captcha_db</text>
+        <text>n</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBmcm9tIGFwcC51c2VyLmF1dGggaW1wb3J0IExvY2FsQXV0aE1hbmFnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShMT0dJTl9GQUlMKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB1aWQgPSB5aWVsZCBMb2NhbEF1dGhNYW5hZ2VyLmF1dGhfY2xpZW50KHVzZXJuYW1lLCBwYXNzd29yZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiJXMgbG9naW4gZmFpbGVkIHdpdGggcGFyYW1zOiVzLCBpcDolcyIsIHNlbGYubmFtZSwgcGFyYW1zLCBzZWxmLmlwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0gJ21vYmlsZS1hbmRyb2lkJwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdWlkOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZF9jYXB0Y2hhID0gbm90IGNhcHRjaGEgb3IgY2FwdGNoYVsnY29kZSddICE9IGNhcHRjaGEgb3Igbm90IGNhcHRjaGFbJ3ZlcmlmeSddIG9yIGNhcHRjaGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0gJ21vYmlsZS1pb3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcyA9PSAnaW9zJzoK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjYXB0Y2hhWycnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>captcha_db</text>
+        <text>n</text>
       </register>
     </registers>
     <search>

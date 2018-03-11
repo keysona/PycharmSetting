@@ -564,11 +564,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520755307074">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="44" />
-        <mark key="." line="4" column="44" />
-        <mark key="^" line="4" column="44" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520771474774">
+        <mark key="[" line="46" column="45" />
+        <mark key="]" line="46" column="43" />
+        <mark key="^" line="46" column="43" />
+        <mark key="." line="46" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config.py" timestamp="1517187998301">
         <mark key="[" line="12" column="16" />
@@ -1056,7 +1056,7 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/validate_handler.py" timestamp="1520763538519">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/validate_handler.py" timestamp="1520770884837">
         <mark key="[" line="45" column="19" />
         <mark key="]" line="45" column="18" />
         <mark key="." line="45" column="18" />
@@ -1148,37 +1148,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSBSZXN1bHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0gJ21vYmlsZS1hbmRyb2lkJwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>captcha.is_expired()</text>
+        <text>password</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB5aWVsZCBhbGFybV9lcnJvcigibXlzcWxfZXJyb3IsIG1ldCBhIHVua25vd24gZXhjZXB0aW9uIiwgIuaVsOaNruW6k+W8guW4uCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uYWxhcm1fY2xpZW50LmFsYXJtX3NlcnZpY2UgaW1wb3J0IGFsYXJtX2Vycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0gJ21vYmlsZS1pb3MnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJzb3IgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcyA9PSAnaW9zJzoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVzZXJfYWdlbnQgPSBGaWVsZChzdHIpICAjIHBob25lIHwgbW9iaWxlIHwgd2ViKGJyb3dzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsaWYgdXNlcl9hZ2VudCA9PSAnbW9iaWxlJzoK</text>
+        <text encoding="base64">ICAgICAgICBvcyA9IHBhcmFtcy5nZXQoJ29zJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW50KChkYXRldGltZS5ub3coKSArIHZlcmlmeV9jb2RlX2V4cGlyZV9pbnRlcnZhbCkudGltZXN0YW1wKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB4Z19kZXZpY2VfdG9rZW4gPSBwYXJhbXMuZ2V0KCd4Z19kZXZpY2VfdG9rZW4nKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIHVzZXJfYWdlbnQgPT0gJ3Bob25lJzoK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBpZiBsb2dpbl90eXBlID09ICdwaG9uZSc6CiAgICAgICAgICAgIHlpZWxkIHNlbGYuaGFuZGxlX3Bob25lX2xvZ2luKCkKICAgICAgICAgICAgcmV0dXJu</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJfYWdlbnQnOiAncGhvbmUnCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgaGFuZGxlX3Bob25lX2xvZ2luKHNlbGYpOgogICAgICAgIHBhcmFtcyA9IHNlbGYucGFyYW1zCiAgICAgICAgaXAgPSBzZWxmLnJlcXVlc3QucmVtb3RlX2lwCgogICAgICAgIGlkZW50aXR5ID0gcGFyYW1zLmdldCgiaWRlbnRpdHkiLCB7fSkKICAgICAgICB1c2VybmFtZSA9IHBhcmFtcy5nZXQoJ3VzZXJuYW1lJykKICAgICAgICBwYXNzd29yZCA9IHBhcmFtcy5nZXQoJ3Bhc3N3b3JkJykKICAgICAgICB4Z19kZXZpY2VfdG9rZW4gPSBwYXJhbXMuZ2V0KCd4Z19kZXZpY2VfdG9rZW4nKQoKICAgICAgICBpZiBub3QgdXNlcm5hbWUgb3Igbm90IHBhc3N3b3JkIG9yIG5vdCBpZGVudGl0eS5nZXQoJ3NuJykgb3Igbm90IGlkZW50aXR5LmdldCgnYW5kcm9pZF9pZCcpOgogICAgICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCIlcyBsb2dpbiBmYWlsZWQgd2l0aCBwYXJhbXM6JXMsIGlwOiVzIiwgc2VsZi5uYW1lLCBwYXJhbXMsIGlwKQogICAgICAgICAgICBzZWxmLnJlc3BvbnNlKFBBUkFNU19JTlZBTElEKQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgIyB1aWQgPSB5aWVsZCBMb2NhbEF1dGhNYW5hZ2VyLmF1dGhfY2xpZW50KHVzZXJuYW1lLCBwYXNzd29yZCkKCiAgICAgICAgaWYgbm90IHVpZDoKICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiJXMgbG9naW4gZmFpbGVkIHdpdGggcGFyYW1zOiVzLCBpcDolcyIsIHNlbGYubmFtZSwgcGFyYW1zLCBpcCkKICAgICAgICAgICAgc2VsZi5yZXNwb25zZShMT0dJTl9GQUlMKQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgIyB1c2VyID0geWllbGQgQ2xpZW50VXNlck1hbmFnZXIuZ2V0X3VzZXIodWlkPXVpZCkKCiAgICAgICAgaWYgbm90IHVzZXI6CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmluZm8oIm5vIGZvdW5kIHRoaXMgdXNlciwgYnV0IGhhcyBsb2NhbCBhdXRoISEgdWlkOiAlcywgdXNlcm5hbWU6ICVzLCBpcDogJXMsIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ4Z19kZXZpY2VfdG9rZW46ICVzIiwgdWlkLCB1c2VybmFtZSwgaXAsIHhnX2RldmljZV90b2tlbikKICAgICAgICAgICAgc2VsZi5yZXNwb25zZShOT19USElTX1VTRVIpCiAgICAgICAgICAgIHJldHVybgoKICAgICAgICB0b2tlbiA9IFRva2VuTWFuYWdlci5nZW5fdG9rZW4oKQoKICAgICAgICBpZiBub3QgdG9rZW46CiAgICAgICAgICAgIHNlbGYubG9nZ2VyLmluZm8oImdlbiB0b2tlbiBmYWlsISEiKQogICAgICAgICAgICBzZWxmLnJlc3BvbnNlKFNFUlZFUl9FUlJPUikKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgICMgeWllbGQgVG9rZW5NYW5hZ2VyLnNhdmVfY2xpZW50KHVpZCwgdG9rZW4sIHNlbGYuaXAsIHhnX2RldmljZV90b2tlbj14Z19kZXZpY2VfdG9rZW4pCgogICAgICAgICMgcmVzdWx0ID0geWllbGQgQ2xpZW50VXNlck1hbmFnZXIudXBkYXRlX2xvZ2luX2luZm8odWlkLCB0b2tlbiwgc2VsZi5pcCwgaWRlbnRpdHksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4Z19kZXZpY2VfdG9rZW49eGdfZGV2aWNlX3Rva2VuLCBkZXZpY2U9J3Bob25lJykKCiAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygiJXMgdXBkYXRlX2xvZ2luX2luZm8sIGlkZW50aXR5OiAlcywgaXA6ICVzLCByZXN1bHQ6ICVzIiwKICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYubmFtZSwgaWRlbnRpdHksIGlwLCByZXN1bHQpCgogICAgICAgIHNlbGYucmVzcG9uc2Uoeyd0b2tlbic6IHRva2VufSkKCiAgICAgICAgeWllbGQgc2VsZi5oYW5kbGVfZm9yY2VfbG9nb3V0KHVzZXIsIGlkZW50aXR5LCB4Z19kZXZpY2VfdG9rZW4p</text>
       </register>
       <register name="-" type="4">
-        <text>captcha.is_expired()</text>
+        <text>password</text>
       </register>
     </registers>
     <search>

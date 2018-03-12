@@ -15,6 +15,7 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/controller.py" timestamp="1520846952052" />
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/models_mysql.py" timestamp="1520841197211">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="40" />
@@ -128,11 +129,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/user-server/user-svr.py" timestamp="1520839587348">
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/group/models_redis.py" timestamp="1520840837156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -210,6 +206,7 @@
         <mark key="^" line="176" column="103" />
         <mark key="." line="176" column="103" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/distribute/handlers.py" timestamp="1520846910743" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/common/rpc/manager.py" timestamp="1516172585671">
         <mark key="[" line="40" column="61" />
         <mark key="]" line="40" column="60" />
@@ -660,11 +657,6 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/local_auth.py" timestamp="1520755313986">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/version/model_mysql.py" timestamp="1520840923580">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="33" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/check_handler.py" timestamp="1520842820465">

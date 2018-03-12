@@ -9,6 +9,7 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/handler/restful.py" timestamp="1520858813324" />
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/distribute.py" timestamp="1520496842834">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="46" />
@@ -301,7 +302,7 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1520858037282">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1520858802596">
         <mark key="[" line="126" column="1" />
         <mark key="]" line="126" column="0" />
         <mark key="^" line="24" column="21" />
@@ -487,7 +488,7 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1520760151311">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1520858862325">
         <mark key="[" line="53" column="53" />
         <mark key="]" line="54" column="52" />
         <mark key="." line="54" column="52" />
@@ -720,6 +721,7 @@
         <mark key="^" line="40" column="107" />
         <mark key="." line="40" column="107" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/handler/base.py" timestamp="1520858816045" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/.env" timestamp="1520232687128">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -728,11 +730,11 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/public.py" timestamp="1520734587591" />
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/raven/contrib/tornado/__init__.py" timestamp="1520758154207" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520856052756">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="21" />
-        <mark key="^" line="19" column="21" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520858933428">
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config/prod.py" timestamp="1517197812260">
         <mark key="[" line="9" column="30" />
@@ -1274,13 +1276,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJIb3RlbENvbnRyb2xsZXIuY3JlYXRlIGluc2VydCBhIG5ldyBob3RlbF9kZXZpY2UsIHNuOiAlcyIsIGRldmljZVsnc24nXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZmF1bHRfcGFyYW1zID0ge30K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRfcGFyYW1zID0ge30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1289,22 +1291,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAudXRpbHMgaW1wb3J0IGNoZWNrX3BhcmFtc19lbXB0eSwgU1VDQ0VTUwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBhcHAudXRpbHMgaW1wb3J0IGNoZWNrX3BhcmFtc19lbXB0eSwgU1VDQ0VTUwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBARGF0ZTogMjAxOC0wMy0xMiAxMDowMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBAQXV0aG9yOiBLZXlzb25hIDxrZXlweXRob25AZ21haWwuY29tPgo=</text>
+        <text encoding="base64">IyBARGF0ZTogMjAxOC0wMy0xMiAxMDowMQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
+        <text encoding="base64">IyBAQXV0aG9yOiBLZXlzb25hIDxrZXlweXRob25AZ21haWwuY29tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>default_request_json = {}</text>
       </register>
     </registers>
     <search>

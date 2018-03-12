@@ -738,12 +738,12 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/public.py" timestamp="1520734587591" />
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/raven/contrib/tornado/__init__.py" timestamp="1520758154207" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520861315181">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520861905224">
         <mark key="'" line="6" column="22" />
         <mark key="[" line="37" column="12" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="17" />
-        <mark key="^" line="41" column="17" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config/prod.py" timestamp="1517197812260">
         <mark key="[" line="9" column="30" />

@@ -597,11 +597,11 @@
         <mark key="." line="22" column="22" />
         <mark key="^" line="22" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/controller.py" timestamp="1520820155544">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="46" />
-        <mark key="^" line="12" column="46" />
-        <mark key="." line="12" column="46" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/controller.py" timestamp="1520826163165">
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="22" />
+        <mark key="^" line="58" column="22" />
+        <mark key="." line="58" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/captcha/manager.py" timestamp="1520238644959">
         <mark key="[" line="114" column="12" />
@@ -980,7 +980,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/model_mysql.py" timestamp="1520820147453">
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/model_mysql.py" timestamp="1520825859052">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
@@ -997,6 +997,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/manager.py" timestamp="1520826028738">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/login_handler.py" timestamp="1520239133502">
         <mark key="[" line="54" column="18" />
@@ -1134,37 +1140,37 @@
         <text encoding="base64">ICAgIGNsaWNrLmVjaG8oImluaXQgZGF0YWJhc2UsIGRiOiB7fSwgbW9kZWxzOiB7fSIuZm9ybWF0KGRiLCBtb2RlbHMpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBmcm9tIGNvbW1vbi5jb3JlLmRhdGFiYXNlLnRhYmxlIGltcG9ydCBUYWJsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>handled</text>
+        <text>feedback_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5kYXRhYmFzZS50YWJsZSBpbXBvcnQgVGFibGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJGZWVkYmFja0NvbnRyb2xsZXIuY3JlYXRlIGNyZWF0ZSBmYWlsZWQhIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZmVlZGJhY2s6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVsncHJvdmluY2UnXSA9IHByb3ZpbmNlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIHByb3ZpbmNlOgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmZWVkYmFjayA9IHlpZWxkIEZlZWRiYWNrTWFuYWdlci5jcmVhdGUoZmVlZGJhY2tfaW5mbykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVsnY291bnRyeSddID0gY291bnRyeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIGNvdW50cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3RyaWN0ID0gRmllbGQoc3RyLCAiIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG90ZWwK</text>
       </register>
       <register name="-" type="4">
-        <text>handled</text>
+        <text>feedback_id</text>
       </register>
     </registers>
     <search>

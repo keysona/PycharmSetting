@@ -604,6 +604,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/group/manager.py" timestamp="1520845102297" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/recharge/manager.py" timestamp="1520238947243">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="3" column="0" />
@@ -1024,11 +1025,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="1" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/device/controller.py" timestamp="1520844349228">
-        <mark key="[" line="35" column="120" />
-        <mark key="]" line="35" column="118" />
-        <mark key="." line="35" column="118" />
-        <mark key="^" line="35" column="118" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/device/controller.py" timestamp="1520845352398">
+        <mark key="[" line="43" column="66" />
+        <mark key="]" line="43" column="63" />
+        <mark key="." line="43" column="63" />
+        <mark key="^" line="43" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/torcore/database/table.py" timestamp="1520240110502">
         <mark key="[" line="242" column="12" />
@@ -1090,11 +1091,11 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/device/model_mysql.py" timestamp="1520843198314">
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/device/model_mysql.py" timestamp="1520845129040">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/order/model_mysql.py" timestamp="1520841137364">
         <mark key="[" line="1" column="1" />
@@ -1324,7 +1325,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>get</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByYWlzZSBFeGNlcHRpb25kCg==</text>
@@ -1351,7 +1352,7 @@
         <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5kYXRhYmFzZSBpbXBvcnQgVGFibGUsIEZpZWxkCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>get</text>
       </register>
     </registers>
     <search>

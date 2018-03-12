@@ -310,11 +310,11 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1520858802596">
-        <mark key="[" line="126" column="1" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="24" column="21" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1520870453886">
+        <mark key="[" line="66" column="1" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/msg_mgr.py" timestamp="1517990390026">
         <mark key="[" line="65" column="45" />
@@ -611,6 +611,7 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/base.py" timestamp="1520870560498" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/model_mysql.py" timestamp="1520753623282">
         <mark key="[" line="119" column="7" />
         <mark key="]" line="119" column="6" />
@@ -710,13 +711,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/public.py" timestamp="1520734587591" />
-      <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/raven/contrib/tornado/__init__.py" timestamp="1520758154207" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520869648583">
+      <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/raven/contrib/tornado/__init__.py" timestamp="1520870100536" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520869953133">
         <mark key="'" line="8" column="22" />
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="32" />
-        <mark key="." line="55" column="32" />
-        <mark key="^" line="55" column="32" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="17" />
+        <mark key="^" line="53" column="17" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/config/prod.py" timestamp="1517197812260">
         <mark key="[" line="9" column="30" />
@@ -1250,34 +1251,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJIb3RlbENvbnRyb2xsZXIuY3JlYXRlIGluc2VydCBhIG5ldyBob3RlbF9kZXZpY2UsIHNuOiAlcyIsIGRldmljZVsnc24nXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmpzb24gPSB7fQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmpzb24gPSB7fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm9hdXRoID0ge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHJldCwgKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlkZW50aXR5ID0ge30K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSBzZWxmLmF1dGgoKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGRlZiBnZW5fcnNwX2pzb24oc2VsZiwgcmV0X2NvZGUsIG1zZz1Ob25lLCBib2R5PU5vbmUpOgogICAgICAgICIiIgogICAgICAgIHdyaXRlIGpzb24gdG8gcmVzcG9uc2UgZGF0YQogICAgICAgIDpwYXJhbSByZXRfY29kZTogCiAgICAgICAgOnBhcmFtIG1zZzogCiAgICAgICAgOnBhcmFtIGJvZHk6IAogICAgICAgIDpyZXR1cm46IAogICAgICAgICIiIgogICAgICAgIHJlc3AgPSBjb3B5LmRlZXBjb3B5KHNlbGYuZGVmYXVsdF9yc3BfanNvbikKICAgICAgICByZXNwWydjb2RlJ10gPSByZXRfY29kZQogICAgICAgIGlmIG1zZzoKICAgICAgICAgICAgcmVzcFsnaGVhZGVyJ11bJ21lc3NhZ2UnXSA9IG1zZwoKICAgICAgICBpZiBib2R5IGlzIG5vdCBOb25lOgogICAgICAgICAgICBqc29uWydib2R5J10gPSBib2R5CiAgICAgICAgcmV0dXJuIGpzb24=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGRlZiBfcmVzcG9uc2Uoc2VsZiwgbWV0aG9kLCByZXRfY29kZSwgZGF0YSk6CgogICAgICAgIHNlbGYuc2V0X2hlYWRlcigiQWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2luIiwgIioiKQogICAgICAgIHNlbGYuc2V0X2hlYWRlcignQWNjZXNzLUNvbnRyb2wtQWxsb3ctSGVhZGVycycsICdPcmlnaW4sIFgtUmVxdWVzdGVkLVdpdGgsIENvbnRlbnQtVHlwZSwgQWNjZXB0JykKCiAgICAgICAgaWYgcmV0X2NvZGUgPT0gMDoKICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShkYXRhLCBsaXN0KToKICAgICAgICAgICAgICAgIHNlbGYubG9nZ2VyLmluZm8oIm1ldGhvZFslc10gc3VjY2VzcywgZGF0YSBzaXplOiAlcyIsIG1ldGhvZCwgbGVuKGRhdGEpKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygibWV0aG9kWyVzXSBzdWNjZXNzLCBkYXRhOiAlcyIsIG1ldGhvZCwgZGF0YSkKICAgICAgICAgICAgcmVzcG9uc2VfanNvbiA9IHNlbGYuZ2VuX3JzcF9qc29uKDAsICdvaycsIGRhdGEpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2VsZi5sb2dnZXIuaW5mbygibWV0aG9kWyVzXSBmYWlsZWQsIGNvZGU6JXMsIG1lc3NhZ2U6JXMiLCBtZXRob2QsIHJldF9jb2RlLCBkYXRhKQogICAgICAgICAgICByZXNwb25zZV9qc29uID0gc2VsZi5nZW5fcnNwX2pzb24ocmV0X2NvZGUsIG1zZz1kYXRhKQoKICAgICAgICBzZWxmLnNldF9oZWFkZXIoJ0NvbnRlbnQtVHlwZScsICdhcHBsaWNhdGlvbi9qc29uJykKICAgICAgICBzZWxmLndyaXRlKHJlc3BvbnNlX2pzb24pCgogICAgICAgIHNlbGYuZmluaXNoKCkgICMgZm9yIGFzeW5jIGhhbmRsZXI=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIGRlZiBpc19zZXJ2ZXJfYnVzeShzZWxmKToKICAgICAgICBjb25jdXJyZW50X2NvdW50ID0gc2VsZi5nZXRfcG9vbF9zaXplKCkKICAgICAgICBpZiBjb25jdXJyZW50X2NvdW50ID4gb3B0aW9ucy5tYXhfY29uY3VycmVudF9jb3VudDoKICAgICAgICAgICAgc2VsZi5sb2dnZXIud2FybmluZygiY29uY3VycmVudF9jb3VudFslc10gaXMgb3ZlciBtYXhbJXNdLCBwYXJhbXM6JXMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbmN1cnJlbnRfY291bnQsIG9wdGlvbnMubWF4X2NvbmN1cnJlbnRfY291bnQsIHNlbGYucGFyYW1zKQoKICAgICAgICAgICAgc2VsZi53cml0ZV9qc29uKGVycm9yPXsKICAgICAgICAgICAgICAgICdjb2RlJzogMTAwMCwKICAgICAgICAgICAgICAgICdtZXNzYWdlJzogJ1NlcnZlckJ1c3knLAogICAgICAgICAgICAgICAgJ2Vycm9ycyc6IFt7CiAgICAgICAgICAgICAgICAgICAgJ2RvbWFpbic6ICdTZXJ2ZXInLAogICAgICAgICAgICAgICAgICAgICdtZXNzYWdlJzogJ3NlcnZlciBpcyBidXN5LCAgdHJ5IGxhdGVyJywKICAgICAgICAgICAgICAgICAgICAncmVhc29uJzogJ1NlcnZlckJ1c3knLAogICAgICAgICAgICAgICAgICAgICdkYXRhJzogTm9uZQogICAgICAgICAgICAgICAgfV0KICAgICAgICAgICAgfSkKICAgICAgICAgICAgcmV0dXJuIFRydWUKICAgICAgICByZXR1cm4gRmFsc2U=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNvZGUgPSBzZWxmLmNvZGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBzZWxmLmFsYXJtX2Vycm9yKG1ldGhvZCwgcmV0X2NvZGUsIGRhdGEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uYWxhcm1fY2xpZW50LmFsYXJtX3NlcnZpY2UgaW1wb3J0IGFsYXJtX2Vycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>

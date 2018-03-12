@@ -466,11 +466,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/handler.py" timestamp="1520827527941">
-        <mark key="[" line="87" column="30" />
-        <mark key="]" line="87" column="36" />
-        <mark key="^" line="87" column="36" />
-        <mark key="." line="87" column="36" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/handler.py" timestamp="1520830851835">
+        <mark key="[" line="97" column="28" />
+        <mark key="]" line="97" column="27" />
+        <mark key="^" line="97" column="27" />
+        <mark key="." line="97" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/user/user.py" timestamp="1519542508542">
         <mark key="[" line="28" column="38" />
@@ -1149,34 +1149,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>use_status</text>
+        <text>e</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZSgiRGlzdHJpYnV0ZUFueUhhbmRsZXIuY3JlYXRlIiwgNDAzLCBzdHIoZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zZXRfc3RhdHVzKDQwMywgJ3V1aWRfc2V0IG1pc3Npbmcvd3JvbmcgdHlwZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInVua25vd24gZXJyb3IhICVzIiwgc3RyKGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiB1dWlkX2xpc3QgaXMgTm9uZSBvciBub3QgaXNpbnN0YW5jZSh1dWlkX2xpc3QsIGxpc3QpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGU6Cg==</text>
+        <text encoding="base64">ICAgICAgICB1dWlkX2xpc3QgPSBwYXJhbXMuZ2V0KCdkYXRhJywgTm9uZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZSgiRGlzdHJpYnV0ZUFueUhhbmRsZXIuY3JlYXRlIiwgNDAzLCAidXVpZCBmb3JtYXQgZXJyb3IhIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInV1aWQgZm9ybWF0IGVycm9yISIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZSgiRGlzdHJpYnV0ZUFueUhhbmRsZXIudXBkYXRlIiwgNDAzLCBzdHIoZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsdWVFcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInVua25vd24gZXJyb3IhICVzIiwgc3RyKGUpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>use_status</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

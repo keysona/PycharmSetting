@@ -92,11 +92,11 @@
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/tornado/web.py" timestamp="1520903625266">
         <mark key="[" line="2207" column="57" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1520905344831">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1520906255937">
+        <mark key="[" line="99" column="53" />
+        <mark key="]" line="99" column="52" />
+        <mark key="." line="99" column="52" />
+        <mark key="^" line="99" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/oauth2/token.py" timestamp="1520496499951">
         <mark key="[" line="6" column="4" />
@@ -158,13 +158,6 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/group/manager.py" timestamp="1520845102297" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1520782006763">
-        <mark key="'" line="93" column="8" />
-        <mark key="[" line="84" column="25" />
-        <mark key="]" line="84" column="24" />
-        <mark key="^" line="84" column="24" />
-        <mark key="." line="84" column="24" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/manager.py" timestamp="1520762320639">
         <mark key="[" line="21" column="1" />
         <mark key="]" line="21" column="0" />
@@ -200,12 +193,11 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/handler/base.py" timestamp="1520858816045" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/public.py" timestamp="1520734587591" />
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/raven/contrib/tornado/__init__.py" timestamp="1520870100536" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520904941581">
-        <mark key="'" line="10" column="22" />
-        <mark key="[" line="81" column="36" />
-        <mark key="]" line="81" column="35" />
-        <mark key="." line="81" column="35" />
-        <mark key="^" line="81" column="35" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520906229687">
+        <mark key="[" line="114" column="64" />
+        <mark key="]" line="114" column="63" />
+        <mark key="." line="114" column="63" />
+        <mark key="^" line="114" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/utils.py" timestamp="1520871725074">
         <mark key="[" line="110" column="26" />
@@ -395,43 +387,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" />
       <jump line="98" column="8" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" />
       <jump line="5" column="22" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" />
+      <jump line="84" column="19" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpLyhQPGFwaV92ZXJzaW9uPnZbXGRdezEsMn0pL3Rlc3QnLCBUZXN0SGFuZGxlcikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFwaV92ZXJzaW9uID0ga3dhcmdzLnBvcCgiYXBpX3ZlcnNpb24iLCAidjEiKQogICAgICAgIHJlc291cmNlX2lkID0ga3dhcmdzLnBvcCgicmVzb3VyY2UiLCAiIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHRyYWNlYmFjawo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAgaW1wb3J0IGVycm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc3lzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigic3RhdHVzX2NvZGU6ICVzIiwgc3RhdHVzX2NvZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoImV4Y19pbmZvOiAlcyIsIHN5cy5leGNfaW5mbygpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmNhcHR1cmVFeGNlcHRpb24oZXhjX2luZm89VHJ1ZSkgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>True</text>
       </register>
     </registers>
     <search>

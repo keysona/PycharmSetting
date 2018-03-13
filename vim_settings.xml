@@ -138,17 +138,22 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/user-server/user-svr.py" timestamp="1520839587348">
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/admin/apidoc.json" timestamp="1520733587560">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="3" column="30" />
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/room/controller.py" timestamp="1520948030509">
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="24" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/room/controller.py" timestamp="1520948662130">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="110" column="30" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1520753123919">
         <mark key="[" line="12" column="42" />
@@ -622,7 +627,17 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/controller/base.py" timestamp="1520870560498" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/version/model_mysql.py" timestamp="1520840923580">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/device/controller.py" timestamp="1520934749558" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/room/handler.py" timestamp="1520948695726">
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/user/model_mysql.py" timestamp="1520753623282">
         <mark key="[" line="119" column="7" />
         <mark key="]" line="119" column="6" />
@@ -747,7 +762,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/utils.py" timestamp="1520871725074">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/utils.py" timestamp="1520948597163">
         <mark key="[" line="110" column="26" />
         <mark key="]" line="84" column="40" />
         <mark key="." line="84" column="40" />
@@ -777,7 +792,7 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1520947492048">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1520948592244">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="24" column="20" />
         <mark key="." line="24" column="20" />
@@ -1296,41 +1311,37 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmFwaV92ZXJzaW9uID0ga3dhcmdzLnBvcCgiYXBpX3ZlcnNpb24iLCAidjEiKQogICAgICAgIHJlc291cmNlX2lkID0ga3dhcmdzLnBvcCgicmVzb3VyY2UiLCAiIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0KFNVQ0NFU1MsIGRldmljZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0KFNVQ0NFU1MsIGhvdGVsX2RldmljZSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>devices</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0KFNVQ0NFU1MsIGhvdGVsX2RldmljZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3VsdChFUlJPUl9EQl9OT19FWElTVCwgIm5vIGV4aXN0cyEhIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uZGV2aWNlbWdyLm1vZGVsc19yZWRpcyBpbXBvcnQgZ2V0X2RldmljZV9pbmZvX2J5X3V1aWRzX3N5bmMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEVSUk9SX0RCX0lOU0VSVF9GQUlMLCBTVUNDRVNTCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0KFNVQ0NFU1MsICJ1cGRhdGUgaGFuZGxlZCBzdWNjZXNzISIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAudXRpbHMgaW1wb3J0IFJlc3VsdCwgRVJST1JfREJfTk9USElOR19DSEFOR0UsIEVSUk9SX0RCX05PX0VYSVNULCBFUlJPUl9EQl9TQU1FX1JFQ09SRCwgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZGV2aWNlLmdyb3VwLm1hbmFnZXIgaW1wb3J0IERldmljZUdyb3VwTWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>def get_devices_by_uuid_list(uuid_list):
-    device_info_list = get_device_info_by_uuids_sync(uuid_list, [&quot;sn&quot;, &quot;android_id&quot;, &quot;device_uuid&quot;])
-    data = [{'sn': device[0], 'android_id': device[1], 'device_uuid': device[2]}
-            for device in device_info_list if len(device) == 3]
-    return data</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3VsdChTVUNDRVNTLCAiZGVsZXRlIHN1Y2Nlc3MiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0geWllbGQgZ2V0X2hvdGVsX2RldmljZShkZXZpY2VfdXVpZD1kZXZpY2VfdXVpZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3VsdChFUlJPUl9EQl9OT19FWElTVCwgIm5vIGV4aXN0cyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGRldmljZV91dWlkOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzdWx0KFNVQ0NFU1MpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>devices</text>
+        <text>hotel_device</text>
       </register>
     </registers>
     <search>

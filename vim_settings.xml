@@ -14,6 +14,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/mc.py" timestamp="1521044884036">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="10" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/distribute.py" timestamp="1520496842834">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="13" column="46" />
@@ -531,37 +537,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9yb29tJywgSG90ZWxSb29tT25lSGFuZGxlciksCiAgICAgICAgKHInL2FwaS8oP1A8YXBpX3ZlcnNpb24+dltcZF17MSwyfSkvYWRtaW4vaG90ZWwvcm9vbS8oP1A8aWQ+W1xkXXsxLDZ9KScsIEhvdGVsUm9vbUFueUhhbmRsZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZF9pbmZvWydwYXNzd29yZCddID0gcGFzc3dvcmQK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>password</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5rcy5hZGQobGluaykK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cHJpbnQoci5odG1sLmFic29sdXRlX2xpbmtzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoci5odG1sLmxpbmtzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ci5odG1sLmJhc2VfdXJsID0gJ2h0dHA6Ly93d3cuNGdhbWVyLm5ldC8nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">cHJpbnQoZGlyKHIuaHRtbCkpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkID0gRmllbGQoc3RyKQo=</text>
+        <text encoding="base64">cHJpbnQoZGlyKHIpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>link.startwiths('')</text>
       </register>
     </registers>
     <search>

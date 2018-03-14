@@ -433,6 +433,12 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/__init__.py" timestamp="1521016485329">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/ad/model_mysql.py" timestamp="1521020535559">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/article.py" timestamp="1520732634766">
         <mark key="[" line="11" column="4" />
         <mark key="]" line="11" column="3" />
@@ -511,37 +517,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9yb29tJywgSG90ZWxSb29tT25lSGFuZGxlciksCiAgICAgICAgKHInL2FwaS8oP1A8YXBpX3ZlcnNpb24+dltcZF17MSwyfSkvYWRtaW4vaG90ZWwvcm9vbS8oP1A8aWQ+W1xkXXsxLDZ9KScsIEhvdGVsUm9vbUFueUhhbmRsZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gRmllbGQoc3RyKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>category_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gRmllbGQoc3RyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRdHlwZeWPguaVsCEiKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgdHlwZToK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sndHlwZSddCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRdHlwZeWPguaVsCEiKSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgdHlwZToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sndHlwZSddCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lmaVtdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnOiB0eXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lmaVtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lmaSA9IHlpZWxkIGdldF93aWZpKHdpZmlfaWQ9Y2F0ZWdvcnlfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUnOiB0eXBlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>category_id</text>
+        <text>wifi</text>
       </register>
     </registers>
     <search>

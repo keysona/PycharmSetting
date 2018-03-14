@@ -9,11 +9,11 @@
         <mark key="^" line="75" column="63" />
         <mark key="." line="75" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/model_mysql.py" timestamp="1520999291602">
-        <mark key="[" line="18" column="4" />
-        <mark key="]" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/model_mysql.py" timestamp="1521002233826">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+        <mark key="." line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-admin/app/model/version/distribute.py" timestamp="1520496842834">
         <mark key="[" line="12" column="47" />
@@ -65,11 +65,11 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1520999611078">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-        <mark key="^" line="20" column="15" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521002023075">
+        <mark key="[" line="50" column="108" />
+        <mark key="]" line="50" column="107" />
+        <mark key="." line="50" column="107" />
+        <mark key="^" line="50" column="107" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1520996169245">
         <mark key="[" line="55" column="21" />
@@ -589,37 +589,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9yb29tJywgSG90ZWxSb29tT25lSGFuZGxlciksCiAgICAgICAgKHInL2FwaS8oP1A8YXBpX3ZlcnNpb24+dltcZF17MSwyfSkvYWRtaW4vaG90ZWwvcm9vbS8oP1A8aWQ+W1xkXXsxLDZ9KScsIEhvdGVsUm9vbUFueUhhbmRsZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIG5hbWUgPSBGaWVsZChzdHIpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>HotelRoomAnyHandler</text>
+        <text>image</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeT1jYXRlZ29yeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeSA9IHBhcmFtc1snY2F0ZWdvcnknXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaG9uZV9udW1iZXIgPSBwYXJhbXNbJ3Bob25lX251bWJlciddCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAnY2F0ZWdvcnknOiBOb25lLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncGhvbmVfbnVtYmVyJzogTm9uZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXRlZ29yeT1jYXRlZ29yeSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjYXRlZ29yeSA9IHBhcmFtc1snY2F0ZWdvcnknXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdmF0YXJfdXJsID0gcGFyYW1zWydhdmF0YXJfdXJsJ10K</text>
+        <text encoding="base64">ICAgICAgICBwaG9uZV9udW1iZXIgPSBwYXJhbXNbJ3Bob25lX251bWJlciddCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nOiBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAnY2F0ZWdvcnknOiBOb25lLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>HotelRoomAnyHandler</text>
+        <text>image</text>
       </register>
     </registers>
     <search>

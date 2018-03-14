@@ -437,11 +437,11 @@
         <mark key="." line="55" column="18" />
         <mark key="^" line="55" column="18" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/ad/controller.py" timestamp="1521026060111">
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="16" />
-        <mark key="." line="48" column="16" />
-        <mark key="^" line="48" column="16" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/ad/controller.py" timestamp="1521042326844">
+        <mark key="[" line="35" column="69" />
+        <mark key="]" line="35" column="105" />
+        <mark key="." line="35" column="105" />
+        <mark key="^" line="35" column="105" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/__init__.py" timestamp="1521016485329">
         <mark key="[" line="3" column="0" />
@@ -533,8 +533,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhZF9pbmZvWydwYXNzd29yZCddID0gcGFzc3dvcmQK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhZF9pbmZvWydwYXNzd29yZCddID0gcGFzc3dvcmQK</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -561,7 +561,7 @@
         <text encoding="base64">ICAgIHBhc3N3b3JkID0gRmllbGQoc3RyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>wifi_info</text>
+        <text>password</text>
       </register>
     </registers>
     <search>

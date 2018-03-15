@@ -98,20 +98,20 @@
         <mark key="." line="39" column="20" />
         <mark key="^" line="39" column="20" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1521118901479">
-        <mark key="[" line="115" column="1" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="115" column="29" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1521120866788">
+        <mark key="[" line="141" column="45" />
+        <mark key="]" line="141" column="44" />
+        <mark key="." line="141" column="44" />
+        <mark key="^" line="141" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/contracts/__init__.py" timestamp="1520854654943">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/handler.py" timestamp="1521119415236">
-        <mark key="[" line="83" column="55" />
-        <mark key="]" line="83" column="54" />
-        <mark key="^" line="83" column="104" />
-        <mark key="." line="83" column="54" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/handler.py" timestamp="1521121571560">
+        <mark key="[" line="85" column="80" />
+        <mark key="]" line="85" column="79" />
+        <mark key="^" line="85" column="79" />
+        <mark key="." line="85" column="79" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/phone/contracts.py" timestamp="1520733753312">
         <mark key="[" line="11" column="1" />
@@ -142,11 +142,11 @@
         <mark key="^" line="27" column="37" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/controller.py" timestamp="1521119445802">
-        <mark key="[" line="46" column="9" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
-        <mark key="^" line="46" column="8" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/controller.py" timestamp="1521121060942">
+        <mark key="[" line="90" column="45" />
+        <mark key="]" line="90" column="44" />
+        <mark key="." line="90" column="44" />
+        <mark key="^" line="90" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/group/models_redis.py" timestamp="1520840837156">
         <mark key="[" line="0" column="0" />
@@ -309,11 +309,10 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="51" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/table.py" timestamp="1520841475952">
-        <mark key="[" line="29" column="14" />
-        <mark key="]" line="29" column="13" />
-        <mark key="." line="29" column="13" />
-        <mark key="^" line="29" column="13" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/table.py" timestamp="1521121038763">
+        <mark key="[" line="53" column="1" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/doc/apidoc/phone/apidoc.json" timestamp="1520733647170">
         <mark key="[" line="4" column="1" />
@@ -721,37 +720,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9hcnRpY2xlJywgQXJ0aWNsZUFueUhhbmRsZXIpLAogICAgICAgIChyJy9hcGkvKD9QPGFwaV92ZXJzaW9uPnZbXGRdezEsMn0pL2FkbWluL2hvdGVsL2FydGljbGUvKD9QPGlkPltcZF17MSw2fSknLCBBcnRpY2xlT25lSGFuZGxlciksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgdHMuY29tbWl0KCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>not</text>
+        <text>id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgcmV0X2l0ZW1bZmllbGRdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBmaWVsZCBpbiBpZ25vcmVfZmllbGRzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXRfaXRlbVtdCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwgcmV0X2l0ZW1bZmllbGRdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciBmaWVsZCBpbiBpZ25vcmVfZmllbGRzOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigia3dhcmdzOiAlcyIsIGt3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICByZXRfaXRlbVtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigia3dhcmdzOiAlcyIsIGt3YXJncykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJyZXNvdXJjZSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigia3dhcmdzOiAlcyIsIGt3YXJncykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigiY29tcGxldGUgcHJlcGFyZSwgJXMiLCBzZWxmLl9maW5pc2hlZCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigia3dhcmdzOiAlcyIsIGt3YXJncykK</text>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text>id</text>
       </register>
     </registers>
     <search>

@@ -180,6 +180,12 @@
         <mark key="^" line="32" column="26" />
         <mark key="." line="32" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/commodity/manager.py" timestamp="1521076574728">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="35" />
+        <mark key="." line="5" column="35" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/device/manager.py" timestamp="1520853971960">
         <mark key="[" line="45" column="58" />
         <mark key="]" line="45" column="57" />
@@ -370,6 +376,12 @@
         <mark key="." line="81" column="91" />
         <mark key="^" line="81" column="91" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/commodity/model_mysql.py" timestamp="1521076535727">
+        <mark key="[" line="97" column="17" />
+        <mark key="]" line="95" column="32" />
+        <mark key="." line="95" column="32" />
+        <mark key="^" line="95" column="32" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/user.py" timestamp="1520736653308">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="31" />
@@ -543,37 +555,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9yb29tJywgSG90ZWxSb29tT25lSGFuZGxlciksCiAgICAgICAgKHInL2FwaS8oP1A8YXBpX3ZlcnNpb24+dltcZF17MSwyfSkvYWRtaW4vaG90ZWwvcm9vbS8oP1A8aWQ+W1xkXXsxLDZ9KScsIEhvdGVsUm9vbUFueUhhbmRsZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>wifi</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sncGFzc3dvcmQnXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkID0gRmllbGQoc3RyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRbmFtZeWPguaVsCEiKSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sncGFzc3dvcmQnXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgbmFtZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRbmFtZeWPguaVsCEiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aG90ZWxfaWQgPSBGaWVsZChpbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgbmFtZToK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>wifi</text>
       </register>
     </registers>
     <search>

@@ -264,11 +264,11 @@
         <mark key="^" line="95" column="10" />
         <mark key="." line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/controller.py" timestamp="1521172139159">
-        <mark key="[" line="35" column="36" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="35" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/controller.py" timestamp="1521176001014">
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/model_mysql.py" timestamp="1521113595745">
         <mark key="[" line="23" column="29" />
@@ -724,7 +724,7 @@
         <text encoding="base64">ICAgICAgICAKICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>expose_fields</text>
+        <text>datetime</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -751,7 +751,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgIGluIGNscy5lc2NhcGVfZmllbGRzLml0ZW1zKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>expose_fields</text>
+        <text>datetime</text>
       </register>
     </registers>
     <search>

@@ -9,7 +9,7 @@
         <mark key="^" line="75" column="63" />
         <mark key="." line="75" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/model_mysql.py" timestamp="1521168044685">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/model_mysql.py" timestamp="1521169979387">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="21" column="33" />
         <mark key="." line="21" column="33" />
@@ -81,7 +81,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/common/core/utils/utils.py" timestamp="1521119219569">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/common/core/utils/utils.py" timestamp="1521169677502">
         <mark key="[" line="8" column="50" />
         <mark key="]" line="8" column="49" />
         <mark key="." line="8" column="49" />
@@ -264,11 +264,11 @@
         <mark key="^" line="95" column="10" />
         <mark key="." line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/controller.py" timestamp="1521169532779">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/controller.py" timestamp="1521170977361">
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/model_mysql.py" timestamp="1521113595745">
         <mark key="[" line="23" column="29" />
@@ -718,40 +718,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9hcnRpY2xlJywgQXJ0aWNsZUFueUhhbmRsZXIpLAogICAgICAgIChyJy9hcGkvKD9QPGFwaV92ZXJzaW9uPnZbXGRdezEsMn0pL2FkbWluL2hvdGVsL2FydGljbGUvKD9QPGlkPltcZF17MSw2fSknLCBBcnRpY2xlT25lSGFuZGxlciksCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBjbHMuZXhwb3NlX2ZpZWxkcy5pbnRlcnNlY3Rpb24oc2V0KGZpZWxkcykpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBmaWx0ZXJfaXRlbSgpOgoKICAgICAgICBpZiBub3QgZmllbGRzOgogICAgICAgICAgICByZXR1cm4gZXNjYXBlX2RvYyhpdGVtKQoKICAgICAgICByZXRfaXRlbSA9IHt9CgogICAgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgICAgIHJldF9pdGVtW2ZpZWxkXSA9IGl0ZW1bZmllbGRdIGlmIGl0ZW1bZmllbGRdIGlzIG5vdCBOb25lIGVsc2UgTm9uZQoKICAgICAgICByZXR1cm4gZXNjYXBlX2RvYyhyZXRfaXRlbSk=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIGRlZiBmaWx0ZXJfaXRlbSgpOgoKICAgICAgICBpZiBub3QgZmllbGRzOgogICAgICAgICAgICByZXR1cm4gZXNjYXBlX2RvYyhpdGVtKQoKICAgICAgICByZXRfaXRlbSA9IHt9CgogICAgICAgIGZvciBmaWVsZCBpbiBmaWVsZHM6CiAgICAgICAgICAgIHJldF9pdGVtW2ZpZWxkXSA9IGl0ZW1bZmllbGRdIGlmIGl0ZW1bZmllbGRdIGlzIG5vdCBOb25lIGVsc2UgTm9uZQoKICAgICAgICByZXR1cm4gZXNjYXBlX2RvYyhyZXRfaXRlbSk=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgZmlsdGVyX2l0ZW0oaXRlbSwgZmllbGRzPU5vbmUpOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZgo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>staticmethod</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhcnRpY2xlcyA9IGZpbHRlcl9pdGVtcyhhcnRpY2xlcywgbGlzdF9zaG93X2ZpZWxkcykK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmaWVscwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZXNjYXBlX2RvYyhyZXRfaXRlbSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zW2tdID0gdiBpZiBrIG5vdCBpbiBqc29uX2RhdGEgZWxzZSBqc29uX2RhdGFba10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0X2l0ZW1bZmllbGRdID0gaXRlbVtmaWVsZF0gaWYgaXRlbVtmaWVsZF0gaXMgbm90IE5vbmUgZWxzZSBOb25lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1zW2tdID0gdlsxXQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmllbGQgaW4gZmllbGRzOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>and not isinstance(json_data[k], v[0]):</text>
+        <text>staticmethod</text>
       </register>
     </registers>
     <search>

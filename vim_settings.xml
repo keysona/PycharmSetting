@@ -264,11 +264,11 @@
         <mark key="^" line="95" column="10" />
         <mark key="." line="95" column="10" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/controller.py" timestamp="1521170977361">
-        <mark key="[" line="29" column="13" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/article/controller.py" timestamp="1521172139159">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="35" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="35" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/model_mysql.py" timestamp="1521113595745">
         <mark key="[" line="23" column="29" />
@@ -721,37 +721,37 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBjbHMuZXhwb3NlX2ZpZWxkcy5pbnRlcnNlY3Rpb24oc2V0KGZpZWxkcykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>staticmethod</text>
+        <text>expose_fields</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhcnRpY2xlcyA9IGZpbHRlcl9pdGVtcyhhcnRpY2xlcywgbGlzdF9zaG93X2ZpZWxkcykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVscwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZXNjYXBlX2RvYyhyZXRfaXRlbSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmaWVsZAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJvb2wodmFsdWUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBmaWVsZCBpbiBjbHMuYm9vbF9maWVsZHM6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbHVlLnRpbWVzdGFtcCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHZhbHVlLCBkYXRldGltZSk6Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0X2l0ZW1bZmllbGRdID0gaXRlbVtmaWVsZF0gaWYgaXRlbVtmaWVsZF0gaXMgbm90IE5vbmUgZWxzZSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZmllbGQgaW4gZmllbGRzOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgIGluIGNscy5lc2NhcGVfZmllbGRzLml0ZW1zKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>staticmethod</text>
+        <text>expose_fields</text>
       </register>
     </registers>
     <search>

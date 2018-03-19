@@ -247,11 +247,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/product/controller.py" timestamp="1521427985407">
-        <mark key="[" line="123" column="50" />
-        <mark key="]" line="123" column="49" />
-        <mark key="." line="123" column="49" />
-        <mark key="^" line="123" column="49" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/product/controller.py" timestamp="1521433547308">
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="74" column="12" />
+        <mark key="." line="74" column="12" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/layout/controller.py" timestamp="1521431337551">
         <mark key="[" line="47" column="0" />
@@ -434,8 +434,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>commodity_info</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -462,7 +462,7 @@
         <text encoding="base64">ICAgICAgICBwcm9kdWN0X3Byb3BlcnR5ID0ge30KICAgICAgICBpZiBwcm9kdWN0X2luZm9bJ3R5cGUnXSA9PSAnZm9vZCc6CiAgICAgICAgICAgIGlmICd0YXN0ZScgaW4gcHJvZHVjdF9pbmZvIGFuZCBwcm9kdWN0X2luZm9bJ3Rhc3RlJ106CiAgICAgICAgICAgICAgICBwcm9kdWN0X3Byb3BlcnR5Wyd0YXN0ZSddID0gcHI=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>commodity_info</text>
       </register>
     </registers>
     <search>

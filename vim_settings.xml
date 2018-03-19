@@ -107,11 +107,10 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521474462408">
-        <mark key="[" line="38" column="43" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="31" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521474547392">
+        <mark key="[" line="43" column="1" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1521455582167">
         <mark key="'" line="37" column="6" />
@@ -200,7 +199,7 @@
         <mark key="." line="38" column="31" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="/Python Console" timestamp="1521168586349">
+      <file name="/Python Console" timestamp="1521474556384">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/application.py" timestamp="1521095382361">
@@ -848,35 +847,35 @@
         <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi5Y+C5pWwdHlwZeS4jeiDveS4uuepuiIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAubG9nZ2luZ2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAubG9nZ2luZ2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5sb2cgaW1wb3J0IHJlc3RfbG9nIGFzIGxvZ2dlcgo=</text>
+        <text encoding="base64">ZnJvbSBhcHAubG9nZ2luZ2QK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5sb2cgaW1wb3J0IHJlc3RfbG9nIGFzIGxvZ2dlcgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ZnJvbSAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>def create_default_logger():
     return logging</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHBhc2QK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIGNyZWF0ZV9kZWZhdWx0X2xvZ2dlcigpOgogICAgcGFzZAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZGVmaW5lKCkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>

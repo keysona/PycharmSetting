@@ -49,11 +49,11 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521442382487">
-        <mark key="[" line="30" column="51" />
-        <mark key="]" line="30" column="31" />
-        <mark key="^" line="30" column="31" />
-        <mark key="." line="30" column="31" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521443315686">
+        <mark key="[" line="81" column="85" />
+        <mark key="]" line="81" column="85" />
+        <mark key="^" line="80" column="83" />
+        <mark key="." line="81" column="85" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/handler.py" timestamp="1521361072183">
         <mark key="[" line="39" column="0" />
@@ -435,7 +435,7 @@
         <text encoding="base64">ICAgICAgICAncHJpY2UnOiAoaW50LCBOb25lKSwK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cover_image_url</text>
+        <text>CommodityOneHandler</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZnJvbSBhcHAuZXJyb3IgaW1wb3J0IFBBUkFNU19JTlZBTElECg==</text>
@@ -462,7 +462,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cover_image_url</text>
+        <text>CommodityOneHandler</text>
       </register>
     </registers>
     <search>

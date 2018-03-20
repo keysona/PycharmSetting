@@ -81,6 +81,12 @@
         <mark key="." line="95" column="45" />
         <mark key="^" line="102" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/controller.py" timestamp="1521546694726">
+        <mark key="[" line="138" column="18" />
+        <mark key="]" line="131" column="27" />
+        <mark key="^" line="131" column="27" />
+        <mark key="." line="131" column="27" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/hotel.py" timestamp="1520735471983">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="18" column="4" />
@@ -173,6 +179,12 @@
         <mark key="]" line="89" column="34" />
         <mark key="^" line="89" column="34" />
         <mark key="." line="89" column="34" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/controller.py" timestamp="1521546652763">
+        <mark key="[" line="122" column="34" />
+        <mark key="]" line="122" column="33" />
+        <mark key="^" line="122" column="33" />
+        <mark key="." line="122" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1521516483023">
         <mark key="[" line="46" column="37" />
@@ -494,11 +506,11 @@
         <mark key="^" line="98" column="37" />
         <mark key="." line="98" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/controller.py" timestamp="1521546491504">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="81" column="26" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/controller.py" timestamp="1521546554501">
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="82" column="25" />
+        <mark key="^" line="82" column="25" />
+        <mark key="." line="82" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/wifi/controller.py" timestamp="1521475935000">
         <mark key="[" line="5" column="30" />
@@ -524,7 +536,7 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/model_mysql.py" timestamp="1521529823413">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/model_mysql.py" timestamp="1521546523726">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="20" column="29" />
         <mark key="^" line="20" column="29" />
@@ -622,6 +634,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="50" column="51" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/controller.py" timestamp="1521546573069">
+        <mark key="[" line="99" column="30" />
+        <mark key="]" line="102" column="33" />
+        <mark key="^" line="102" column="33" />
+        <mark key="." line="102" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/room/manager.py" timestamp="1521188762565">
         <mark key="[" line="53" column="51" />
@@ -748,6 +766,12 @@
         <mark key="]" line="18" column="8" />
         <mark key="." line="18" column="8" />
         <mark key="^" line="18" column="8" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" timestamp="1521546612613">
+        <mark key="[" line="113" column="22" />
+        <mark key="]" line="113" column="33" />
+        <mark key="^" line="113" column="33" />
+        <mark key="." line="113" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1521515932569">
         <mark key="[" line="17" column="22" />

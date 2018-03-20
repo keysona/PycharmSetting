@@ -601,11 +601,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1521517334363">
-        <mark key="[" line="75" column="107" />
-        <mark key="]" line="76" column="7" />
-        <mark key="." line="76" column="7" />
-        <mark key="^" line="76" column="7" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1521518291577">
+        <mark key="[" line="84" column="28" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="27" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/commodity/model_mysql.py" timestamp="1521388559733">
         <mark key="[" line="105" column="17" />
@@ -619,10 +619,11 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/layout_handler.py" timestamp="1521516497048">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/layout_handler.py" timestamp="1521518305052">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+        <mark key="^" line="6" column="49" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/back-end/dodoo-model/dodoo_model/hotel/user.py" timestamp="1520736653308">
         <mark key="[" line="13" column="32" />
@@ -924,40 +925,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi5Y+C5pWwdHlwZeS4jeiDveS4uuepuiIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShJTlZBTElEX0RFVklDRSgi57y65bCRaWRlbnRpdHkiKSkKICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZGVudGl0eSA9IHNlbGYucGFyYW1zLmdldCgnaWRlbnRpdHknLCBOb25lKQo=</text>
+        <text encoding="base64">ZnJvbSBhcHAuZGV2aWNlCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBhcHAuZGV2aWNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAncGFzc3dvcmQnOiAoc3RyLCBOb25lKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZGVudGl0eSA9IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAnYWNjb3VudCc6IChzdHIsIE5vbmUpLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShJTlZBTElEX0RFVklDRSgi57y65bCRIikpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLndlYiBpbXBvcnQgRmluaXNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShJTlZBTElEX0RFVklDRSgi57y65bCRaWRlbnRpdHkiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgRmluaXNoKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZGVudGl0eSA9IHNlbGYucGFyYW1zLmdldCgnaWRlbnRpdHknLCBOb25lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZXJyb3IgaW1wb3J0IElOVkFMSURfREVWSUNFCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>layouts</text>
       </register>
     </registers>
     <search>

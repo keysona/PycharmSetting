@@ -207,7 +207,7 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/model_mysql.py" timestamp="1521542169026">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/model_mysql.py" timestamp="1521546277192">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -494,11 +494,11 @@
         <mark key="^" line="98" column="37" />
         <mark key="." line="98" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/controller.py" timestamp="1521529757845">
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="92" column="26" />
-        <mark key="^" line="92" column="26" />
-        <mark key="." line="92" column="26" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/controller.py" timestamp="1521546491504">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="81" column="26" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/wifi/controller.py" timestamp="1521475935000">
         <mark key="[" line="5" column="30" />
@@ -862,90 +862,12 @@
         <text encoding="base64">ICAgICMgSU9Mb29wLmN1cnJlbnQoKS5ydW5fc3luYyhhZGRfdXNlcikK</text>
       </register>
       <register name="1" type="4">
-        <text>@gen.coroutine
-def get_users(hotel_id=None, role=None, query=None, is_all=False, row_count=None, offset=None):
-
-    if not query:
-        query = {}
-
-    if not is_all:
-        query['removed'] = False
-
-    if hotel_id:
-        query['hotel_id'] = hotel_id
-
-    if role:
-        query['role'] = role
-
-    cursor = yield HotelUser.find(cond_dict=query, sort=[
-        # ('version', -1),
-        ('created_at', -1),
-        ('updated_at', -1),
-    ], limit=[row_count, offset])
-
-    users = cursor.fetchmany(size=MAX_ROW_COUNT)
-
-    if not users:
-        return []
-
-    return users
-
-
-@gen.coroutine
-def get_user(uid=None, name=None, mobile=None, query=None, is_all=False):
-
-    if not query:
-        query = {}
-
-    if not is_all:
-        query['removed'] = False
-
-    if uid:
-        query['uid'] = uid
-
-    if name:
-        query['room'] = name
-
-    if mobile:
-        query['mobile'] = mobile
-
-    logger.info(&quot;get_user, query: %s&quot;, query)
-
-    user = yield HotelUser.find_one(cond_dict=query, sort=[
-        ('created_at', -1),
-        ('updated_at', -1),
-    ])
-
-    logger.info(&quot;get_user: %s query: %s&quot;, user, query)
-
-    return user
-
-
-@gen.coroutine
-def insert_user(user_info):
-    logger.info(&quot;user_info: %s&quot;, user_info)
-    user = HotelUser()
-    user.copy_from(user_info)
-    user.uid = yield user.insert()
-    return user.to_document()
-
-
-@gen.coroutine
-def update_user(change_data, uid=None, query=None):
-
-    if not query:
-        query = {}
-
-    if uid:
-        query['uid'] = uid
-
-    result = yield HotelUser.cond_update(change_data, cond_dict=query)
-
-    logger.info(&quot;update_user: %s, query: %s&quot;, result, query)
-
-    return result</text>
+        <text encoding="base64">ICAgICAgICAjIHF1ZXJ5ID0gewogICAgICAgICMgICAgICdob3RlbF9pZCc6IGNhdGVnb3J5Wydob3RlbF9pZCddLAogICAgICAgICMgICAgICduYW1lJzogbmFtZSwKICAgICAgICAjICAgICAndHlwZSc6IGNhdGVnb3J5Wyd0eXBlJ10KICAgICAgICAjIH0KICAgICAgICAjIAogICAgICAgICMgY2F0ZWdvcnkgPSB5aWVsZCBtYW5hZ2VyLmdldChxdWVyeT1xdWVyeSkKICAgICAgICAjIAogICAgICAgICMgaWYgY2F0ZWdvcnk6CiAgICAgICAgIyAgICAgcmV0dXJuIEVSUk9SX0RCX1NBTUVfUkVDT1JEKCLlrZjlnKjnm7jlkIzlkI3np7DnmoTliIbnsbshIik=</text>
       </register>
       <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAjIHF1ZXJ5ID0gewogICAgICAgICMgICAgICdob3RlbF9pZCc6IGNhdGVnb3J5Wydob3RlbF9pZCddLAogICAgICAgICMgICAgICduYW1lJzogbmFtZSwKICAgICAgICAjICAgICAndHlwZSc6IGNhdGVnb3J5Wyd0eXBlJ10KICAgICAgICAjIH0KICAgICAgICAjIAogICAgICAgICMgY2F0ZWdvcnkgPSB5aWVsZCBtYW5hZ2VyLmdldChxdWVyeT1xdWVyeSkKICAgICAgICAjIAogICAgICAgICMgaWYgY2F0ZWdvcnk6CiAgICAgICAgIyAgICAgcmV0dXJuIEVSUk9SX0RCX1NBTUVfUkVDT1JEKCLlrZjlnKjnm7jlkIzlkI3np7DnmoTliIbnsbshIik=</text>
+      </register>
+      <register name="2" type="4">
         <text>@gen.coroutine
 def get_users(hotel_id=None, role=None, query=None, is_all=False, row_count=None, offset=None):
 
@@ -1029,29 +951,26 @@ def update_user(change_data, uid=None, query=None):
 
     return result</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHJlbW92ZWQgPSBGaWVsZChib29sLCBGYWxzZSkK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRva2VuID0gRmllbGQoc3RyLCAnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZ2luX2lwID0gRmllbGQoc3RyKQo=</text>
+        <text encoding="base64">ICAgIHRva2VuID0gRmllbGQoc3RyLCAnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2luX3RpbWUgPSBGaWVsZChkYXRldGltZSwgZGF0ZXRpbWUubm93KCkpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2luX2lwID0gRmllbGQoc3RyKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgbG9naW4gaW5mbwo=</text>
+        <text encoding="base64">ICAgIGxvZ2luX3RpbWUgPSBGaWVsZChkYXRldGltZSwgZGF0ZXRpbWUubm93KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgbG9naW4gaW5mbwo=</text>
       </register>
       <register name="-" type="4">
         <text>user</text>

@@ -601,11 +601,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1521517141439">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1521517334363">
         <mark key="[" line="75" column="107" />
-        <mark key="]" line="75" column="102" />
-        <mark key="." line="75" column="102" />
-        <mark key="^" line="75" column="102" />
+        <mark key="]" line="76" column="7" />
+        <mark key="." line="76" column="7" />
+        <mark key="^" line="76" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/commodity/model_mysql.py" timestamp="1521388559733">
         <mark key="[" line="105" column="17" />

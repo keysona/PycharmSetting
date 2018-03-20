@@ -207,6 +207,12 @@
         <mark key="." line="90" column="0" />
         <mark key="^" line="90" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/model_mysql.py" timestamp="1521542169026">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/mobile/check_handler.py" timestamp="1520842008114">
         <mark key="[" line="176" column="104" />
         <mark key="]" line="176" column="103" />
@@ -855,38 +861,200 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgSU9Mb29wLmN1cnJlbnQoKS5ydW5fc3luYyhhZGRfdXNlcikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="1" type="4">
+        <text>@gen.coroutine
+def get_users(hotel_id=None, role=None, query=None, is_all=False, row_count=None, offset=None):
+
+    if not query:
+        query = {}
+
+    if not is_all:
+        query['removed'] = False
+
+    if hotel_id:
+        query['hotel_id'] = hotel_id
+
+    if role:
+        query['role'] = role
+
+    cursor = yield HotelUser.find(cond_dict=query, sort=[
+        # ('version', -1),
+        ('created_at', -1),
+        ('updated_at', -1),
+    ], limit=[row_count, offset])
+
+    users = cursor.fetchmany(size=MAX_ROW_COUNT)
+
+    if not users:
+        return []
+
+    return users
+
+
+@gen.coroutine
+def get_user(uid=None, name=None, mobile=None, query=None, is_all=False):
+
+    if not query:
+        query = {}
+
+    if not is_all:
+        query['removed'] = False
+
+    if uid:
+        query['uid'] = uid
+
+    if name:
+        query['room'] = name
+
+    if mobile:
+        query['mobile'] = mobile
+
+    logger.info(&quot;get_user, query: %s&quot;, query)
+
+    user = yield HotelUser.find_one(cond_dict=query, sort=[
+        ('created_at', -1),
+        ('updated_at', -1),
+    ])
+
+    logger.info(&quot;get_user: %s query: %s&quot;, user, query)
+
+    return user
+
+
+@gen.coroutine
+def insert_user(user_info):
+    logger.info(&quot;user_info: %s&quot;, user_info)
+    user = HotelUser()
+    user.copy_from(user_info)
+    user.uid = yield user.insert()
+    return user.to_document()
+
+
+@gen.coroutine
+def update_user(change_data, uid=None, query=None):
+
+    if not query:
+        query = {}
+
+    if uid:
+        query['uid'] = uid
+
+    result = yield HotelUser.cond_update(change_data, cond_dict=query)
+
+    logger.info(&quot;update_user: %s, query: %s&quot;, result, query)
+
+    return result</text>
       </register>
       <register name="&quot;" type="4">
-        <text>LayoutHandler</text>
+        <text>@gen.coroutine
+def get_users(hotel_id=None, role=None, query=None, is_all=False, row_count=None, offset=None):
+
+    if not query:
+        query = {}
+
+    if not is_all:
+        query['removed'] = False
+
+    if hotel_id:
+        query['hotel_id'] = hotel_id
+
+    if role:
+        query['role'] = role
+
+    cursor = yield HotelUser.find(cond_dict=query, sort=[
+        # ('version', -1),
+        ('created_at', -1),
+        ('updated_at', -1),
+    ], limit=[row_count, offset])
+
+    users = cursor.fetchmany(size=MAX_ROW_COUNT)
+
+    if not users:
+        return []
+
+    return users
+
+
+@gen.coroutine
+def get_user(uid=None, name=None, mobile=None, query=None, is_all=False):
+
+    if not query:
+        query = {}
+
+    if not is_all:
+        query['removed'] = False
+
+    if uid:
+        query['uid'] = uid
+
+    if name:
+        query['room'] = name
+
+    if mobile:
+        query['mobile'] = mobile
+
+    logger.info(&quot;get_user, query: %s&quot;, query)
+
+    user = yield HotelUser.find_one(cond_dict=query, sort=[
+        ('created_at', -1),
+        ('updated_at', -1),
+    ])
+
+    logger.info(&quot;get_user: %s query: %s&quot;, user, query)
+
+    return user
+
+
+@gen.coroutine
+def insert_user(user_info):
+    logger.info(&quot;user_info: %s&quot;, user_info)
+    user = HotelUser()
+    user.copy_from(user_info)
+    user.uid = yield user.insert()
+    return user.to_document()
+
+
+@gen.coroutine
+def update_user(change_data, uid=None, query=None):
+
+    if not query:
+        query = {}
+
+    if uid:
+        query['uid'] = uid
+
+    result = yield HotelUser.cond_update(change_data, cond_dict=query)
+
+    logger.info(&quot;update_user: %s, query: %s&quot;, result, query)
+
+    return result</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZWQgPSBGaWVsZChib29sLCBGYWxzZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBGaWVsZChzdHIsICJob3RlbCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhvdGVsX2lkID0gRmllbGQoaW50KQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHhnX2RldmljZV90b2tlbiA9IEZpZWxkKHN0ciwgIiIpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlID0geWllbGQgZ2V0X2hvdGVsX2RldmljZShkZXZpY2VfdXVpZD1kZXZpY2VfdXVpZCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGRldmljZV91dWlkOgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRva2VuID0gRmllbGQoc3RyLCAnJykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxvZ2luX2lwID0gRmllbGQoc3RyKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ2luX3RpbWUgPSBGaWVsZChkYXRldGltZSwgZGF0ZXRpbWUubm93KCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgbG9naW4gaW5mbwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeVsnZGV2aWNlX3V1aWQnXSA9IGRldmljZV91dWlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>LayoutHandler</text>
+        <text>user</text>
       </register>
     </registers>
     <search>

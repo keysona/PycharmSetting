@@ -31,6 +31,13 @@
         <mark key="^" line="5" column="29" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/layout/model_mysql.py" timestamp="1521475614770">
+        <mark key="'" line="96" column="4" />
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1521707342714">
         <mark key="[" line="1" column="1" />
         <mark key="]" line="1" column="23" />
@@ -249,6 +256,13 @@
         <mark key="." line="103" column="27" />
         <mark key="^" line="103" column="27" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1521563514261">
+        <mark key="'" line="36" column="28" />
+        <mark key="[" line="87" column="85" />
+        <mark key="]" line="87" column="84" />
+        <mark key="^" line="87" column="84" />
+        <mark key="." line="87" column="84" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/__init__.py" timestamp="1521515492650">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -356,6 +370,13 @@
         <mark key="]" line="8" column="49" />
         <mark key="." line="8" column="49" />
         <mark key="^" line="8" column="49" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" timestamp="1521624216475">
+        <mark key="'" line="36" column="6" />
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="7" />
+        <mark key="." line="121" column="7" />
+        <mark key="^" line="121" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/handler.py" timestamp="1521361072183">
         <mark key="[" line="39" column="0" />
@@ -611,11 +632,12 @@
         <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/log/critical.6100" timestamp="1521508428416" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" timestamp="1521686321659">
-        <mark key="[" line="82" column="31" />
-        <mark key="]" line="40" column="15" />
-        <mark key="^" line="40" column="15" />
-        <mark key="." line="40" column="15" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" timestamp="1521726484392">
+        <mark key="'" line="105" column="42" />
+        <mark key="[" line="105" column="43" />
+        <mark key="]" line="105" column="42" />
+        <mark key="^" line="105" column="42" />
+        <mark key="." line="105" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/python/media_create/spider/core.py" timestamp="1521453000908">
         <mark key="[" line="10" column="1" />
@@ -696,6 +718,7 @@
       <jump line="96" column="4" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/layout/model_mysql.py" />
       <jump line="37" column="6" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/rest.py" />
       <jump line="36" column="28" filename="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" />
+      <jump line="105" column="42" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -705,7 +728,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdkZXNjcmlwdGlvbic6IGNvbnRyYWN0WydkZXNjcmlwdGlvbiddCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdhdmF0YXJfdXJsJzogY29udHJhY3RbJ2F2YXRhcl91cmwnXSwK</text>
@@ -732,7 +755,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

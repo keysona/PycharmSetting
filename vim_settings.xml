@@ -443,6 +443,12 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="35" column="65" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/user_handler.py" timestamp="1521703533275">
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/local_auth.py" timestamp="1521475745948">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="29" />
@@ -488,6 +494,7 @@
         <mark key="." line="71" column="45" />
         <mark key="^" line="71" column="45" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1521703396087" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/image/model_mysql.py" timestamp="1521687871922">
         <mark key="[" line="21" column="7" />
         <mark key="]" line="21" column="6" />
@@ -1036,37 +1043,37 @@
         <text encoding="base64">ZGVmaW5lKCJpbWFnZV9kb21haW4iLCAiaHR0cHM6Ly93d3cuZG9kb28tdGVjaC5jb20vaG90ZWwvIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>27.0.0.1:8080</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAndHlwZSc6IChzdHIsIE5vbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbGF5b3V0JzogKGRpY3QsIE5vbmUpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VybCc6IHVybCwK</text>
+        <text encoding="base64">ICAgICAgICAidHlwZSI6IChzdHIsIE5vbmUpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BhdGgnOiBpbWFnZV9wYXRoLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NoYTEnOiBmaWxlX3NoYTEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VpZCc6IHNlbGYudXNlclsndWlkJ10sCg==</text>
+        <text encoding="base64">ZnJvbSAuIGltcG9ydCBMYXlvdXRDb250cm9sbGVyIGFzIGNvbnRyb2xsZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogc2VsZi51c2VyWydob3RlbF9pZCddLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>27.0.0.1:8080</text>
+        <text>controller</text>
       </register>
     </registers>
     <search>

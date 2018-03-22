@@ -70,10 +70,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1521637058956">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1521681497242">
+        <mark key="j" line="5" column="27" />
+        <mark key="[" line="21" column="34" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/application.py" timestamp="1521477632735">
         <mark key="[" line="35" column="21" />
@@ -122,7 +124,7 @@
         <mark key="^" line="39" column="30" />
         <mark key="." line="39" column="30" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1521643421049">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1521680986067">
         <mark key="[" line="19" column="68" />
         <mark key="]" line="13" column="89" />
         <mark key="^" line="13" column="89" />
@@ -642,37 +644,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpL2RldmljZS9yb29tL3dpZmkvdXBkYXRlJywgV2lmaUhhbmRsZXIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>image_id</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBGaWVsZChzdHIsICIiKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBwcmVwYXJlKHNlbGYpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhc3RfZGF0YV91cGRhdGVkX2F0ID0gRmllbGQoZGF0ZXRpbWUpCg==</text>
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBGaWVsZChzdHIsICIiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhvdGVsX2lkID0gRmllbGQoaW50KQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigia3dhcmdzOiAlcyIsIGt3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnZXhjX2luZm8nIGluIGt3YXJnczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdmaWxlX3NpemUnOiBzZWxmLmdldF9hcmd1bWVudCgnZmlsZV9zaXplJywgTm9uZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2dnZXIuZXJyb3IoImV4Y19pbmZvOiAlcyIsIGt3YXJnc1snZXhjX2luZm8nXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbWFnZV9mb3JtYXQnOiBzZWxmLmdldF9hcmd1bWVudCgnaW1hZ2VfZm9ybWF0JywgTm9uZSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>image_id</text>
+        <text>ApiBasicHandler</text>
       </register>
     </registers>
     <search>

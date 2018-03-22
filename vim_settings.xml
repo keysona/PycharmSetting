@@ -10,9 +10,6 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1521476705718">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/handler.py" timestamp="1521688778897">
         <mark key="[" line="103" column="87" />
         <mark key="]" line="103" column="86" />
@@ -25,11 +22,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1521707658283">
-        <mark key="[" line="80" column="8" />
-        <mark key="]" line="80" column="7" />
-        <mark key="." line="80" column="7" />
-        <mark key="^" line="80" column="7" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1521709058474">
+        <mark key="[" line="55" column="1" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1521707519612">
         <mark key="[" line="5" column="1" />
@@ -73,11 +70,11 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521707903144">
-        <mark key="[" line="79" column="44" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521709342219">
+        <mark key="[" line="83" column="48" />
+        <mark key="]" line="83" column="47" />
+        <mark key="." line="83" column="47" />
+        <mark key="^" line="83" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/contracts/__init__.py" timestamp="1521475514490">
         <mark key="[" line="4" column="69" />
@@ -238,9 +235,6 @@
         <mark key="^" line="30" column="86" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/tornado/web.py" timestamp="1521118232432" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/contracts/sync_handler.py" timestamp="1520752324881">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/model_mysql.py" timestamp="1521535506813">
         <mark key="[" line="63" column="31" />
         <mark key="]" line="63" column="30" />
@@ -405,9 +399,6 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/common/core/database/__init__.py" timestamp="1521096642994">
-        <mark key="[" line="3" column="24" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/manager.py" timestamp="1521595789563">
         <mark key="[" line="38" column="30" />
         <mark key="]" line="38" column="29" />
@@ -444,13 +435,13 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="35" column="65" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/user_handler.py" timestamp="1521708060683">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/user_handler.py" timestamp="1521708789000">
         <mark key="[" line="53" column="50" />
         <mark key="]" line="53" column="49" />
         <mark key="^" line="53" column="49" />
         <mark key="." line="53" column="49" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/local_auth.py" timestamp="1521475745948">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/local_auth.py" timestamp="1521709128224">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
@@ -474,9 +465,6 @@
         <mark key="^" line="119" column="6" />
         <mark key="." line="119" column="6" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/__init__.py" timestamp="1521474685421">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/controller.py" timestamp="1520826467305">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="75" column="63" />
@@ -495,6 +483,7 @@
         <mark key="." line="71" column="45" />
         <mark key="^" line="71" column="45" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/user-server/app/password/change_handler.py" timestamp="1521709031055" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1521703396087" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/image/model_mysql.py" timestamp="1521687871922">
         <mark key="[" line="21" column="7" />
@@ -575,11 +564,11 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1521704477066">
-        <mark key="[" line="54" column="49" />
-        <mark key="]" line="54" column="48" />
-        <mark key="." line="54" column="48" />
-        <mark key="^" line="54" column="48" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1521709234053">
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="39" />
+        <mark key="." line="42" column="39" />
+        <mark key="^" line="42" column="39" />
       </file>
       <file name="/Python Console" timestamp="1521683358348" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/token/model_redis.py" timestamp="1521475786362">
@@ -805,9 +794,6 @@
         <mark key="^" line="82" column="51" />
         <mark key="." line="82" column="51" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/controller.py" timestamp="1521530695122">
-        <mark key="[" line="7" column="23" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/model_mysql.py" timestamp="1521601520328">
         <mark key="[" line="25" column="32" />
         <mark key="]" line="25" column="31" />
@@ -837,9 +823,6 @@
         <mark key="]" line="6" column="29" />
         <mark key="^" line="6" column="29" />
         <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/handler.py" timestamp="1521686365668">
-        <mark key="[" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/hotel/model_mysql.py" timestamp="1520837905866">
         <mark key="[" line="22" column="31" />
@@ -1000,6 +983,12 @@
         <mark key="." line="23" column="54" />
         <mark key="^" line="23" column="54" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/password_handler.py" timestamp="1521709252207">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="28" column="39" />
+        <mark key="." line="28" column="39" />
+        <mark key="^" line="28" column="39" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="58" column="28" filename="$USER_HOME$/Dropbox/company/project/torpeewee/torpeewee/query.py" />
@@ -1041,40 +1030,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmaW5lKCJpbWFnZV9kb21haW4iLCAiaHR0cHM6Ly93d3cuZG9kb28tdGVjaC5jb20vaG90ZWwvIikK</text>
+        <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS91c2VyL2luZm8nLCBVc2VySW5mb0hhbmRsZXIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCIiKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>info</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpL3VzZXIvaW5mbycsIFVzZXJJbmZvSGFuZGxlciksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgSG90ZWxVc2VyTWFuYWdlci51cGRhdGVfdXNlcl9pbmZvKHNlbGYudXNlclsndWlkJ10sIGNoYW5nZV9kYXRhPWNoYW5nZV9kYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjaGFuZ2VfZGF0YToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB5aWVsZCBjb250cm9sbGVyLmNyZWF0ZShob3RlbF9pZCwgdHlwZT10eXBlLCBsYXlvdXQ9bGF5b3V0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGFbJ2F2YXRhcl91cmwnXSA9IGF2YXRhcl91cmwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBhdmF0YXJfdXJsIGFuZCB1c2VyWydhdmF0YXJfdXJsJ10gIT0gYXZhdGFyX3VybDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRbGF5b3V0ISIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGFbJ25hbWUnXSA9IG5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYXlvdXQgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lIGFuZCB1c2VyWyduYW1lJ10gIT0gbmFtZToK</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>info</text>
       </register>
     </registers>
     <search>

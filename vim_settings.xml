@@ -153,7 +153,7 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/image/image_handler.py" timestamp="1521688416955">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/image/image_handler.py" timestamp="1521694670393">
         <mark key="]" line="103" column="7" />
         <mark key="^" line="103" column="7" />
         <mark key="." line="103" column="7" />
@@ -883,11 +883,11 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1521691378244">
-        <mark key="[" line="22" column="46" />
-        <mark key="]" line="22" column="45" />
-        <mark key="." line="22" column="45" />
-        <mark key="^" line="22" column="45" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1521694638579">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="47" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/room/register/model_mysql.py" timestamp="1521514551065">
         <mark key="[" line="20" column="24" />
@@ -1039,7 +1039,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>27.0.0.1:8080</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1066,7 +1066,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogc2VsZi51c2VyWydob3RlbF9pZCddLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>27.0.0.1:8080</text>
       </register>
     </registers>
     <search>

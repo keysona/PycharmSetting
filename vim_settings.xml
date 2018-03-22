@@ -111,11 +111,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1521690369571">
-        <mark key="[" line="10" column="50" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1521691247145">
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="40" column="48" />
+        <mark key="^" line="40" column="48" />
+        <mark key="." line="40" column="48" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/.gitignore" timestamp="1521474214724">
         <mark key="[" line="85" column="10" />
@@ -883,11 +883,11 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1521687445246">
-        <mark key="[" line="20" column="9" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
-        <mark key="^" line="20" column="8" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1521691378244">
+        <mark key="[" line="22" column="46" />
+        <mark key="]" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+        <mark key="^" line="22" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/room/register/model_mysql.py" timestamp="1521514551065">
         <mark key="[" line="20" column="24" />
@@ -1033,13 +1033,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpL2FkbWluL2hvdGVsL3VzZXJzL2F2YXRhcicsIExheW91dEFueUhhbmRsZXIpLAo=</text>
+        <text encoding="base64">ZGVmaW5lKCJpbWFnZV9kb21haW4iLCAiaHR0cHM6Ly93d3cuZG9kb28tdGVjaC5jb20vaG90ZWwvIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>hotel/users/</text>
+        <text>m</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -1066,7 +1066,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogc2VsZi51c2VyWydob3RlbF9pZCddLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>hotel/users/</text>
+        <text>m</text>
       </register>
     </registers>
     <search>

@@ -188,11 +188,11 @@
         <mark key="^" line="30" column="86" />
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/tornado/web.py" timestamp="1521118232432" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/user/controller.py" timestamp="1521794007787">
-        <mark key="[" line="125" column="44" />
-        <mark key="]" line="125" column="43" />
-        <mark key="^" line="125" column="43" />
-        <mark key="." line="125" column="43" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/user/controller.py" timestamp="1521808176850">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="87" column="34" />
+        <mark key="^" line="87" column="34" />
+        <mark key="." line="87" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/device/handler.py" timestamp="1520956652386">
         <mark key="[" line="2" column="1" />
@@ -661,11 +661,10 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/user/handler.py" timestamp="1521800152074">
-        <mark key="[" line="66" column="8" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="66" column="7" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/user/handler.py" timestamp="1521808193818">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1521706282570">
         <mark key="[" line="22" column="61" />
@@ -791,37 +790,39 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cycsIFByb2R1Y3RBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cy8oP1A8aWQ+W1xkXXsxLDZ9KScsIFByb2R1Y3RPbmVIYW5kbGVyKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHBhcmFtc1snZGVzY3JpcHRpb24nXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXZhdGFyX3VybCA9IEZpZWxkKHN0ciwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yeV9pZCA9IHBhcmFtc1snY2F0ZWdvcnlfaWQnXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aXNfYWN0aXZhdGVkID0gRmllbGQoYm9vbCwgVHJ1ZSkK</text>
+      <register name="4" type="4">
+        <text>password
+
+        result</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aXNfYWRtaW4gPSBGaWVsZChib29sLCBGYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAibW9iaWxlIjogKHN0ciwgTm9uZSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm9sZSA9IEZpZWxkKHN0ciwgInN0YWZmIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d3hfb3Blbl9pZCA9IEZpZWxkKHN0ciwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHBhcmFtc1snZGVzY3JpcHRpb24nXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bW9iaWxlID0gRmllbGQoc3RyKQo=</text>
+        <text encoding="base64">YXZhdGFyX3VybCA9IEZpZWxkKHN0ciwgIiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bmFtZSA9IEZpZWxkKHN0ciwgIiIpCg==</text>
+        <text encoding="base64">aXNfYWN0aXZhdGVkID0gRmllbGQoYm9vbCwgVHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>description=description</text>
       </register>
     </registers>
     <search>

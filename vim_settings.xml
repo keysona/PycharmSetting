@@ -58,11 +58,11 @@
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521799928330">
-        <mark key="[" line="124" column="108" />
-        <mark key="]" line="124" column="107" />
-        <mark key="." line="124" column="107" />
-        <mark key="^" line="124" column="107" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1521809343788">
+        <mark key="[" line="107" column="96" />
+        <mark key="]" line="107" column="95" />
+        <mark key="." line="107" column="95" />
+        <mark key="^" line="107" column="95" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/wifi_handler.py" timestamp="1521597698406">
         <mark key="[" line="31" column="18" />
@@ -661,10 +661,11 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/user/handler.py" timestamp="1521808193818">
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/user/handler.py" timestamp="1521809317604">
+        <mark key="[" line="78" column="10" />
+        <mark key="]" line="78" column="9" />
+        <mark key="." line="78" column="9" />
+        <mark key="^" line="78" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1521706282570">
         <mark key="[" line="22" column="61" />
@@ -787,42 +788,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cycsIFByb2R1Y3RBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cy8oP1A8aWQ+W1xkXXsxLDZ9KScsIFByb2R1Y3RPbmVIYW5kbGVyKSwK</text>
+        <text encoding="base64">ICAgICAgICAjIGhvdGVsIGNhdGVnb3J5CiAgICAgICAgKHInL2FwaS8oP1A8YXBpX3ZlcnNpb24+dltcZF17MSwyfSkvYWRtaW4vaG90ZWwvY2F0ZWdvcmllcycsIENhdGVnb3J5QW55SGFuZGxlciksCiAgICAgICAgKHInL2FwaS8oP1A8YXBpX3ZlcnNpb24+dltcZF17MSwyfSkvYWRtaW4vaG90ZWwvY2F0ZWdvcmllcy8oP1A8aWQ+W1xkXXsxLDZ9KScsIENhdGVnb3J5T25lSGFuZGxlciksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>CategoryOneHandler</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHBhcmFtc1snZGVzY3JpcHRpb24nXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeV9pZCA9IHBhcmFtc1snY2F0ZWdvcnlfaWQnXQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>password
-
-        result</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAibW9iaWxlIjogKHN0ciwgTm9uZSksCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpc19hZG1pbiA9IHBhcmFtc1snaXNfYWRtaW4nXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sncGFzc3dvcmQnXQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpc19hY3RpdmF0ZWQgPSBwYXJhbXNbJ2lzX2FjJ10K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHBhcmFtc1snZGVzY3JpcHRpb24nXQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXZhdGFyX3VybCA9IEZpZWxkKHN0ciwgIiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sncGFzc3dvcmQnXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aXNfYWN0aXZhdGVkID0gRmllbGQoYm9vbCwgVHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXNzd29yZCBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="-" type="4">
-        <text>description=description</text>
+        <text>CategoryOneHandler</text>
       </register>
     </registers>
     <search>

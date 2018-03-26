@@ -240,11 +240,11 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1522029373586">
-        <mark key="[" line="98" column="42" />
-        <mark key="]" line="98" column="41" />
-        <mark key="^" line="98" column="41" />
-        <mark key="." line="98" column="41" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1522031748514">
+        <mark key="[" line="102" column="50" />
+        <mark key="]" line="102" column="49" />
+        <mark key="." line="102" column="49" />
+        <mark key="^" line="102" column="49" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/contracts/manager.py" timestamp="1521184970373">
         <mark key="[" line="30" column="87" />
@@ -651,11 +651,11 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1522029290712">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="62" column="37" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="62" column="37" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1522031687494">
+        <mark key="[" line="55" column="34" />
+        <mark key="]" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+        <mark key="^" line="55" column="33" />
       </file>
       <file name="/Python Console" timestamp="1521683358348" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/token/model_redis.py" timestamp="1521475786362">
@@ -1168,37 +1168,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9jcy9yb29tcy9yZWdpc3Rlci8oP1A8aWQ+W1xkXXsxLDZ9KScsIFJvb21SZWdpc3RlckhhbmRsZXIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb29tX2lkID0gaW50KHJvb21faWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByb29tX2lkID0gaW50KHJvb21faWQpCg==</text>
+      <register name="&quot;" type="4">
+        <text>UPDATE_FAIL</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByb29tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFVQREFURV9GQUlMKCLlvZPliY3miL/pl7Tkvb/nlKjkuK3vvIzkuI3og70iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByb29tWydzdGF0dXMnXSA9PSAnYnVzeSc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByb29tX2lkID0gaW50KHJvb21faWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZXJyb3IgaW1wb3J0IFBBUkFNU19JTlZBTElECg==</text>
+        <text encoding="base64">ICAgICAgICByb29tCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIHBvc3RfcGFyYW1zID0gewogICAgICAgICdwYXJlbnRfaWQnOiAoaW50LCBOb25lKSwKICAgICAgICAnbmFtZSc6IChzdHIsIE5vbmUpLAogICAgICAgICd0eXBlJzogKHN0ciwgTm9uZSksCiAgICAgICAgJ2Rlc2NyaXB0aW9uJzogKHN0ciwgTm9uZSkKICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgY3JlYXRlKHNlbGYsICphcmdzLCAqKmt3YXJncyk6CgogICAgICAgIHBhcmFtcyA9IHNlbGYucGFyYW1zCiAgICAgICAgaG90ZWxfaWQgPSBzZWxmLnVzZXJbJ2hvdGVsX2lkJ10KCiAgICAgICAgbmFtZSA9IHBhcmFtc1snbmFtZSddCiAgICAgICAgaWYgbm90IG5hbWU6CiAgICAgICAgICAgIHNlbGYucmVzcG9uc2UoUEFSQU1TX0lOVkFMSUQoIue8uuWwkW5hbWXlj4LmlbAhIikpCiAgICAgICAgICAgIHJldHVybgoKICAgICAgICB0eXBlID0gcGFyYW1zWyd0eXBlJ10KICAgICAgICBpZiBub3QgdHlwZToKICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRdHlwZeWPguaVsCEiKSkKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGRlc2NyaXB0aW9uID0gcGFyYW1zWydkZXNjcmlwdGlvbiddCiAgICAgICAgcGFyZW50X2lkID0gcGFyYW1zWydwYXJlbnRfaWQnXQoKICAgICAgICByZXN1bHQgPSB5aWVsZCBjb250cm9sbGVyLmNyZWF0ZShob3RlbF9pZCwgbmFtZSwgdHlwZSwgZGVzY3JpcHRpb249ZGVzY3JpcHRpb24sIHBhcmVudF9pZD1wYXJlbnRfaWQpCgogICAgICAgIHNlbGYucmVzcG9uc2UocmVzdWx0KQ==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBhcHAuZXJyb3IgaW1wb3J0IFBBUkFNU19JTlZBTElECg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHBvc3RfcGFyYW1zID0gewogICAgICAgICdwYXJlbnRfaWQnOiAoaW50LCBOb25lKSwKICAgICAgICAnbmFtZSc6IChzdHIsIE5vbmUpLAogICAgICAgICd0eXBlJzogKHN0ciwgTm9uZSksCiAgICAgICAgJ2Rlc2NyaXB0aW9uJzogKHN0ciwgTm9uZSkKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J2RhdGEnIGluIHJlc3VsdC5kYXRhIGFuZCByZXN1bHQuZGF0YSBhbmQg</text>
+        <text>UPDATE_FAIL</text>
       </register>
     </registers>
     <search>

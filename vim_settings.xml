@@ -438,11 +438,11 @@
         <mark key="^" line="19" column="36" />
         <mark key="." line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1522035540189">
-        <mark key="[" line="53" column="2" />
-        <mark key="]" line="53" column="1" />
-        <mark key="." line="53" column="1" />
-        <mark key="^" line="53" column="1" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1522123170802">
+        <mark key="[" line="67" column="57" />
+        <mark key="]" line="67" column="56" />
+        <mark key="." line="67" column="56" />
+        <mark key="^" line="67" column="56" />
       </file>
       <file name="/Python Console" timestamp="1522112994991" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/product/model_mysql.py" timestamp="1521475717145">
@@ -535,7 +535,7 @@
         <mark key="^" line="42" column="60" />
         <mark key="." line="42" column="60" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1522122201352">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1522122930080">
         <mark key="[" line="22" column="1" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -705,6 +705,12 @@
         <mark key="^" line="44" column="24" />
         <mark key="." line="44" column="24" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1522123215629">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/ad/model_mysql.py" timestamp="1521475068544">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="29" />
@@ -807,53 +813,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9kZXZpY2VzJywgSG90ZWxEZXZpY2VBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9kZXZpY2VzLyg/UDxpZD5bXGRdezEsNn0pJywgSG90ZWxEZXZpY2VPbmVIYW5kbGVyKSwK</text>
+        <text encoding="base64">Tk9UX0ZPVU5EX1JPT00gPSBSZXN1bHQoMTIwMDAsIG1zZz0i5om+5LiN5Yiw6K+l5oi/6Ze0ISIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>OrderAnyHandler</text>
+        <text>)</text>
       </register>
-      <register name="2" type="4">
-        <text>client_id = Field(int)
-room_no = Field(str)
-
-# client info
-client_name = Field(str)
-client_gender = Field(str)
-
-products_data = Field(str)
-
-order_number = Field(int, 1)  # 订餐人数
-goods_amount = Field(int)  # 订单金额
-message = Field(str, &quot;&quot;)  # 留言
-
-order_status = Field(str, &quot;create&quot;)  # create | processing | cancel | finish</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5X2lkID0gRmllbGQoaW50LCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShOT19ORUVEX1VQREFURSgi5LiN6ZyA6KaB5pu05pawd2lmaSEiKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuZXJyb3IgaW1wb3J0IFBBUkFNU19JTlZBTElECg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgd2lmaToK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9IHBhcmFtc1sncGFzc3dvcmQnXQo=</text>
+        <text encoding="base64">ICAgICAgICB3aWZpID0geWllbGQgV2lmaU1hbmFnZXIuZ2V0KHJvb21bJ2lkJ10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHBhcmFtc1snZGVzY3JpcHRpb24nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Bhc3N3b3JkJzogd2lmaVsncGFzc3dvcmQnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lID0gcGFyYW1zWyduYW1lJ10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiB3aWZpWyduYW1lJ10sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXRlZ29yeV9pZCA9IHBhcmFtc1snY2F0ZWdvcnlfaWQnXQo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gewogICAgICAgICAgICAnbmFtZSc6IHdpZmlbJ25hbWUnXSwK</text>
       </register>
       <register name="-" type="4">
-        <text>OrderAnyHandler</text>
+        <text>)</text>
       </register>
     </registers>
     <search>

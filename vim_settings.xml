@@ -653,10 +653,11 @@
         <mark key="." line="53" column="50" />
         <mark key="^" line="53" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/handler.py" timestamp="1522132844741">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/handler.py" timestamp="1522133854308">
+        <mark key="[" line="71" column="44" />
+        <mark key="]" line="71" column="43" />
+        <mark key="." line="71" column="43" />
+        <mark key="^" line="71" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message.py" timestamp="1522112169320" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/product/property/food/model_mysql.py" timestamp="1521475645961">

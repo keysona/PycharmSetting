@@ -594,7 +594,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1522218349267">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/model_mysql.py" timestamp="1522217618305">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/model_mysql.py" timestamp="1522223400306">
         <mark key="[" line="123" column="17" />
         <mark key="]" line="123" column="0" />
         <mark key="^" line="123" column="0" />
@@ -653,11 +653,11 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="26" column="35" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1522222758432">
-        <mark key="[" line="103" column="22" />
-        <mark key="]" line="103" column="28" />
-        <mark key="." line="103" column="28" />
-        <mark key="^" line="103" column="28" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1522223886360">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+        <mark key="." line="33" column="7" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/wifi/controller.py" timestamp="1521475935000">
         <mark key="[" line="5" column="30" />
@@ -923,40 +923,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi57y65bCRbmFtZeWPguaVsCEiKSkKICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3N0YXR1cyc6IG9yZGVyWydzZXJ2aWNlX3N0YXR1cyddLAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAnb3JkZXJfbnVtYmVyJzogKGludCwgTm9uZSksCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnb3JkZXJfbnVtYmVyJzogKGludCwgTm9uZSksCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>order</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAicGFnZSI6IChpbnQsIDEpLAogICAgICAgICJwZXJfcGFnZSI6IChpbnQsIDUpLA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuYWRtaW4ub3JkZXIubWFuYWdlciBpbXBvcnQgT3JkZXJNYW5hZ2VyCg==</text>
+        <text encoding="base64">cmVtb3ZlZCA9IEZpZWxkKGJvb2wsIEZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuYWRtaW4ucHJvZHVjdC5tYW5hZ2VyIGltcG9ydCBQcm9kdWN0TWFuYWdlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">c2VydmljZV9zdGF0dXMgPSBGaWVsZChzdHIsICJjcmVhdGUiKSAgIyBjcmVhdGUgfCBwcm9jZXNzaW5nIHwgY2FuY2VsIHwgZmluaXNoCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBwYXJhbXNbJ3BhcmFtcyddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBwYXJhbXNbJ2ltYWdlcyddCg==</text>
+        <text encoding="base64">bWVzc2FnZSA9IEZpZWxkKHN0ciwgIiIpICAjIOeVmeiogAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gcGFyYW1zWydib2R5J10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHBhcmFtc1snZGVzY3JpcHRpb24nXQo=</text>
+        <text encoding="base64">c2VydmljZV90eXBlID0gRmllbGQoc3RyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>products</text>
       </register>
     </registers>
     <search>

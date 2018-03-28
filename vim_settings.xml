@@ -1253,11 +1253,11 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/model_mysql.py" timestamp="1522227566715">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="20" column="28" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="28" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/model_mysql.py" timestamp="1522227879377">
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="26" column="54" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="54" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/handler.py" timestamp="1521686470436">
         <mark key="[" line="107" column="31" />
@@ -1405,37 +1405,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3N0YXR1cyc6IG9yZGVyWydzZXJ2aWNlX3N0YXR1cyddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzE0MTc4LWFjLWJhaWR1LSVFNCVCQyU5OCVFNSU4QyU5NiVFNyU5OSVCRSVFNSVCQSVBNi0lRTYlOTAlOUMlRTclOEIlOTctJUU4JUIwJUI3JUU2JUFEJThDJUU2JTkwJTlDJUU3JUI0JUEyJUU3JUJCJTkzJUU2JTlFJTlDJUU0JUI5JThCJUU5JTg3JThEJUU1JUFFJTlBJUU1JTkwJTkxJUU1JThFJUJCJUU5JTk5JUE0LSVFNSU4RSVCQiVFNSVCOSVCRiVFNSU5MSU4QS1mYXZpY29uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ2ZXJpZnlfZmFpbCwgaW52YWxpZF9kZXZpY2U6ICVzIiwgaW52YWxpZF9kZXZpY2UpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">aHR0cHM6Ly9ncmVhc3lmb3JrLm9yZy96aC1DTi9zY3JpcHRzLzE0MTc4LWFjLWJhaWR1LSVFNCVCQyU5OCVFNSU4QyU5NiVFNyU5OSVCRSVFNSVCQSVBNi0lRTYlOTAlOUMlRTclOEIlOTctJUU4JUIwJUI3JUU2JUFEJThDJUU2JTkwJTlDJUU3JUI0JUEyJUU3JUJCJTkzJUU2JTlFJTlDJUU0JUI5JThCJUU5JTg3JThEJUU1JUFFJTlBJUU1JTkwJTkxJUU1JThFJUJCJUU5JTk5JUE0LSVFNSU4RSVCQiVFNSVCOSVCRiVFNSU5MSU4QS1mYXZpY29uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleSA9IHNuICsgJyMnICsgYW5kcm9pZF9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJ2ZXJpZnlfZmFpbCwgaW52YWxpZF9kZXZpY2U6ICVzIiwgaW52YWxpZF9kZXZpY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbnZhbGlkX2RldmljZVtrZXldCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbGF5X3RpbWUgPSBpbnQoKGRhdGV0aW1lLm5vdygpICsgdGltZWRlbHRhKGhvdXJzPTEyKSAtIGRhdGV0aW1lLm5vdygpKS50aW1lc3RhbXAoKSkK</text>
+        <text encoding="base64">ICAgIGtleSA9IHNuICsgJyMnICsgYW5kcm9pZF9pZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>

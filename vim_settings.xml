@@ -601,7 +601,7 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521514473081">
+      <file name="/Dummy.txt" timestamp="1522307748906">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -864,10 +864,11 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/manager.py" timestamp="1522294323081">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/manager.py" timestamp="1522307979103">
+        <mark key="[" line="124" column="27" />
+        <mark key="]" line="123" column="26" />
+        <mark key="." line="123" column="26" />
+        <mark key="^" line="123" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/handler.py" timestamp="1522112089215">
         <mark key="[" line="40" column="73" />
@@ -1440,38 +1441,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3N0YXR1cyc6IG9yZGVyWydzZXJ2aWNlX3N0YXR1cyddLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBhcHAub3B0aW9ucyBpbXBvcnQgZGVmaW5lLCBvcHRpb25zCg==</text>
+      <register name="1" type="4">
+        <text>{&quot;urls&quot;: pic_url_list,
+                                                            &quot;media_ids&quot;: media_id_list,
+                                                            &quot;wx_open_id&quot;: wx_open_id}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAub3B0aW9ucyBpbXBvcnQgZGVmaW5lLCBvcHRpb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text>MsgMgrBase</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLm9wdGlvbnMgaW1wb3J0IGRlZmluZSwgb3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZ2V0X2tleTogJXMnLCBrZXkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5sb2cgaW1wb3J0IGFwcF9sb2cgYXMgbG9nZ2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24ucHJvdG8gaW1wb3J0IGNvbW1vbl9wYjIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTXNnTWdyKE1zZ01nckJhc2UpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZ2V0X2tleSBpZGVudGl0eTogJXMiLCBpZGVudGl0eSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TUFYX1JPV19DT1VOVCA9IDEwMjQgKiAxMDI0Cg==</text>
+        <text encoding="base64">ICAgIF9fYWxsX2Fja193YWl0X2xvY2tfXyA9IHt9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">TUFYX1BVU0hfUk9XX0NPVU5UID0gMzIK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgbm90aWZ5X2FjayhzZXFfbm8pOgogICAgICAgIHF1ZXJ5ID0ge30gICMgeyJuZWVkX2FjayI6IFRydWV9CiAgICAgICAgY2hhbmdlX2RhdGEgPSB7ImFja2VkIjogVHJ1ZX0KICAgICAgICByZXQgPSB5aWVsZCB1cGRhdGVfcHVzaF9tc2dfaW5mbyhjaGFuZ2VfZGF0YSwgc2VxX25vLCBxdWVyeT1xdWVyeSkKICAgICAgICAjIGlmIHJldCA8IDE6CiAgICAgICAgIyAgICByZXR1cm4gLTEsICJ1cGRhdGVfcHVzaF9tc2dfaW5mbyBmYWlsOiVzIiVyZXQKICAgICAgICBpZiBzZXFfbm8gaW4gTXNnTWdyQmFzZS5fX2FsbF9hY2tfd2FpdF9sb2NrX186CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJub3RpZnlfYWNrOmZvdW5kIGxvY2sgYW5kIGRlbGV0ZSA6JXMiLCBzZXFfbm8pCiAgICAgICAgICAgIGNvbmRpdGlvbiA9IE1zZ01nckJhc2UuX19hbGxfYWNrX3dhaXRfbG9ja19fW3NlcV9ub10KICAgICAgICAgICAgY29uZGl0aW9uLm5vdGlmeSgpCgogICAgICAgIHJldHVybiAwLCAib2si</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>MsgMgrBase</text>
       </register>
     </registers>
     <search>

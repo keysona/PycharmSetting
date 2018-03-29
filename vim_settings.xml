@@ -865,11 +865,11 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/manager.py" timestamp="1522311338892">
-        <mark key="[" line="60" column="13" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="28" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/manager.py" timestamp="1522312627961">
+        <mark key="[" line="31" column="58" />
+        <mark key="]" line="31" column="57" />
+        <mark key="." line="31" column="57" />
+        <mark key="^" line="31" column="57" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/handler.py" timestamp="1522112089215">
         <mark key="[" line="40" column="73" />
@@ -1440,42 +1440,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3N0YXR1cyc6IG9yZGVyWydzZXJ2aWNlX3N0YXR1cyddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oInhnX3B1c2hfc2luZ2xlX2FjY291bnQgc3VjY2VzcywgcHVzaF90bzolcyIsIHB1c2hfdG8pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBVU0hfRkFJTCgpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAuCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBVU0hfRkFJTCgpCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvZGUsIGVycl9tc2cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHlpZWxkIHVwZGF0ZV9wdXNoX21zZ19pbmZvKGNoYW5nZV9kYXRhLCBzZXFfbm8sIHF1ZXJ5PXF1ZXJ5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZV9kYXRhID0geyJyZW1vdmVkIjogVHJ1ZX0gICMgcmVtb3ZlIGluIGNhc2UgYWNrIHNlbmQgb3V0Cg==</text>
+        <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0ge30gICMgeyJuZWVkX2FjayI6VHJ1ZX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGNhbl9kZWxheTogICMgbm8gcm0gbWVzc2FnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{&quot;login_name&quot;: login_name,
-                                                                               &quot;msg&quot;: recharge_msg}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBqc29uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoInB1c2hfcmVjaGFyZ2Vfc3VjY2VzcywgaW9zOiAlcyIsIGlvcykK</text>
+        <text encoding="base64">ZXhjZXB0IEltcG9ydEVycm9yOgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{&quot;login_name&quot;: login_name,
-                                                                                 &quot;video_call_ids&quot;: video_call_ids}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCB1anNvbiBhcyBqc29uCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
     </registers>
     <search>

@@ -726,6 +726,7 @@
         <mark key="." line="71" column="45" />
         <mark key="^" line="71" column="45" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/xg/request.py" timestamp="1522311261399" />
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/password/change_handler.py" timestamp="1522298917166" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1521703396087" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/image/model_mysql.py" timestamp="1521687871922">
@@ -864,11 +865,11 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/manager.py" timestamp="1522307979103">
-        <mark key="[" line="124" column="27" />
-        <mark key="]" line="123" column="26" />
-        <mark key="." line="123" column="26" />
-        <mark key="^" line="123" column="26" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/manager.py" timestamp="1522311338892">
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/handler.py" timestamp="1522112089215">
         <mark key="[" line="40" column="73" />
@@ -1289,11 +1290,11 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/handler.py" timestamp="1522242381273">
-        <mark key="[" line="148" column="64" />
-        <mark key="]" line="148" column="63" />
-        <mark key="^" line="148" column="63" />
-        <mark key="." line="148" column="63" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/handler.py" timestamp="1522310012917">
+        <mark key="[" line="136" column="41" />
+        <mark key="]" line="136" column="40" />
+        <mark key="^" line="136" column="40" />
+        <mark key="." line="136" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/torcore/database/table.py" timestamp="1520842733684">
         <mark key="[" line="55" column="19" />
@@ -1441,40 +1442,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3N0YXR1cyc6IG9yZGVyWydzZXJ2aWNlX3N0YXR1cyddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{&quot;urls&quot;: pic_url_list,
-                                                            &quot;media_ids&quot;: media_id_list,
-                                                            &quot;wx_open_id&quot;: wx_open_id}</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBVU0hfRkFJTCgpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>MsgMgrBase</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBVU0hfRkFJTCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygnZ2V0X2tleTogJXMnLCBrZXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvZGUsIGVycl9tc2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldCA9IHlpZWxkIHVwZGF0ZV9wdXNoX21zZ19pbmZvKGNoYW5nZV9kYXRhLCBzZXFfbm8sIHF1ZXJ5PXF1ZXJ5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW5nZV9kYXRhID0geyJyZW1vdmVkIjogVHJ1ZX0gICMgcmVtb3ZlIGluIGNhc2UgYWNrIHNlbmQgb3V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgTXNnTWdyKE1zZ01nckJhc2UpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXJ5ID0ge30gICMgeyJuZWVkX2FjayI6VHJ1ZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiZ2V0X2tleSBpZGVudGl0eTogJXMiLCBpZGVudGl0eSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGNhbl9kZWxheTogICMgbm8gcm0gbWVzc2FnZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIF9fYWxsX2Fja193YWl0X2xvY2tfXyA9IHt9Cg==</text>
+      <register name="7" type="4">
+        <text>{&quot;login_name&quot;: login_name,
+                                                                               &quot;msg&quot;: recharge_msg}</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgbm90aWZ5X2FjayhzZXFfbm8pOgogICAgICAgIHF1ZXJ5ID0ge30gICMgeyJuZWVkX2FjayI6IFRydWV9CiAgICAgICAgY2hhbmdlX2RhdGEgPSB7ImFja2VkIjogVHJ1ZX0KICAgICAgICByZXQgPSB5aWVsZCB1cGRhdGVfcHVzaF9tc2dfaW5mbyhjaGFuZ2VfZGF0YSwgc2VxX25vLCBxdWVyeT1xdWVyeSkKICAgICAgICAjIGlmIHJldCA8IDE6CiAgICAgICAgIyAgICByZXR1cm4gLTEsICJ1cGRhdGVfcHVzaF9tc2dfaW5mbyBmYWlsOiVzIiVyZXQKICAgICAgICBpZiBzZXFfbm8gaW4gTXNnTWdyQmFzZS5fX2FsbF9hY2tfd2FpdF9sb2NrX186CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJub3RpZnlfYWNrOmZvdW5kIGxvY2sgYW5kIGRlbGV0ZSA6JXMiLCBzZXFfbm8pCiAgICAgICAgICAgIGNvbmRpdGlvbiA9IE1zZ01nckJhc2UuX19hbGxfYWNrX3dhaXRfbG9ja19fW3NlcV9ub10KICAgICAgICAgICAgY29uZGl0aW9uLm5vdGlmeSgpCgogICAgICAgIHJldHVybiAwLCAib2si</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoInB1c2hfcmVjaGFyZ2Vfc3VjY2VzcywgaW9zOiAlcyIsIGlvcykK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>{&quot;login_name&quot;: login_name,
+                                                                                 &quot;video_call_ids&quot;: video_call_ids}</text>
       </register>
       <register name="-" type="4">
-        <text>MsgMgrBase</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

@@ -761,11 +761,11 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/verify_handler.py" timestamp="1522414418602">
-        <mark key="[" line="34" column="103" />
-        <mark key="]" line="34" column="102" />
-        <mark key="." line="34" column="102" />
-        <mark key="^" line="34" column="102" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/verify_handler.py" timestamp="1522415062651">
+        <mark key="[" line="106" column="62" />
+        <mark key="]" line="105" column="61" />
+        <mark key="." line="105" column="61" />
+        <mark key="^" line="105" column="61" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/client/manager.py" timestamp="1521980508036">
         <mark key="[" line="55" column="61" />
@@ -1083,18 +1083,36 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdhcHAvdmVyaWZ5IGRldmljZVslc10gaXMgdmFsaWQhIScsIGlkZW50aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdhcHAvdmVyaWZ5IGludmFsaWQgZGV2aWNlWyVzXSBpZGVudGl0eTogJXMnLCB2YWxpZF9kZXZpY2UsIGlkZW50aXR5KQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnYXBwL3ZlcmlmeSBpbnZhbGlkIGRldmljZVslc10gaWRlbnRpdHk6ICVzJywgdmFsaWRfZGV2aWNlLCBpZGVudGl0eSkK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnYXBwL3ZlcmlmeSBpbnZhbGlkIGRldmljZVslc10gaWRlbnRpdHk6ICVzJywgdmFsaWRfZGV2aWNlLCBpZGVudGl0eSkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmlmeV9kZXZpY2UgPSBmaW5kCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAjIGlmIGRldmljZToKICAgICMgICAgIGlmIGRldmljZVsnYW5kcm9pZF9pZCddICE9IGFuZHJvaWRfaWQ6CiAgICAjICAgICAgICAgbG9nZ2VyLmluZm8oImludmFsaWQgZGV2aWNlLCBpZGVudGl0eTogJXMsIGRldmljZTogJXMiLCBpZGVudGl0eSwgZGV2aWNlKQogICAgIyAgICAgICAgIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgRmFsc2UpCiAgICAjICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHJldHVybiBUcnVlCiAgICAjIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgVHJ1ZSkKICAgICMgcmV0dXJuIFRydWUK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>@gen.coroutine
 def find_verify_device(identity):
     cursor = yield Table.execute(&quot;select * from device_info where sn='%s' and android_id='%s' and removed='0'&quot;,
@@ -1103,26 +1121,8 @@ def find_verify_device(identity):
     cursor.close()
     return device</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmlmeSAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgQ2xpZW50TWdyLnVwZGF0ZV9kZXZpY2VfdmVyaWZ5KGlkZW50aXR5LCBGYWxzZSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCdhcHAvdmVyaWZ5IGRldmljZVslc10gaXMgaW52YWxpZCEhJywgaWRlbnRpdHkpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgQ2xpZW50TWdyLnVwZGF0ZV9kZXZpY2VfdmVyaWZ5KGlkZW50aXR5LCBUcnVlKQo=</text>
-      </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>'</text>
       </register>
     </registers>
     <search>

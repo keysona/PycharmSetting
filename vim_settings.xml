@@ -111,11 +111,11 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522400242920">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-        <mark key="^" line="28" column="34" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522401657329">
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="69" column="11" />
+        <mark key="." line="69" column="11" />
+        <mark key="^" line="69" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/hotel/controller.py" timestamp="1521475585550" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522285623316" />
@@ -1079,34 +1079,34 @@
         <text encoding="base64">ICAgICAgICAncHJpY2UnOiAoaW50LCBOb25lKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBfCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJ0aWNsZXNbbm9kZVsnaWQnXV0K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub2RlWydzaG93X3R5cGUnXSA9PSAnYXJ0aWNsZSc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>

@@ -761,6 +761,12 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/verify_handler.py" timestamp="1522413031910">
+        <mark key="[" line="46" column="55" />
+        <mark key="]" line="93" column="30" />
+        <mark key="." line="93" column="30" />
+        <mark key="^" line="93" column="30" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/client/manager.py" timestamp="1521980508036">
         <mark key="[" line="55" column="61" />
         <mark key="]" line="55" column="60" />
@@ -1002,7 +1008,7 @@
         <mark key="^" line="83" column="89" />
         <mark key="." line="83" column="89" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/verify/verify_mgr.py" timestamp="1522411138943" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/verify/verify_mgr.py" timestamp="1522412393239" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/layout/handler.py" timestamp="1521375173293">
         <mark key="[" line="37" column="43" />
         <mark key="]" line="37" column="42" />
@@ -1080,37 +1086,37 @@
         <text encoding="base64">ICAgICAgICAncHJpY2UnOiAoaW50LCBOb25lKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyaWZ5ID0gRmFsc2UK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>False</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgdmVyaWZ5Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVyaWZ5ID0geWllbGQgaXNfdmFsaWRfZGV2aWNlKGlkZW50aXR5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdhcHAvdmVyaWZ5IGRldmljZVslc10gaXMgdmFsaWQhIScsIGlkZW50aXR5KQogICAgICAgICAgICAgICAgeWllbGQgQ2xpZW50TWdyLnVwZGF0ZV9kZXZpY2VfdmVyaWZ5KGlkZW50aXR5LCBUcnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>False</text>
       </register>
     </registers>
     <search>

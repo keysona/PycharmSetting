@@ -111,11 +111,11 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522473731665">
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="65" column="40" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522477457479">
+        <mark key="[" line="89" column="60" />
+        <mark key="]" line="89" column="59" />
+        <mark key="." line="89" column="59" />
+        <mark key="^" line="89" column="59" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522429282772" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/controller.py" timestamp="1521475473054">
@@ -1084,34 +1084,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdhcHAvdmVyaWZ5IGludmFsaWQgZGV2aWNlWyVzXSBpZGVudGl0eTogJXMnLCB2YWxpZF9kZXZpY2UsIGlkZW50aXR5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VzCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2VzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnYXBwL3ZlcmlmeSBpbnZhbGlkIGRldmljZVslc10gaWRlbnRpdHk6ICVzJywgdmFsaWRfZGV2aWNlLCBpZGVudGl0eSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0WydpbSddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9kZVsnaWQnXSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0WydpZCddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RpdGxlJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmlmeV9kZXZpY2UgPSBmaW5kCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAjIGlmIGRldmljZToKICAgICMgICAgIGlmIGRldmljZVsnYW5kcm9pZF9pZCddICE9IGFuZHJvaWRfaWQ6CiAgICAjICAgICAgICAgbG9nZ2VyLmluZm8oImludmFsaWQgZGV2aWNlLCBpZGVudGl0eTogJXMsIGRldmljZTogJXMiLCBpZGVudGl0eSwgZGV2aWNlKQogICAgIyAgICAgICAgIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgRmFsc2UpCiAgICAjICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHJldHVybiBUcnVlCiAgICAjIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgVHJ1ZSkKICAgICMgcmV0dXJuIFRydWUK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGRlZiBfZ2VuX2xheW91dChjbHMsIG5vZGVzLCBhcnRpY2xlcywgcHJvZHVjdHMsIHNlcnZpY2VzKToK</text>
       </register>
       <register name="-" type="4">
         <text>ようかい体操第一</text>

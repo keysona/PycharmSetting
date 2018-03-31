@@ -111,11 +111,11 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522409004888">
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="11" />
-        <mark key="." line="69" column="11" />
-        <mark key="^" line="69" column="11" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522469796164">
+        <mark key="[" line="68" column="62" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="65" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522429282772" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/controller.py" timestamp="1521475473054">
@@ -1084,43 +1084,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCdhcHAvdmVyaWZ5IGludmFsaWQgZGV2aWNlWyVzXSBpZGVudGl0eTogJXMnLCB2YWxpZF9kZXZpY2UsIGlkZW50aXR5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnYXBwL3ZlcmlmeSBpbnZhbGlkIGRldmljZVslc10gaWRlbnRpdHk6ICVzJywgdmFsaWRfZGV2aWNlLCBpZGVudGl0eSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygnYXBwL3ZlcmlmeSBpbnZhbGlkIGRldmljZVslc10gaWRlbnRpdHk6ICVzJywgdmFsaWRfZGV2aWNlLCBpZGVudGl0eSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmlmeV9kZXZpY2UgPSBmaW5kCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAjIGlmIGRldmljZToKICAgICMgICAgIGlmIGRldmljZVsnYW5kcm9pZF9pZCddICE9IGFuZHJvaWRfaWQ6CiAgICAjICAgICAgICAgbG9nZ2VyLmluZm8oImludmFsaWQgZGV2aWNlLCBpZGVudGl0eTogJXMsIGRldmljZTogJXMiLCBpZGVudGl0eSwgZGV2aWNlKQogICAgIyAgICAgICAgIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgRmFsc2UpCiAgICAjICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHJldHVybiBUcnVlCiAgICAjIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgVHJ1ZSkKICAgICMgcmV0dXJuIFRydWUK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZlcmlmeV9kZXZpY2UgPSBmaW5kCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>@gen.coroutine
-def find_verify_device(identity):
-    cursor = yield Table.execute(&quot;select * from device_info where sn='%s' and android_id='%s' and removed='0'&quot;,
-                                 identity['sn'], identity['android_id'])
-    device = cursor.fetchone()
-    cursor.close()
-    return device</text>
+        <text encoding="base64">ICAjIGlmIGRldmljZToKICAgICMgICAgIGlmIGRldmljZVsnYW5kcm9pZF9pZCddICE9IGFuZHJvaWRfaWQ6CiAgICAjICAgICAgICAgbG9nZ2VyLmluZm8oImludmFsaWQgZGV2aWNlLCBpZGVudGl0eTogJXMsIGRldmljZTogJXMiLCBpZGVudGl0eSwgZGV2aWNlKQogICAgIyAgICAgICAgIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgRmFsc2UpCiAgICAjICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHJldHVybiBUcnVlCiAgICAjIHlpZWxkIENsaWVudE1nci51cGRhdGVfZGV2aWNlX3ZlcmlmeShpZGVudGl0eSwgVHJ1ZSkKICAgICMgcmV0dXJuIFRydWUK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ようかい体操第一</text>
       </register>
     </registers>
     <search>

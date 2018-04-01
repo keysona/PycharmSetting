@@ -105,11 +105,10 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522550137021">
-        <mark key="[" line="110" column="26" />
-        <mark key="]" line="110" column="25" />
-        <mark key="." line="110" column="25" />
-        <mark key="^" line="110" column="25" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522551305478">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522429282772" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/controller.py" timestamp="1521475473054">
@@ -1057,34 +1056,34 @@
         <text encoding="base64">ICAgIGxheW91dCA9IEZpZWxkKHN0ciwganNvbi5kdW1wcyh7fSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBqc29uLmR1bXBzKGxheW91dCkK</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoIm5vZGU6ICVzIiwgbm9kZSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoIm5vZGU6ICVzIiwgbm9kZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBqc29uLmR1bXBzKGxheW91dCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBqc29uLmR1bXBzKCdsYXlvdXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSAK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBqc29uLmR1bXBzKCdsYXlvdXQnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdlbl9hcnRpY2xlKGNscywgZGF0YSwgYXJ0aWNsZXMpOgogICAgICAgIGlmIGRhdGFbJ2lkJ10gbm90IGluIGFydGljbGVzOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIuaJvuS4jeWIsOivpeaWh+eroCEiKQogICAgICAgIGRhdGFbJ2lkJ10gPSBbJ2lkJ10KICAgICAgICBhcnRpY2xlID0gYXJ0aWNsZXNbbm9kZVsnaWQnXV0KICAgICAgICByZXRbJ3RpdGxlJ10gPSBhcnRpY2xlWyd0aXRsZSddCiAgICAgICAgcmV0WydkZXNjJ10gPSBhcnRpY2xlc1snZGVzY3JpcHRpb24nXQogICAgICAgIGltYWdlcyA9IGpzb24ubG9hZHMoYXJ0aWNsZVsnaW1hZ2VzJ10pCiAgICAgICAgcmV0WydpbWcnXSA9IGltYWdlc1swXSBpZiBsZW4oaW1hZ2VzKSA+IDAgZWxzZSAnJyA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSAK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>

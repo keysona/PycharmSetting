@@ -105,10 +105,11 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522547812819">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1522550137021">
+        <mark key="[" line="110" column="26" />
+        <mark key="]" line="110" column="25" />
+        <mark key="." line="110" column="25" />
+        <mark key="^" line="110" column="25" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522429282772" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/category/controller.py" timestamp="1521475473054">
@@ -1058,8 +1059,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBqc29uLmR1bXBzKGxheW91dCkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsYXlvdXQgPSBqc29uLmR1bXBzKGxheW91dCkK</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1086,7 +1087,7 @@
         <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGdlbl9hcnRpY2xlKGNscywgZGF0YSwgYXJ0aWNsZXMpOgogICAgICAgIGlmIGRhdGFbJ2lkJ10gbm90IGluIGFydGljbGVzOgogICAgICAgICAgICByYWlzZSBFeGNlcHRpb24oIuaJvuS4jeWIsOivpeaWh+eroCEiKQogICAgICAgIGRhdGFbJ2lkJ10gPSBbJ2lkJ10KICAgICAgICBhcnRpY2xlID0gYXJ0aWNsZXNbbm9kZVsnaWQnXV0KICAgICAgICByZXRbJ3RpdGxlJ10gPSBhcnRpY2xlWyd0aXRsZSddCiAgICAgICAgcmV0WydkZXNjJ10gPSBhcnRpY2xlc1snZGVzY3JpcHRpb24nXQogICAgICAgIGltYWdlcyA9IGpzb24ubG9hZHMoYXJ0aWNsZVsnaW1hZ2VzJ10pCiAgICAgICAgcmV0WydpbWcnXSA9IGltYWdlc1swXSBpZiBsZW4oaW1hZ2VzKSA+IDAgZWxzZSAnJyA=</text>
       </register>
       <register name="-" type="4">
-        <text>format_list</text>
+        <text>]</text>
       </register>
     </registers>
     <search>

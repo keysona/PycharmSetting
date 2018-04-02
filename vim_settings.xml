@@ -93,6 +93,12 @@
         <mark key="^" line="109" column="29" />
         <mark key="." line="109" column="29" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1522654017215">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="27" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1522638130332">
         <mark key="[" line="100" column="47" />
         <mark key="]" line="100" column="46" />
@@ -117,11 +123,11 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1522637481552">
-        <mark key="[" line="172" column="111" />
-        <mark key="]" line="172" column="110" />
-        <mark key="." line="172" column="110" />
-        <mark key="^" line="172" column="110" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1522654116128">
+        <mark key="[" line="210" column="65" />
+        <mark key="]" line="210" column="64" />
+        <mark key="." line="210" column="64" />
+        <mark key="^" line="210" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/handler.py" timestamp="1522638865893">
         <mark key="[" line="102" column="58" />
@@ -157,7 +163,7 @@
         <mark key="^" line="26" column="24" />
         <mark key="." line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/model_mysql.py" timestamp="1522650071967">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/model_mysql.py" timestamp="1522652530027">
         <mark key="[" line="37" column="39" />
         <mark key="]" line="37" column="71" />
         <mark key="^" line="37" column="71" />
@@ -254,40 +260,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIGhvdGVsIHByb2R1Y3QKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cycsIFByb2R1Y3RBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cy8oP1A8aWQ+W1xkXXsxLDZ9KScsIFByb2R1Y3RPbmVIYW5kbGVyKSwK</text>
+        <text encoding="base64">ICAgICAgICAocicvYXBpL2RldmljZS9yb29tL3NlcnZpY2UvbGlzdCcsIFNlcnZpY2VMaXN0SGFuZGxlciksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudF9pZCc6IHNlbGYuY2xpZW50WydpZCddCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>proccessing</text>
+        <text>ServiceListHandler</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXNzYWdlJzogc2VydmljZVsnbWVzc2FnZSddLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3R5cGUnOiBzZXJ2aWNlWydzZXJ2aWNlX3N0YXR1cyddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXJ2aWNlX3N0YXR1cyc6IHNlcnZpY2VbJ3NlcnZpY2Vfc3RhdHVzJ10sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGllbnRfZ2VuZGVyJzogc2VydmljZVsnY2xpZW50X2dlbmRlciddLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJvb20gPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGllbnRfbmFtZSc6IHNlcnZpY2VbJ2NsaWVudF9uYW1lJ10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGFydGljbGVfaWQ6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb3Zlcl9pbWFnZSc6IHNlcnZpY2VbJ2NvdmVyX2ltYWdlJ10K</text>
       </register>
       <register name="-" type="4">
-        <text>proccessing</text>
+        <text>ServiceListHandler</text>
       </register>
     </registers>
     <search>

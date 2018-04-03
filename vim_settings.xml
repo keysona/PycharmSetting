@@ -225,11 +225,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522720646353">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="128" column="62" />
-        <mark key="^" line="128" column="62" />
-        <mark key="." line="128" column="62" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522722088547">
+        <mark key="[" line="131" column="47" />
+        <mark key="]" line="131" column="47" />
+        <mark key="^" line="131" column="47" />
+        <mark key="." line="131" column="47" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/manager.py" timestamp="1522660786139">
         <mark key="[" line="26" column="40" />
@@ -302,7 +302,7 @@
         <text encoding="base64">ICAgICAgICAjICdtb2JpbGUnOiAoc3RyLCBOb25lKSwKICAgICAgICAjICdjYXB0Y2hhJzogewogICAgICAgICAgICAjICd1dWlkJzogKCksCiAgICAgICAgICAgICMgJ2NvZGUnOiAoKQogICAgICAgICMgfQ==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAjICdtb2JpbGUnOiAoc3RyLCBOb25lKSwKICAgICAgICAjICdjYXB0Y2hhJzogewogICAgICAgICAgICAjICd1dWlkJzogKCksCiAgICAgICAgICAgICMgJ2NvZGUnOiAoKQogICAgICAgICMgfQ==</text>
+        <text>phone</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICMK</text>
@@ -347,7 +347,7 @@ type = Field(str, &quot;service&quot;)  # service | order</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>update_activate</text>
+        <text>phone</text>
       </register>
     </registers>
     <search>

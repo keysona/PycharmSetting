@@ -71,9 +71,7 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522723895726">
-        <mark key="[" line="82" column="40" />
-      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522726357619" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522723861614">
         <mark key="[" line="35" column="31" />
         <mark key="]" line="35" column="30" />
@@ -128,6 +126,7 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/batch_ack_handler.py" timestamp="1522726890941" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/manager.py" timestamp="1522719672749">
         <mark key="[" line="69" column="17" />
         <mark key="]" line="69" column="16" />
@@ -228,11 +227,11 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522723886802">
-        <mark key="[" line="81" column="45" />
-        <mark key="]" line="81" column="44" />
-        <mark key="^" line="81" column="44" />
-        <mark key="." line="81" column="44" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522726274598">
+        <mark key="[" line="120" column="89" />
+        <mark key="]" line="120" column="88" />
+        <mark key="." line="120" column="88" />
+        <mark key="^" line="120" column="88" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/manager.py" timestamp="1522660786139">
         <mark key="[" line="26" column="40" />
@@ -301,56 +300,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogY2xpZW50Wydob3RlbF9pZCddLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAjICdtb2JpbGUnOiAoc3RyLCBOb25lKSwKICAgICAgICAjICdjYXB0Y2hhJzogewogICAgICAgICAgICAjICd1dWlkJzogKCksCiAgICAgICAgICAgICMgJ2NvZGUnOiAoKQogICAgICAgICMgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>phone</text>
+        <text>e</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
-      <register name="8" type="4">
-        <text>hotel_id = Field(int)
-client_id = Field(int)
-room_id = Field(int)
-room_no = Field(str)
-service_id = Field(int, 0)
-order_id = Field(int, 0)
-cover_image = Field(str, &quot;&quot;)
-
-# room info
-room_phone_number = Field(str, &quot;&quot;)
-
-# client info
-client_name = Field(str)
-client_gender = Field(str)
-
-message = Field(str, &quot;&quot;)
-
-status = Field(str, &quot;create&quot;)  # create | processing | cancel | finish
-type = Field(str, &quot;service&quot;)  # service | order</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiB1cGRhdGVfZGV2aWNlX2xvZ2luX2luZm8odWlkLCB0b2tlbiwgaXAsIGFuKToK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAjICdtb2JpbGUnOiAoc3RyLCBOb25lKSwKICAgICAgICAjICdjYXB0Y2hhJzogewogICAgICAgICAgICAjICd1dWlkJzogKCksCiAgICAgICAgICAgICMgJ2NvZGUnOiAoKQogICAgICAgICMgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
+      </register>
       <register name="-" type="4">
-        <text>phone</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

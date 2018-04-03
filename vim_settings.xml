@@ -153,11 +153,11 @@
       <file name="/Python Console" timestamp="1522662811957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/controller.py" timestamp="1522761372267">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="52" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/controller.py" timestamp="1522764286038">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="21" column="31" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/controller.py" timestamp="1522661564676">
         <mark key="[" line="113" column="32" />
@@ -230,6 +230,9 @@
         <mark key="]" line="77" column="36" />
         <mark key="^" line="77" column="36" />
         <mark key="." line="77" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1522764433994">
+        <mark key="[" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522726274598">
         <mark key="[" line="120" column="89" />

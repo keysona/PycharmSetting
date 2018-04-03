@@ -71,7 +71,7 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522720305666">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522720561825">
         <mark key="[" line="36" column="1" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -225,6 +225,12 @@
         <mark key="." line="7" column="34" />
         <mark key="^" line="7" column="34" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522720646353">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="128" column="62" />
+        <mark key="^" line="128" column="62" />
+        <mark key="." line="128" column="62" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/manager.py" timestamp="1522660786139">
         <mark key="[" line="26" column="40" />
       </file>
@@ -292,28 +298,31 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogY2xpZW50Wydob3RlbF9pZCddLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAjICdtb2JpbGUnOiAoc3RyLCBOb25lKSwKICAgICAgICAjICdjYXB0Y2hhJzogewogICAgICAgICAgICAjICd1dWlkJzogKCksCiAgICAgICAgICAgICMgJ2NvZGUnOiAoKQogICAgICAgICMgfQ==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAjICdtb2JpbGUnOiAoc3RyLCBOb25lKSwKICAgICAgICAjICdjYXB0Y2hhJzogewogICAgICAgICAgICAjICd1dWlkJzogKCksCiAgICAgICAgICAgICMgJ2NvZGUnOiAoKQogICAgICAgICMgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>hotel_id = Field(int)
 client_id = Field(int)
 room_id = Field(int)
@@ -334,11 +343,8 @@ message = Field(str, &quot;&quot;)
 status = Field(str, &quot;create&quot;)  # create | processing | cancel | finish
 type = Field(str, &quot;service&quot;)  # service | order</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>update_activate</text>

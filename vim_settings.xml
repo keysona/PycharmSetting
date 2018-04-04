@@ -15,23 +15,35 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/controller.py" timestamp="1522845897028">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="92" column="21" />
+        <mark key="^" line="92" column="21" />
+        <mark key="." line="92" column="21" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1522757853642">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="22" />
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/controller.py" timestamp="1522845148844">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/controller.py" timestamp="1522845330534">
+        <mark key="[" line="76" column="89" />
+        <mark key="]" line="76" column="88" />
+        <mark key="^" line="76" column="88" />
+        <mark key="." line="76" column="88" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/manager.py" timestamp="1522845113793">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="37" />
-        <mark key="^" line="53" column="37" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/manager.py" timestamp="1522845376064">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/model_mysql.py" timestamp="1522845570183">
+        <mark key="[" line="97" column="47" />
+        <mark key="]" line="97" column="46" />
+        <mark key="." line="97" column="46" />
+        <mark key="^" line="97" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522723861614">
@@ -107,7 +119,7 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/model_mysql.py" timestamp="1522845058475">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/model_mysql.py" timestamp="1522845383634">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="97" column="28" />
         <mark key="." line="97" column="28" />
@@ -144,6 +156,12 @@
         <mark key="]" line="45" column="63" />
         <mark key="." line="45" column="63" />
         <mark key="^" line="45" column="63" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/manager.py" timestamp="1522845703445">
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="53" column="63" />
+        <mark key="." line="53" column="63" />
+        <mark key="^" line="53" column="63" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1522757554176">
         <mark key="[" line="78" column="38" />
@@ -221,39 +239,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGhvdGVsIHByb2R1Y3QKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cycsIFByb2R1Y3RBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cy8oP1A8aWQ+W1xkXXsxLDZ9KScsIFByb2R1Y3RPbmVIYW5kbGVyKSwK</text>
       </register>
-      <register name="1" type="4">
-        <text>get_department_message, get_department_message_list, insert_department_message,\
-    update_department_message, count_departments_messages</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>department_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfdHlwZV9pZHMgPSBGaWVsZChzdHIsIGpzb24uZHVtcHMoW10pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGFbJ2Rlc2NyaXB0aW9uJ10gPSBkZXNjcmlwdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlcGFydG1lbnRfaWQgPSBGaWVsZChpbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZXNjcmlwdGlvbiBhbmQgZGVwYXJ0bWVudFsnZGVzY3JpcHRpb24nXSAhPSBkZXNjcmlwdGlvbjoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGFbJ25hbWUnXSA9IG5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50X2luZm9bJ25hbWUnXSA9IG5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBpZiBuYW1lIGFuZCBjb25maWdbJ25hbWUnXSAhPSBuYW1lOgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>get_message_department, get_message_department_list, insert_message_department, \
+    update_message_department, count_message_department</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudF9pbmZvWydkZXNjcmlwdGlvbiddID0gZGVzY3JpcHRpb24K</text>
+      <register name="8" type="4">
+        <text>get_department_message, get_department_message_list, insert_department_message,\
+    update_department_message, count_departments_messages</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZXNjcmlwdGlvbjoK</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfdHlwZV9pZHMgPSBGaWVsZChzdHIsIGpzb24uZHVtcHMoW10pKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>department_id</text>
       </register>
     </registers>
     <search>

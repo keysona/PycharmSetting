@@ -151,11 +151,11 @@
         <mark key="." line="69" column="16" />
         <mark key="^" line="69" column="16" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1522763112690">
-        <mark key="[" line="45" column="64" />
-        <mark key="]" line="45" column="63" />
-        <mark key="." line="45" column="63" />
-        <mark key="^" line="45" column="63" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1522846513819">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="49" column="11" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/manager.py" timestamp="1522845703445">
         <mark key="[" line="55" column="18" />
@@ -168,9 +168,6 @@
         <mark key="]" line="78" column="37" />
         <mark key="." line="78" column="37" />
         <mark key="^" line="78" column="37" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1522764433994">
-        <mark key="[" line="21" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522832087889">
         <mark key="[" line="137" column="54" />
@@ -240,36 +237,34 @@
         <text encoding="base64">ICAgICAgICAjIGhvdGVsIHByb2R1Y3QKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cycsIFByb2R1Y3RBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cy8oP1A8aWQ+W1xkXXsxLDZ9KScsIFByb2R1Y3RPbmVIYW5kbGVyKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>department_id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGFbJ2Rlc2NyaXB0aW9uJ10gPSBkZXNjcmlwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZXNjcmlwdGlvbiBhbmQgZGVwYXJ0bWVudFsnZGVzY3JpcHRpb24nXSAhPSBkZXNjcmlwdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGFbJ25hbWUnXSA9IG5hbWUK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuYW1lIGFuZCBjb25maWdbJ25hbWUnXSAhPSBuYW1lOgo=</text>
+        <text encoding="base64">ICAgIGdldF9wYXJhbXMgPSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>get_message_department, get_message_department_list, insert_message_department, \
-    update_message_department, count_message_department</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>get_department_message, get_department_message_list, insert_department_message,\
-    update_department_message, count_departments_messages</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigicGFyYW1zOiAlcywgcXVlcnk6ICVzIiwgcGFyYW1zLCBxdWVyeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfdHlwZV9pZHMgPSBGaWVsZChzdHIsIGpzb24uZHVtcHMoW10pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>department_id</text>

@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/msg_mgr.py" timestamp="1522810822978">
+        <mark key="[" line="397" column="64" />
+        <mark key="]" line="397" column="63" />
+        <mark key="." line="397" column="63" />
+        <mark key="^" line="397" column="63" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1522757853642">
         <mark key="[" line="24" column="23" />
         <mark key="]" line="24" column="22" />

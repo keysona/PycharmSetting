@@ -21,6 +21,18 @@
         <mark key="." line="24" column="22" />
         <mark key="^" line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/controller.py" timestamp="1522845148844">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/manager.py" timestamp="1522845113793">
+        <mark key="[" line="53" column="38" />
+        <mark key="]" line="53" column="37" />
+        <mark key="." line="53" column="37" />
+        <mark key="^" line="53" column="37" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522723861614">
         <mark key="[" line="35" column="31" />
@@ -95,11 +107,11 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/model_mysql.py" timestamp="1522838759150">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="40" />
-        <mark key="." line="21" column="40" />
-        <mark key="^" line="21" column="40" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/model_mysql.py" timestamp="1522845058475">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="97" column="28" />
+        <mark key="." line="97" column="28" />
+        <mark key="^" line="97" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/handler.py" timestamp="1522762857580">
         <mark key="[" line="58" column="56" />
@@ -209,38 +221,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAjIGhvdGVsIHByb2R1Y3QKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cycsIFByb2R1Y3RBbnlIYW5kbGVyKSwKICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9wcm9kdWN0cy8oP1A8aWQ+W1xkXXsxLDZ9KScsIFByb2R1Y3RPbmVIYW5kbGVyKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfdHlwZV9pZHMgPSBGaWVsZChzdHIsIGpzb24uZHVtcHMoW10pKQo=</text>
+      <register name="1" type="4">
+        <text>get_department_message, get_department_message_list, insert_department_message,\
+    update_department_message, count_departments_messages</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2VfdHlwZV9pZHMgPSBGaWVsZChzdHIsIGpzb24uZHVtcHMoW10pKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGFydG1lbnRfaWQgPSBGaWVsZChpbnQpCg==</text>
+        <text encoding="base64">ICAgIHNlcnZpY2VfdHlwZV9pZHMgPSBGaWVsZChzdHIsIGpzb24uZHVtcHMoW10pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcGFydG1lbnRfaWQgPSBGaWVsZChpbnQpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50X2luZm9bJ25hbWUnXSA9IG5hbWUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZXBhcnRtZW50X2luZm9bJ25hbWUnXSA9IG5hbWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudF9pbmZvWydkZXNjcmlwdGlvbiddID0gZGVzY3JpcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBkZXNjcmlwdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVwYXJ0bWVudF9pbmZvWydkZXNjcmlwdGlvbiddID0gZGVzY3JpcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBkZXNjcmlwdGlvbjoK</text>
       </register>
       <register name="-" type="4">
-        <text>hotel_department_message</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

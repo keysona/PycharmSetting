@@ -250,11 +250,11 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/manager.py" timestamp="1522833189773" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/model_mysql.py" timestamp="1522832978495" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/test_peewee.py" timestamp="1522898328045">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="25" />
-        <mark key="." line="28" column="25" />
-        <mark key="^" line="28" column="25" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/test_peewee.py" timestamp="1522898613451">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/message/model_mysql.py" timestamp="1522835696255">
         <mark key="[" line="21" column="46" />
@@ -280,11 +280,11 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/handler.py" timestamp="1522591212785">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="50" />
-        <mark key="." line="7" column="50" />
-        <mark key="^" line="7" column="50" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/handler.py" timestamp="1522898438432">
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/manager.py" timestamp="1522719672749">
         <mark key="[" line="69" column="17" />
@@ -408,37 +408,37 @@
         <text encoding="base64">ICAgICMgSU9Mb29wLmN1cnJlbnQoKS5ydW5fc3luYyhhZGRfc2VydmljZV90eXBlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KHlpZWxkIGhvdGVsLnNlbGVjdCgpLmV4ZWN1dGUoKSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB0b3JwZWV3ZWUgaW1wb3J0IE15U1FMRGF0YWJhc2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB0b3JwZWV3ZWUuCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZnJvbSAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZnJvbSB0b3JwZWV3ZWUgaW1wb3J0IE15U1FMRGF0YWJhc2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGEK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSB0b3JwZWV3ZWUuCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyB0eXBlID0gRmllbGQoc3RyKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

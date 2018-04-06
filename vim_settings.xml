@@ -91,11 +91,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523016224634">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="55" column="23" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523020845484">
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="115" column="28" />
+        <mark key="^" line="115" column="28" />
+        <mark key="." line="115" column="28" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
@@ -260,9 +260,6 @@
         <mark key="]" line="83" column="6" />
         <mark key="." line="83" column="6" />
         <mark key="^" line="83" column="6" />
-      </file>
-      <file name="/Python Console" timestamp="1522997640827">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/controller.py" timestamp="1522924976610">
         <mark key="[" line="70" column="15" />
@@ -466,41 +463,34 @@
         <text encoding="base64">Z2Vla3NlcnZlcjpob3RlbDpwdXNoX21lc3NhZ2U6W21lc3NhZ2VfaWRdOmRldmljZXMgLT4gYSBzZXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbnkocmV0KQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>set</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldCA9IAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gW10K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGVmaW5lKCJyZWRpc19nbG9iYWxfbWVzc2FnZV9wcmVmaXgiLCAiZ2Vla3NlcnZlcjpob3RlbDp7aG90ZWxfaWR9OnB1c2hfbWVzc2FnZTpnbG9iYWw6IikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aG90ZWxfaWQgPSBGaWVsZChpZG4K</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>version = Field(str, &quot;1.0.0&quot;)
-data = Field(str, json.dumps({}))
-devices = Field(str, json.dumps([]))
-ack_devices = Field(str, json.dumps([]))
-push_type = Field(str)   # all | multi | single
-message_type = Field(str)  # notify | update
-status = Field(str, &quot;process&quot;)
-expired_at = Field(int, 0)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBtZXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhc2VfCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJhc2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVmIGNoZWNrX2RldmljZV9tZXNzYWdlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBhbnkocmV0KQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHJldCA9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>set</text>

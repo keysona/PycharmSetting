@@ -15,6 +15,7 @@
         <mark key="." line="397" column="63" />
         <mark key="^" line="397" column="63" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/model_mysql.py" timestamp="1522996014574" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/message/manager.py" timestamp="1522834667414">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="22" />
@@ -217,7 +218,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_mysql.py" timestamp="1522985324274" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_mysql.py" timestamp="1522996073722">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1522850894133">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="59" />
@@ -451,49 +457,39 @@
         <text encoding="base64">ICAgICMgSU9Mb29wLmN1cnJlbnQoKS5ydW5fc3luYyhhZGRfc2VydmljZV90eXBlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLm9wdGlvbnMgaW1wb3J0IGRlZmluZSwgb3B0aW9ucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvLm9wdGlvbnMgaW1wb3J0IGRlZmluZSwgb3B0aW9ucwo=</text>
+      <register name="&quot;" type="4">
+        <text>wifi_list</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5sb2cgaW1wb3J0IGFwcF9sb2cgYXMgbG9nZ2VyCg==</text>
+      <register name="2" type="4">
+        <text>@gen.coroutine
+def get_push_message():
+    pass</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5kYXRhYmFzZSBpbXBvcnQgUmVkaXNTdG9yZSAgIyAsIEZpZWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">QGdlbi5jb3JvdXRpbmUKZGVmIG1haW4oKToKICAgICMgcHJpbnQoZ2V0X3BhY2thZ2VfdXBncmFkZV9pbmZvX2xpc3Rfc3luYyhjaGFubmVsPSIwIikpCiAgICAjIHByaW50KGdldF9wYWNrYWdlX3VwZ3JhZGVfaW5mb19saXN0X3N5bmMoc249JzllMjk2NWYzLWYxNmUtNDg0MC1iMWQ4LTY4ZDNhYWQzODZjMCcpKQogICAgdG90YWxfc3RhcnQgPSB0aW1lLnRpbWUoKQogICAgZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUudGltZSgpCiAgICAgICAgc24gPSAiMzQ5NDU3ZjYtOTZmMS00MjU1LWE0ZmItMWQxNzVmYTRlYjgzIgogICAgICAgIGRvY19saXN0ID0gZ2V0X2lkZW50aXR5X3N5bmMoc24pCiAgICAgICAgcHJpbnQoInN5bmMiLCBkb2NfbGlzdCkKICAgICAgICAjICAgICAgICBkb2NfbGlzdCA9IHlpZWxkIGdldF9pZGVudGl0eShzbikKICAgICAgICAjICAgICAgICBwcmludCgic3luYyIsZG9jX2xpc3QpCiAgICAgICAgIyBkb2NfbGlzdCA9IGdldF9hbGxfaWRlbnRpdHlfa2V5X3N5bmMoKQogICAgICAgICMgZG9jX2xpc3QgPSB5aWVsZCBnZXRfYWxsX2lkZW50aXR5X2tleSgpCiAgICAgICAgcHJpbnQoInRpbWVjb3N0OiIsIHRpbWUudGltZSgpLXN0YXJ0X3RpbWUsIGRvY19saXN0KQogICAgcHJpbnQoInRvdGFsIGNvc3Q6IiwgdGltZS50aW1lKCktdG90YWxfc3RhcnQpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBxdWVyeVsic2VxX25vIl0gPSBzZXFfbm9fbGlzdAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>@gen.coroutine
-def main1():
-    # print(get_package_upgrade_info_list_sync(channel=&quot;0&quot;))
-    # print(get_package_upgrade_info_list_sync(sn='9e2965f3-f16e-4840-b1d8-68d3aad386c0'))
-    total_start = time.time()
-    sn_list = [&quot;6c6c37bc-419c-4515-95bc-4a7eb90fbc87&quot;, &quot;no_exist&quot;]
-    doc_list = get_identity_list_sync(sn_list)
-    print(&quot;sync&quot;, doc_list)
-    print(&quot;total cost:&quot;, time.time()-total_start)
-
-if __name__ == '__main__':
-    from tornado import ioloop
-    ioloop.IOLoop.current().run_sync(main1)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIHNlcV9ub19saXN0Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ2dlci5pbmZvKCJpbnNlcnQ6JXMiLCBwdXNoX21zZy50b19kb2N1bWVudCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHNlcV9ubyA9IEZpZWxkKGludCkKICAgIGNtZF90eXBlID0gRmllbGQoc3RyLCAiIikKICAgIG1zZ19kYXRhID0gRmllbGQoc3RyLCAiIikKICAgIHZlcnNpb24gPSBGaWVsZChzdHIsICIiKQogICAgbmVlZF9hY2sgPSBGaWVsZChib29sLCBGYWxzZSkKICAgIGFja2VkID0gRmllbGQoYm9vbCwgRmFsc2UpCiAgICBjaGFubmVsID0gRmllbGQoc3RyKQogICAgYXBwX25hbWUgPSBGaWVsZChzdHIpCiAgICBwdXNoX3RvID0gRmllbGQoc3RyKQogICAgcHVzaF90eXBlID0gRmllbGQoc3RyKQogICAgcHVzaF9saW1pdCA9IEZpZWxkKGludCkKICAgIGFja19jb3VudCA9IEZpZWxkKGludCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0b3Jjb3JlLmxvZyBpbXBvcnQgZ2V0X2xvZwo=</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLm9wdGlvbnMgaW1wb3J0IGRlZmluZSwgb3B0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>wifi_list</text>
       </register>
     </registers>
     <search>

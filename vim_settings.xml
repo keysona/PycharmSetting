@@ -91,11 +91,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523022328648">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523023897282">
+        <mark key="[" line="177" column="110" />
+        <mark key="]" line="177" column="108" />
+        <mark key="." line="177" column="108" />
+        <mark key="^" line="177" column="108" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
@@ -460,40 +460,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbm4gPSBSZWRpc1N0b3JlLmdldF9yZWRpc19jb25uZWN0aW9uX3N5bmMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5X2Fja19kZXZpY2UgPSBvcHRpb25zLnJlZGlzX21lc3NhZ2VfYWNrX2RldmljZXNfcHJlZml4LmZvcm1hdChob3RlbF9pZD1ob3RlbF9pZCwgZGV2aWNlPWRldmljZSkKICAgICAgICAgICAgcGlwZS5leGVjdXRlKGtleV9hY2tfZGV2aWNlLCBkZXZpY2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB0b3JuYWRvIGltcG9ydCBnZW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5X2Fja19kZXZpY2UgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlwZS5leGVjdXRlKGtleV9hY2tfZGV2aWNlLCBkZXZpY2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5X2Fja19kZXZpY2UgPSBvcHRpb25zLnJlZGlzX21lc3NhZ2VfYWNrX2RldmljZXNfcHJlZml4LmZvcm1hdChob3RlbF9pZD1ob3RlbF9pZCwgZGV2aWNlPWRldmljZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5X2Fja19kZXZpY2UgPSBvcHRpb25zLnJlZGlzX21lc3NhZ2VfYWNrX2RldmljZXNfcHJlZml4LmZvcm1hdChob3RlbF9pZD1ob3RlbF9pZCwgZGV2aWNlPWRldmljZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5X2dsb2JhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBpcGUuZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>global</text>
+        <text>local</text>
       </register>
     </registers>
     <search>

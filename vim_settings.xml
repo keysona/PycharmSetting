@@ -91,11 +91,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523011355155">
-        <mark key="[" line="51" column="89" />
-        <mark key="]" line="51" column="88" />
-        <mark key="." line="51" column="88" />
-        <mark key="^" line="51" column="88" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523016224634">
+        <mark key="[" line="33" column="13" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
@@ -466,21 +466,33 @@
         <text encoding="base64">Z2Vla3NlcnZlcjpob3RlbDpwdXNoX21lc3NhZ2U6W21lc3NhZ2VfaWRdOmRldmljZXMgLT4gYSBzZXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gW10K</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbnkocmV0KQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>messages</text>
+        <text>set</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmaW5lKCJyZWRpc19nbG9iYWxfbWVzc2FnZV9wcmVmaXgiLCAiZ2Vla3NlcnZlcjpob3RlbDp7aG90ZWxfaWR9OnB1c2hfbWVzc2FnZTpnbG9iYWw6IikK</text>
+        <text encoding="base64">ICAgIHJldCA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gW10K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVmaW5lKCJyZWRpc19nbG9iYWxfbWVzc2FnZV9wcmVmaXgiLCAiZ2Vla3NlcnZlcjpob3RlbDp7aG90ZWxfaWR9OnB1c2hfbWVzc2FnZTpnbG9iYWw6IikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aG90ZWxfaWQgPSBGaWVsZChpZG4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>version = Field(str, &quot;1.0.0&quot;)
 data = Field(str, json.dumps({}))
 devices = Field(str, json.dumps([]))
@@ -490,27 +502,8 @@ message_type = Field(str)  # notify | update
 status = Field(str, &quot;process&quot;)
 expired_at = Field(int, 0)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHBpcGUuaGdldGFsbChpZGVudGl0eV9rZXkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbm4uc2V0Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>@gen.coroutine
-def get_identity_key_by_android_id(android_id_key):
-    android_id_2_sn_key = options.redis_android_id_2_sn_prefix + android_id_key
-    identity_key = yield RedisStore.get(android_id_2_sn_key)
-    if not identity_key:
-        return None
-    logger.debug(&quot;get_identity_key_by_android_id: android_id_key:%s, identity_key:%s&quot;, android_id_key, identity_key)
-    return identity_key</text>
-      </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>set</text>
       </register>
     </registers>
     <search>

@@ -81,6 +81,12 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1522976362329">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522723861614">
@@ -205,11 +211,11 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522809913587" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/controller.py" timestamp="1522833329432" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/redis.py" timestamp="1522895314502">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/redis.py" timestamp="1522976197552">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/hotel-svr.py" timestamp="1522850894133">
         <mark key="[" line="3" column="61" />
@@ -344,7 +350,7 @@
         <mark key="." line="114" column="36" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1522924923496">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1522976021095">
         <mark key="[" line="98" column="30" />
         <mark key="]" line="97" column="42" />
         <mark key="." line="97" column="42" />
@@ -444,34 +450,46 @@
         <text encoding="base64">ICAgICMgSU9Mb29wLmN1cnJlbnQoKS5ydW5fc3luYyhhZGRfc2VydmljZV90eXBlcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLm9wdGlvbnMgaW1wb3J0IGRlZmluZSwgb3B0aW9ucwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>create</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0b3JuYWRvLm9wdGlvbnMgaW1wb3J0IGRlZmluZSwgb3B0aW9ucwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSB5aWVsZCBSb29tTWFuYWdlci5yZWdpc3Rlcihyb29tLCBuYW1lLCBnZW5kZXIK</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5sb2cgaW1wb3J0IGFwcF9sb2cgYXMgbG9nZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjb21tb24uY29yZS5kYXRhYmFzZSBpbXBvcnQgUmVkaXNTdG9yZSAgIyAsIEZpZWxkCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">QGdlbi5jb3JvdXRpbmUKZGVmIG1haW4oKToKICAgICMgcHJpbnQoZ2V0X3BhY2thZ2VfdXBncmFkZV9pbmZvX2xpc3Rfc3luYyhjaGFubmVsPSIwIikpCiAgICAjIHByaW50KGdldF9wYWNrYWdlX3VwZ3JhZGVfaW5mb19saXN0X3N5bmMoc249JzllMjk2NWYzLWYxNmUtNDg0MC1iMWQ4LTY4ZDNhYWQzODZjMCcpKQogICAgdG90YWxfc3RhcnQgPSB0aW1lLnRpbWUoKQogICAgZm9yIGkgaW4gcmFuZ2UoNSk6CiAgICAgICAgc3RhcnRfdGltZSA9IHRpbWUudGltZSgpCiAgICAgICAgc24gPSAiMzQ5NDU3ZjYtOTZmMS00MjU1LWE0ZmItMWQxNzVmYTRlYjgzIgogICAgICAgIGRvY19saXN0ID0gZ2V0X2lkZW50aXR5X3N5bmMoc24pCiAgICAgICAgcHJpbnQoInN5bmMiLCBkb2NfbGlzdCkKICAgICAgICAjICAgICAgICBkb2NfbGlzdCA9IHlpZWxkIGdldF9pZGVudGl0eShzbikKICAgICAgICAjICAgICAgICBwcmludCgic3luYyIsZG9jX2xpc3QpCiAgICAgICAgIyBkb2NfbGlzdCA9IGdldF9hbGxfaWRlbnRpdHlfa2V5X3N5bmMoKQogICAgICAgICMgZG9jX2xpc3QgPSB5aWVsZCBnZXRfYWxsX2lkZW50aXR5X2tleSgpCiAgICAgICAgcHJpbnQoInRpbWVjb3N0OiIsIHRpbWUudGltZSgpLXN0YXJ0X3RpbWUsIGRvY19saXN0KQogICAgcHJpbnQoInRvdGFsIGNvc3Q6IiwgdGltZS50aW1lKCktdG90YWxfc3RhcnQpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShQQVJBTVNfSU5WQUxJRCgi6YCA5oi/5pe26Ze05pyJ6K+v77yM5LiN6IO95bCP5LqO5b2T5YmN5pe26Ze0ISIpKQo=</text>
+      <register name="5" type="4">
+        <text>@gen.coroutine
+def main1():
+    # print(get_package_upgrade_info_list_sync(channel=&quot;0&quot;))
+    # print(get_package_upgrade_info_list_sync(sn='9e2965f3-f16e-4840-b1d8-68d3aad386c0'))
+    total_start = time.time()
+    sn_list = [&quot;6c6c37bc-419c-4515-95bc-4a7eb90fbc87&quot;, &quot;no_exist&quot;]
+    doc_list = get_identity_list_sync(sn_list)
+    print(&quot;sync&quot;, doc_list)
+    print(&quot;total cost:&quot;, time.time()-total_start)
+
+if __name__ == '__main__':
+    from tornado import ioloop
+    ioloop.IOLoop.current().run_sync(main1)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgY2hlY2tvdXRfdGltZSBvciBub3cgPiBjaGVja291dF90aW1lOgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja291dF90aW1lID0gcGFyYW1zWydjaGVja291dF90aW1lJ10K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3cgPSB0aW1lLnRpbWUoKQo=</text>
+        <text encoding="base64">ZnJvbSB0b3Jjb3JlLmxvZyBpbXBvcnQgZ2V0X2xvZwo=</text>
       </register>
       <register name="-" type="4">
         <text>create</text>

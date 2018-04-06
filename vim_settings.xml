@@ -89,11 +89,11 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522723861614">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="30" />
-        <mark key="." line="35" column="30" />
-        <mark key="^" line="35" column="30" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522989462018">
+        <mark key="[" line="35" column="2" />
+        <mark key="]" line="35" column="1" />
+        <mark key="." line="35" column="1" />
+        <mark key="^" line="35" column="1" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/order_handler.py" timestamp="1522925011822">
         <mark key="[" line="87" column="54" />

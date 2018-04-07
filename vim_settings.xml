@@ -91,11 +91,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523079141558">
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="68" column="3" />
-        <mark key="." line="68" column="3" />
-        <mark key="^" line="68" column="3" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523097533968">
+        <mark key="[" line="74" column="8" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="75" column="7" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
@@ -469,31 +469,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gCg==</text>
+        <text encoding="base64">ICAgICMgbWVzc2FnZV9rZXkgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICA9IG9wdGlvbnMucmVkaXNfbWVzc2FnZV9wcmVmaXguZm9ybWF0KGhvdGVsX2lkPWhvdGVsX2lkLCBtZXNzYWdlX2lkPScqJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc3NhZ2VzID0gCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>ret</text>
+        <text>message_key</text>
       </register>
     </registers>
     <search>

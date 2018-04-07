@@ -91,10 +91,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523071776064">
-        <mark key="[" line="160" column="1" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523073697651">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+        <mark key="^" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
@@ -213,11 +214,6 @@
       </file>
       <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/playhouse/pool.py" timestamp="1522897682463" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/xg/utils.py" timestamp="1522822561869" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1522719863469">
-        <mark key="[" line="99" column="1" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/handler.py" timestamp="1522762892790">
         <mark key="[" line="47" column="31" />
         <mark key="]" line="47" column="30" />
@@ -357,11 +353,6 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1522911715298">
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/manager.py" timestamp="1522845703445">
         <mark key="[" line="55" column="18" />
         <mark key="]" line="53" column="63" />
@@ -388,11 +379,6 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/table.py" timestamp="1522893238996" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/logging.py" timestamp="1522847632376" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522850171937">
-        <mark key="[" line="16" column="1" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/model_mysql.py" timestamp="1522718242426">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="19" column="26" />

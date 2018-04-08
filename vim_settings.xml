@@ -28,11 +28,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523174207776">
-        <mark key="[" line="135" column="37" />
-        <mark key="]" line="135" column="34" />
-        <mark key="." line="135" column="34" />
-        <mark key="^" line="135" column="34" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523175233097">
+        <mark key="[" line="186" column="12" />
+        <mark key="]" line="186" column="11" />
+        <mark key="." line="186" column="11" />
+        <mark key="^" line="186" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1522924857226">
         <mark key="[" line="118" column="34" />
@@ -233,7 +233,7 @@
         <mark key="^" line="6" column="105" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523169953568">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523175282053">
         <mark key="[" line="68" column="27" />
         <mark key="]" line="68" column="26" />
         <mark key="." line="68" column="26" />
@@ -365,88 +365,37 @@
         <text encoding="base64">ICAgICJvcGVyYXRpb24iOiAiY3JlYXRlIiB8ICJwcm9jZXNzaW5nIiB8ICJmaW5pc2giIHwgInN1Y2Nlc3MiIHwgInVwZGF0ZV9tZXNzYWdlIiB8ICJmYWlsIiB8ICJjYW5jZWwiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lKCkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>order</text>
+        <text>e</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBjc19vcmRlcl9jcmVhdGUoZGV2aWNlcywgb3JkZXIsIG1lc3NhZ2UpOgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0byI6ICJjbGllbnQiIHwgImN1c3RvbS1zZXJ2aWNlIiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJvcGVyYXRpb24iOiAiIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJyZXNvdXJjZSI6ICJvcmRlciIgfCAic2VydmljZSIsCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>@staticmethod
-    @gen.coroutine
-    def notify_service_create(devices, order, message):
-        pass
-
-    # client
-    # # room
-    @staticmethod
-    @gen.coroutine
-    def notify_room_register(device, room):
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_room_checkout(device, room):
-        pass
-
-    # # order | service
-    @staticmethod
-    @gen.coroutine
-    def notify_order_status(device, order):
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_service_status(device, service):
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_order_finish(device, order):
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_service_finish(device, order):
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_new_order_create(device, order):
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_update_layouts():
-        pass
-
-    @staticmethod
-    @gen.coroutine
-    def notify_update_contracts():
-        pass</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0geWllbGQgY2xzLm5vdGlmeShob3RlbF9pZCwgW2RldmljZV0sIGRhdGEsICdpbmZvJywgJ2xvY2FsJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBub3RpZnlfY2xpZW50KGNscywgaG90ZWxfaWQsIGRldmljZSwgZGF0YSwgbWVzc2FnZV90eXBlKToK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBnZW4uY29yb3V0aW5lCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlID0geWllbGQgY2xzLm5vdGlmeShob3RlbF9pZCwgZGV2aWNlcywgZGF0YSwgJ2luZm8nLCAnbG9jYWwnKQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

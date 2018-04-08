@@ -28,11 +28,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523160323105">
-        <mark key="[" line="108" column="62" />
-        <mark key="]" line="108" column="61" />
-        <mark key="." line="108" column="61" />
-        <mark key="^" line="108" column="61" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523165474783">
+        <mark key="[" line="48" column="47" />
+        <mark key="]" line="48" column="46" />
+        <mark key="." line="48" column="46" />
+        <mark key="^" line="48" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1522924857226">
         <mark key="[" line="118" column="34" />
@@ -228,8 +228,8 @@
         <mark key="^" line="6" column="105" />
         <mark key="." line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1522851878578">
-        <mark key="[" line="48" column="24" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523165494393">
+        <mark key="[" line="68" column="27" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="45" column="23" />
@@ -347,9 +347,21 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAocicvYXBpL2ltYWdlL3VwbG9hZCcsIEltYWdlSGFuZGxlciksCg==</text>
+        <text encoding="base64">ICAgICJvcGVyYXRpb24iOiAiY3JlYXRlIiB8ICJwcm9jZXNzaW5nIiB8ICJmaW5pc2giIHwgInN1Y2Nlc3MiIHwgInVwZGF0ZV9tZXNzYWdlIiB8ICJmYWlsIiB8ICJjYW5jZWwiLAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJ0byI6ICJjbGllbnQiIHwgImN1c3RvbS1zZXJ2aWNlIiwK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJvcGVyYXRpb24iOiAiIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJyZXNvdXJjZSI6ICJvcmRlciIgfCAic2VydmljZSIsCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>@staticmethod
     @gen.coroutine
     def notify_service_create(devices, order, message):
@@ -403,35 +415,23 @@
     def notify_update_contracts():
         pass</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>i</text>
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0b3Jjb3JlLnV0aWwgaW1wb3J0IGpzb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>

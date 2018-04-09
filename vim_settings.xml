@@ -40,11 +40,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523178877273">
-        <mark key="[" line="89" column="3" />
-        <mark key="]" line="100" column="7" />
-        <mark key="." line="100" column="7" />
-        <mark key="^" line="100" column="7" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523242223571">
+        <mark key="[" line="50" column="18" />
+        <mark key="]" line="50" column="24" />
+        <mark key="." line="50" column="24" />
+        <mark key="^" line="50" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1522564257573">
         <mark key="[" line="62" column="38" />
@@ -482,7 +482,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>status</text>
+        <text>create</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3BvbnNlKFBBUkFNU19JTlZBTElEKCJzZXJ2aWNlX3N0YXR1c+eKtuaAgemUmeivryEiKSkK</text>
@@ -509,7 +509,7 @@
         <text encoding="base64">ICAgICAgICAnc3RhdHVzJzogKHN0ciwgTm9uZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>status</text>
+        <text>create</text>
       </register>
     </registers>
     <search>

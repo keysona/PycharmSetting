@@ -16,7 +16,7 @@
         <mark key="^" line="9" column="22" />
         <mark key="." line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/handler.py" timestamp="1523157992656">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/handler.py" timestamp="1523322698407">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="16" column="15" />
         <mark key="." line="16" column="15" />
@@ -142,6 +142,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
         <mark key="^" line="97" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/handler.py" timestamp="1523322826812">
+        <mark key="[" line="73" column="23" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="22" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/handler.py" timestamp="1523261517792">
         <mark key="[" line="23" column="23" />
@@ -318,11 +324,11 @@
         <mark key="^" line="43" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/version/model_mysql.py" timestamp="1523238569925" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1523280932288">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1523322502619">
         <mark key="[" line="5" column="19" />
-        <mark key="]" line="12" column="141" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="12" column="141" />
+        <mark key="]" line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/model/category.py" timestamp="1522897027264">
         <mark key="[" line="13" column="46" />
@@ -392,8 +398,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dict</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBvcmRlciA9IHJldFsnZGF0YSddCg==</text>
@@ -420,7 +426,7 @@
         <text encoding="base64">ICAgICAgICAgICAgeWllbGQgUHVzaE1lc3NhZ2VDb250cm9sbGVyLmNzX29yZGVyKHNlbGYucm9vbSwgLCBkYXRhWydzdGF0dXMnXSkK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>dict</text>
       </register>
     </registers>
     <search>

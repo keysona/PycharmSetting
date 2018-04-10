@@ -28,11 +28,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523341275207">
-        <mark key="[" line="233" column="33" />
-        <mark key="]" line="233" column="32" />
-        <mark key="." line="233" column="32" />
-        <mark key="^" line="233" column="32" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523343910228">
+        <mark key="[" line="132" column="47" />
+        <mark key="]" line="132" column="46" />
+        <mark key="." line="132" column="46" />
+        <mark key="^" line="132" column="46" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1523265643634">
         <mark key="[" line="62" column="38" />
@@ -82,11 +82,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523341324033">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="7" />
-        <mark key="." line="67" column="7" />
-        <mark key="^" line="67" column="7" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523343505053">
+        <mark key="[" line="217" column="41" />
+        <mark key="]" line="217" column="40" />
+        <mark key="^" line="217" column="40" />
+        <mark key="." line="217" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
@@ -183,6 +183,7 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/main.py" timestamp="1523343953401" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/handler.py" timestamp="1523285319743">
         <mark key="'" line="114" column="8" />
         <mark key="[" line="82" column="1" />
@@ -209,6 +210,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/xg/message.py" timestamp="1523343897513" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/controller.py" timestamp="1523262094119">
         <mark key="[" line="6" column="29" />
         <mark key="]" line="6" column="28" />
@@ -233,7 +235,7 @@
         <mark key="." line="58" column="55" />
         <mark key="^" line="58" column="55" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/handler.py" timestamp="1523326943896">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/handler.py" timestamp="1523343268758">
         <mark key="[" line="137" column="49" />
         <mark key="]" line="137" column="48" />
         <mark key="." line="137" column="48" />
@@ -393,40 +395,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQdXNoTWVzc2FnZUNvbnRyb2xsZXIucm9vbShyb29tLCAncmVnaXN0ZXInKQo=</text>
+        <text encoding="base64">ICAgIEBjbGFzc21ldGhvZAogICAgZGVmIGNzX29yZGVyKGNscywgcm9vbSwgb3JkZXIsIG9wZXJhdGlvbik6CiAgICAgICAgSU9Mb29wLmN1cnJlbnQoKS5jYWxsX2xhdGVyKDEsIGNscy5fY3Nfb3JkZXIsIHJvb20sIG9yZGVyLCBvcGVyYXRpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1lc3NhZ2UgaW4gYWNrX21lc3NhZ2VzIGlmIG1lc3NhZ2VdCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_cs_order</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbZGljdChpZD1tZXNzYWdlWydpZCddLCB2ZXJzaW9uPW1lc3NhZ2VbJ3ZlcnNpb24nXSwgdHlwZT1tZXNzYWdlWydtZXNzYWdlX3R5cGUnXSwgZGF0YT1tZXNzYWdlWydkYXRhJ10pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBpcGUuZXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiX3Jvb20sIGRldmljZTogJXMiLCBkZXZpY2UpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2UucG9wKCdhY2tfZGV2aWNlcycpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnJwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHBpcGUua2V5cyhvcHRpb25zLnJlZGlzX21lc3NhZ2VfcHJlZml4LmZvcm1hdChob3RlbF9pZD1ob3RlbF9pZCwgbWVzc2FnZV9pZD0nKicpKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc3NhZ2VbJ2Fja19kZXZpY2VzJ10gPSBhY2tfZGV2aWNlcwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>_cs_order</text>
       </register>
     </registers>
     <search>

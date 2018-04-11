@@ -62,7 +62,12 @@
         <mark key="." line="55" column="63" />
         <mark key="^" line="55" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/wifi_handler.py" timestamp="1523430741241" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/wifi_handler.py" timestamp="1523447105649">
+        <mark key="[" line="27" column="48" />
+        <mark key="]" line="27" column="47" />
+        <mark key="^" line="27" column="47" />
+        <mark key="." line="27" column="47" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/utils.py" timestamp="1523419297815">
         <mark key="[" line="21" column="78" />
         <mark key="]" line="21" column="77" />

@@ -123,10 +123,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/manager.py" timestamp="1523429457659">
-        <mark key="[" line="27" column="9" />
-        <mark key="]" line="27" column="70" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/manager.py" timestamp="1523453286189">
+        <mark key="[" line="23" column="80" />
+        <mark key="]" line="23" column="79" />
+        <mark key="." line="23" column="79" />
+        <mark key="^" line="23" column="79" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1523262314864">
         <mark key="[" line="59" column="46" />
@@ -310,11 +311,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1523426909222">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="22" column="22" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1523453263398">
+        <mark key="[" line="34" column="112" />
+        <mark key="]" line="34" column="111" />
+        <mark key="." line="34" column="111" />
+        <mark key="^" line="34" column="111" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/xg/message.py" timestamp="1523344385088">
         <mark key="[" line="136" column="21" />
@@ -469,7 +470,7 @@
         <text encoding="base64">ZnJvbSBhcHAuYWRtaW4ubWVzc2FnZS5tYW5hZ2VyIGltcG9ydCBNZXNzYWdlTWFuYWdlcgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>controller</text>
+        <text>False</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -496,7 +497,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImxhc3RfdXBkYXRlX2NvbnRyYWN0OiAlcyIsIGxhc3RfdXBkYXRlX2NvbnRyYWN0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>controller</text>
+        <text>False</text>
       </register>
     </registers>
     <search>

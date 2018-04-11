@@ -222,11 +222,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523357275245">
-        <mark key="[" line="320" column="84" />
-        <mark key="]" line="320" column="83" />
-        <mark key="." line="320" column="83" />
-        <mark key="^" line="320" column="83" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523408803383">
+        <mark key="[" line="130" column="12" />
+        <mark key="]" line="130" column="11" />
+        <mark key="." line="130" column="11" />
+        <mark key="^" line="130" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1523240486388">
         <mark key="[" line="44" column="0" />
@@ -516,8 +516,8 @@
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBhcHAuYWRtaW4ubWVzc2FnZS5tYW5hZ2VyIGltcG9ydCBNZXNzYWdlTWFuYWdlcgo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBhcHAuYWRtaW4ubWVzc2FnZS5tYW5hZ2VyIGltcG9ydCBNZXNzYWdlTWFuYWdlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -544,7 +544,7 @@
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
     </registers>
     <search>

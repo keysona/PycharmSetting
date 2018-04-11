@@ -190,11 +190,11 @@
         <mark key="^" line="19" column="26" />
         <mark key="." line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/model_mysql.py" timestamp="1523415937817">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="35" />
-        <mark key="." line="37" column="35" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/model_mysql.py" timestamp="1523416828740">
+        <mark key="[" line="65" column="36" />
+        <mark key="]" line="65" column="35" />
+        <mark key="^" line="65" column="35" />
+        <mark key="." line="65" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/model/category.py" timestamp="1522897027264">
         <mark key="[" line="13" column="46" />
@@ -453,10 +453,11 @@
         <mark key="." line="43" column="46" />
         <mark key="^" line="43" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/local_auth.py" timestamp="1523415910956">
-        <mark key="[" line="30" column="1" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/auth/local_auth.py" timestamp="1523416816083">
+        <mark key="[" line="97" column="63" />
+        <mark key="]" line="97" column="64" />
+        <mark key="." line="97" column="64" />
+        <mark key="^" line="97" column="64" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/version/model_mysql.py" timestamp="1523238569925" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1523413890835">
@@ -525,34 +526,34 @@
         <text encoding="base64">ICAgICAgICBJT0xvb3AuY3VycmVudCgpLmNhbGxfbGF0ZXIoMSwgY2xzLl9jc19zZXJ2aWNlLCByb29tLCBvcmRlciwgb3BlcmF0aW9uKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2hvdGVsX2lkJzogCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV1aWQK</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeSA9IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHV1aWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSB5aWVsZCBTZXJ2aWNlTWFuYWdlci51cGRhdGUocGFyYW1zWydzZXJ2aWNlX2lkJ10sIGNoYW5nZV9kYXRhPWNoYW5nZV9kYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3BvbnNlKFNVQ0NFU1MpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSB5aWVsZCBTZXJ2aWNlTWFuYWdlci51cGRhdGUocGFyYW1zWydzZXJ2aWNlX2lkJ10sIGNoYW5nZV9kYXRhPWNoYW5nZV9kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnJlc3BvbnNlKFNVQ0NFU1MpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>

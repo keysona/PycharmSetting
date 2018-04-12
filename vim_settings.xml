@@ -9,7 +9,6 @@
         <mark key="." line="61" column="11" />
         <mark key="^" line="61" column="11" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/manager.py" timestamp="1523355119110" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1523350109019">
         <mark key="[" line="62" column="1" />
         <mark key="]" line="62" column="0" />
@@ -30,8 +29,6 @@
         <mark key="^" line="105" column="15" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/manager.py" timestamp="1522727798573" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1522910099109" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/model_mysql.py" timestamp="1522989462018">
         <mark key="[" line="35" column="2" />
         <mark key="]" line="35" column="1" />
@@ -80,8 +77,6 @@
         <mark key="." line="21" column="77" />
         <mark key="^" line="21" column="77" />
       </file>
-      <file name="$USER_HOME$/.local/share/virtualenvs/hotel-server-HPXI8xz0/lib/python3.6/site-packages/playhouse/pool.py" timestamp="1522897682463" />
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/models_mysql.py" timestamp="1522809913587" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/redis.py" timestamp="1522976197552">
         <mark key="[" line="4" column="1" />
         <mark key="]" line="4" column="0" />
@@ -111,6 +106,11 @@
         <mark key="^" line="6" column="105" />
         <mark key="." line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/contract_handler.py" timestamp="1523532143011">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523415341684">
         <mark key="[" line="111" column="22" />
         <mark key="]" line="111" column="21" />
@@ -134,11 +134,10 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/manager.py" timestamp="1523531477603">
-        <mark key="[" line="23" column="22" />
-        <mark key="]" line="23" column="17" />
-        <mark key="^" line="23" column="17" />
-        <mark key="." line="23" column="17" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/manager.py" timestamp="1523531752071">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1523262314864">
         <mark key="[" line="59" column="46" />
@@ -156,7 +155,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/table.py" timestamp="1523430564104" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/device/model_mysql.py" timestamp="1522718242426">
         <mark key="[" line="20" column="27" />
         <mark key="]" line="19" column="26" />
@@ -178,14 +176,12 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1522850456682" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/msg_mgr.py" timestamp="1523261892313">
         <mark key="[" line="397" column="64" />
         <mark key="]" line="397" column="63" />
         <mark key="." line="397" column="63" />
         <mark key="^" line="397" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/model_mysql.py" timestamp="1522996014574" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/model_mysql.py" timestamp="1523527744358">
         <mark key="[" line="21" column="1" />
         <mark key="]" line="21" column="0" />
@@ -290,8 +286,6 @@
         <mark key="." line="101" column="77" />
         <mark key="^" line="101" column="77" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/batch_ack_handler.py" timestamp="1522726890941" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/ad_handler.py" timestamp="1523152684563" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/handler.py" timestamp="1523350358980">
         <mark key="[" line="109" column="12" />
         <mark key="]" line="109" column="11" />
@@ -316,9 +310,6 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/model_mysql.py" timestamp="1522916849252" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/push/xg/utils.py" timestamp="1522822561869" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/order_handler.py" timestamp="1523263478418" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/model_redis.py" timestamp="1523531282015">
         <mark key="[" line="44" column="60" />
         <mark key="]" line="44" column="59" />
@@ -330,7 +321,6 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/back-end/xg/main.py" timestamp="1523343953401" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/handler.py" timestamp="1523413944941">
         <mark key="'" line="117" column="8" />
         <mark key="[" line="83" column="40" />
@@ -341,8 +331,12 @@
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/manager.py" timestamp="1522660786139">
         <mark key="[" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/layout_handler.py" timestamp="1523520246807" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/controller.py" timestamp="1522833329432" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/layout_handler.py" timestamp="1523532041053">
+        <mark key="[" line="28" column="89" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="25" column="49" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_mysql.py" timestamp="1523327085033">
         <mark key="[" line="48" column="25" />
         <mark key="]" line="48" column="24" />
@@ -354,11 +348,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1523531420526">
-        <mark key="[" line="91" column="63" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1523532283830">
+        <mark key="[" line="67" column="77" />
+        <mark key="]" line="67" column="76" />
+        <mark key="." line="67" column="76" />
+        <mark key="^" line="67" column="76" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/xg/message.py" timestamp="1523344385088">
         <mark key="[" line="136" column="21" />
@@ -372,11 +366,11 @@
         <mark key="." line="118" column="63" />
         <mark key="^" line="118" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/controller.py" timestamp="1523529241616">
-        <mark key="[" line="144" column="18" />
-        <mark key="]" line="143" column="43" />
-        <mark key="^" line="143" column="43" />
-        <mark key="." line="143" column="43" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/controller.py" timestamp="1523531823263">
+        <mark key="[" line="143" column="19" />
+        <mark key="]" line="144" column="18" />
+        <mark key="^" line="144" column="18" />
+        <mark key="." line="144" column="18" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/controller.py" timestamp="1523428793106">
         <mark key="[" line="39" column="62" />
@@ -390,8 +384,6 @@
         <mark key="." line="137" column="48" />
         <mark key="^" line="137" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/manager.py" timestamp="1522833189773" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/model_mysql.py" timestamp="1522832978495" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/test_peewee.py" timestamp="1522899790541">
         <mark key="[" line="24" column="53" />
         <mark key="]" line="24" column="51" />
@@ -425,7 +417,6 @@
         <mark key="^" line="149" column="61" />
         <mark key="." line="149" column="61" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/logging.py" timestamp="1522847632376" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1522850171937">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="16" column="0" />
@@ -443,13 +434,12 @@
         <mark key="." line="72" column="65" />
         <mark key="^" line="72" column="65" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/version/model_mysql.py" timestamp="1523238569925" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" timestamp="1523529306492">
-        <mark key="'" line="87" column="12" />
-        <mark key="[" line="76" column="39" />
-        <mark key="]" line="76" column="38" />
-        <mark key="^" line="76" column="38" />
-        <mark key="." line="76" column="38" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" timestamp="1523532387109">
+        <mark key="'" line="92" column="12" />
+        <mark key="[" line="53" column="87" />
+        <mark key="]" line="53" column="86" />
+        <mark key="^" line="53" column="86" />
+        <mark key="." line="53" column="86" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1523413890835">
         <mark key="[" line="5" column="19" />
@@ -463,7 +453,6 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/article_handler.py" timestamp="1523347621132" />
     </filemarks>
     <jumps>
       <jump line="58" column="28" filename="$USER_HOME$/Dropbox/company/project/torpeewee/torpeewee/query.py" />
@@ -513,43 +502,45 @@
       <jump line="114" column="8" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/handler.py" />
       <jump line="51" column="56" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" />
       <jump line="83" column="12" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" />
+      <jump line="6" column="32" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" />
+      <jump line="88" column="12" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJub3QgZm91bmQgbGF5b3V0ISBob3RlbF9pZDogJXMsIGxheW91dF90eXBlOiAlcyIsIGhvdGVsX2lkLCBsYXlvdXRfdHlwZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICMgQHN0YXRpY21ldGhvZAogICAgIyBAZ2VuLmNvcm91dGluZQogICAgIyBkZWYgdXBkYXRlX3Jvb21zKGhvdGVsX2lkKToKICAgICMgICAgIHNvcnQgPSBbKCJ1cGRhdGVkX2F0IiwgLTEpXQogICAgIyAgICAgcm9vbXMgPSB5aWVsZCBIb3RlbFJvb21NYW5hZ2VyLmdldF9saXN0KHF1ZXJ5PXsnaG90ZWxfaWQnOiBob3RlbF9pZH0sIHNvcnQ9c29ydCkKICAgICMgICAgIGlmIG5vdCByb29tczoKICAgICMgICAgICAgICByZXR1cm4KICAgICMgICAgIGxhc3RfdXBkYXRlX3Jvb20gPSByb29tc1swXQogICAgIwogICAgIyAgICAgZGF0YSA9IHlpZWxkIGdldF9kYXRhKHF1ZXJ5PXsnaG90ZWxfaWQnOiBob3RlbF9pZCwgJ3R5cGUnOiAncm9vbXMnfSkKICAgICMKICAgICMgICAgIGlmIGRhdGEgYW5kIGRhdGFbJ2xhc3RfZGF0YV91cGRhdGVkX2F0J10gPj0gbGFzdF91cGRhdGVfcm9vbVsndXBkYXRlZF9hdCddOgogICAgIyAgICAgICAgIHJldHVybiBOb25lCiAgICAjCiAgICAjICAgICByZXRfZGF0YSA9IFtdCiAgICAjICAgICBmb3Igcm9vbSBpbiByb29tczoKICAgICMgICAgICAgICByZXRfZGF0YS5hcHBlbmQoewogICAgIyAgICAgICAgICAgICAncm9vbV9ubyc6IHJvb21bJ3Jvb21fbm8nXSwKICAgICMgICAgICAgICAgICAgJ3Bob25lX251bWJlcic6IHJvb21bJ3Bob25lX251bWJlciddLAogICAgIyAgICAgICAgICAgICAnY2F0ZWdvcnlfaWQnOiByb29tWydjYXRlZ29yeV9pZCddLAogICAgIyAgICAgICAgICAgICAnc3RhdHVzJzogcm9vbVsnc3RhdHVzJ10KICAgICMgICAgICAgICB9KQogICAgIyAgICAgcmV0X2RhdGEgPSBqc29uLmR1bXBzKHJldF9kYXRhKQogICAgIyAgICAgaWYgZGF0YToKICAgICMgICAgICAgICBsb2dnZXIuaW5mbygiZGF0YS5sYXN0X2RhdGFfdXBkYXRlZF9hdDogJXMsIGxhc3RfdXBkYXRlX2NvbnRyYWN0OiAlcyIsIGRhdGFbJ2xhc3RfZGF0YV91cGRhdGVkX2F0J10sCiAgICAjICAgICAgICAgICAgICAgICAgICAgbGFzdF91cGRhdGVfcm9vbVsndXBkYXRlZF9hdCddKQogICAgIyAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJ1cGRhdGUgaG90ZWwgZGF0YSwgdHlwZTogcm9vbXMsIGhvdGVsX2lkOiAlcyIsIGhvdGVsX2lkKQogICAgIyAgICAgICAgIHlpZWxkIHVwZGF0ZV9kYXRhKGNoYW5nZV9kYXRhPXsnbGFzdF9kYXRhX3VwZGF0ZWRfYXQnOiBsYXN0X3VwZGF0ZV9yb29tWyd1cGRhdGVkX2F0J10sCiAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJzogcmV0X2RhdGF9LCBkYXRhX2lkPWRhdGFbJ2lkJ10pCiAgICAjICAgICBlbHNlOgogICAgIyAgICAgICAgIHlpZWxkIGluc2VydF9kYXRhKHsnaG90ZWxfaWQnOiBob3RlbF9pZCwgJ2xhc3RfZGF0YV91cGRhdGVkX2F0JzogbGFzdF91cGRhdGVfcm9vbVsndXBkYXRlZF9hdCddLAogICAgIyAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IHJldF9kYXRhLCAndHlwZSc6ICdyb29tcyd9KQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>update_layouts</text>
+        <text>import_objecb</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgdXBkYXRlX2NvbnRyYWN0cyhob3RlbF9pZCwgbm90aWZ5PVRydWUpOgogICAgICAgIHNvcnQgPSBbKCJ1cGRhdGVkX2F0IiwgLTEpXQogICAgICAgICMgc29ydCA9IE5vbmUKICAgICAgICBjb250cmFjdHMsIHRvdGFsID0geWllbGQgQ29udHJhY3RNYW5hZ2VyLmdldF9saXN0KHF1ZXJ5PXsnaG90ZWxfaWQnOiBob3RlbF9pZH0sIG9mZnNldD0wLCByb3dfY291bnQ9MTAwMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3J0PXNvcnQsIGlzX2FsbD1UcnVlKQogICAgICAgIGlmIG5vdCBjb250cmFjdHM6CiAgICAgICAgICAgIHJldHVybgogICAgICAgIGxhc3RfdXBkYXRlX2NvbnRyYWN0ID0gY29udHJhY3RzWzBdCiAgICAgICAgbG9nZ2VyLmVycm9yKCJsYXN0X3VwZGF0ZV9jb250cmFjdDogJXMiLCBsYXN0X3VwZGF0ZV9jb250cmFjdCkKCiAgICAgICAgZGF0YSA9IHlpZWxkIGdldF9kYXRhKHF1ZXJ5PXsnaG90ZWxfaWQnOiBob3RlbF9pZCwgJ3R5cGUnOiAnY29udHJhY3RzJ30pCgogICAgICAgIGlmIGRhdGEgYW5kIGRhdGFbJ2xhc3RfZGF0YV91cGRhdGVkX2F0J10gPj0gbGFzdF91cGRhdGVfY29udHJhY3RbJ3VwZGF0ZWRfYXQnXToKICAgICAgICAgICAgcmV0dXJuIE5vbmUKCiAgICAgICAgbG9nZ2VyLmluZm8oInVwZGF0ZSBkYXRhIikKCiAgICAgICAgcmV0X2RhdGEgPSBbXQogICAgICAgIGZvciBjb250cmFjdCBpbiBjb250cmFjdHM6CiAgICAgICAgICAgIHJldF9kYXRhLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAnbmFtZSc6IGNvbnRyYWN0WyduYW1lJ10sCiAgICAgICAgICAgICAgICAncGhvbmVfbnVtYmVyJzogY29udHJhY3RbJ3Bob25lX251bWJlciddLAogICAgICAgICAgICAgICAgJ2F2YXRhcl91cmwnOiBjb250cmFjdFsnYXZhdGFyX3VybCddLAogICAgICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogY29udHJhY3RbJ2Rlc2NyaXB0aW9uJ10KICAgICAgICAgICAgfSkKICAgICAgICByZXRfZGF0YSA9IGpzb24uZHVtcHMocmV0X2RhdGEpCiAgICAgICAgaWYgZGF0YToKICAgICAgICAgICAgbG9nZ2VyLmluZm8oImRhdGEubGFzdF9kYXRhX3VwZGF0ZWRfYXQ6ICVzLCBsYXN0X3VwZGF0ZV9jb250cmFjdDogJXMiLCBkYXRhWydsYXN0X2RhdGFfdXBkYXRlZF9hdCddLAogICAgICAgICAgICAgICAgICAgICAgICBsYXN0X3VwZGF0ZV9jb250cmFjdFsndXBkYXRlZF9hdCddKQogICAgICAgICAgICBsb2dnZXIud2FybmluZygidXBkYXRlIGhvdGVsIGRhdGEsIHR5cGU6IGNvbnRyYWN0cywgaG90ZWxfaWQ6ICVzIiwgaG90ZWxfaWQpCiAgICAgICAgICAgIHlpZWxkIHVwZGF0ZV9kYXRhKGNoYW5nZV9kYXRhPXsnbGFzdF9kYXRhX3VwZGF0ZWRfYXQnOiBsYXN0X3VwZGF0ZV9jb250cmFjdFsndXBkYXRlZF9hdCddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGEnOiByZXRfZGF0YX0sIGRhdGFfaWQ9ZGF0YVsnaWQnXSkKICAgICAgICBlbHNlOgogICAgICAgICAgICB5aWVsZCBpbnNlcnRfZGF0YSh7J2hvdGVsX2lkJzogaG90ZWxfaWQsICdsYXN0X2RhdGFfdXBkYXRlZF9hdCc6IGxhc3RfdXBkYXRlX2NvbnRyYWN0Wyd1cGRhdGVkX2F0J10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IHJldF9kYXRhLCAndHlwZSc6ICdjb250cmFjdHMnfSkKCiAgICAgICAgaWYgbm90aWZ5OgogICAgICAgICAgICBQdXNoTWVzc2FnZUNvbnRyb2xsZXIudXBkYXRlKGhvdGVsX2lkLCAiY29udHJhY3RzIikKCiAgICBAc3RhdGljbWV0aG9kCiAgICBAZ2VuLmNvcm91dGluZQogICAgZGVmIHVwZGF0ZV9sYXlvdXRzKGhvdGVsX2lkLCBuZXc9VHJ1ZSwgbm90aWZ5PVRydWUpOgoKICAgICAgICBsb2dnZXIuaW5mbygic3RhcnQgdXBkYXRlIGxheW91dCwgaG90ZWxfaWQ6ICVzIiwgaG90ZWxfaWQpCgogICAgICAgIHNvcnQgPSBbKCJ1cGRhdGVkX2F0IiwgLTEpXQogICAgICAgIGxheW91dHMgPSB5aWVsZCBMYXlvdXRNYW5hZ2VyLmdldF9saXN0KHF1ZXJ5PXsnaG90ZWxfaWQnOiBob3RlbF9pZH0sIHNvcnQ9c29ydCkKCiAgICAgICAgaWYgbmV3OgogICAgICAgICAgICBmb3IgbGF5b3V0IGluIGxheW91dHM6CiAgICAgICAgICAgICAgICBsYXlvdXRfZGF0YSA9IGpzb24ubG9hZHMobGF5b3V0WydsYXlvdXQnXSkKICAgICAgICAgICAgICAgIGlmIG5vdCBsYXlvdXRfZGF0YSBvciAnZGF0YScgbm90IGluIGxheW91dF9kYXRhOgogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgICAgICBsYXlvdXRfcm9vbSA9IHlpZWxkIExheW91dFV0aWwuZ2VuX2xheW91dChsYXlvdXRfZGF0YVsnZGF0YSddKQogICAgICAgICAgICAgICAgbGF5b3V0X3Jvb20gPSB7CiAgICAgICAgICAgICAgICAgICAgJ2RhdGEnOiBsYXlvdXRfcm9vbQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgbGF5b3V0X3Jvb20gPSBqc29uLmR1bXBzKGxheW91dF9yb29tKQogICAgICAgICAgICAgICAgbGF5b3V0WydsYXlvdXRfcm9vbSddID0gbGF5b3V0X3Jvb20KICAgICAgICAgICAgICAgIHlpZWxkIExheW91dE1hbmFnZXIudXBkYXRlKGxheW91dFsnaWQnXSwgeydsYXlvdXRfcm9vbSc6IGxheW91dF9yb29tfSkKCiAgICAgICAgcmV0X2RhdGEgPSBbXQogICAgICAgIGZvciBsYXlvdXQgaW4gbGF5b3V0czoKICAgICAgICAgICAgcmV0X2RhdGEuYXBwZW5kKHsKICAgICAgICAgICAgICAgICdsYXlvdXQnOiBqc29uLmxvYWRzKGxheW91dFsnbGF5b3V0X3Jvb20nXSksCiAgICAgICAgICAgICAgICAndHlwZSc6IGxheW91dFsndHlwZSddCiAgICAgICAgICAgIH0pCiAgICAgICAgcmV0X2RhdGEgPSBqc29uLmR1bXBzKHJldF9kYXRhKQoKICAgICAgICBkYXRhID0geWllbGQgZ2V0X2RhdGEocXVlcnk9eydob3RlbF9pZCc6IGhvdGVsX2lkLCAndHlwZSc6ICdsYXlvdXRzJ30pCiAgICAgICAgbG9nZ2VyLmluZm8oImRhdGE6ICVzIiwgZGF0YSkKICAgICAgICBub3cgPSBkYXRldGltZS5ub3coKQoKICAgICAgICBpZiBkYXRhOgogICAgICAgICAgICBsb2dnZXIuaW5mbygiZGF0YS5sYXN0X2RhdGFfdXBkYXRlZF9hdDogJXMsIGxhc3RfdXBkYXRlX2xheW91dDogJXMiLCBkYXRhWydsYXN0X2RhdGFfdXBkYXRlZF9hdCddLCBub3cpCiAgICAgICAgICAgIGxvZ2dlci53YXJuaW5nKCJ1cGRhdGUgaG90ZWwgZGF0YSwgdHlwZTogbGF5b3V0cywgaG90ZWxfaWQ6ICVzIiwgaG90ZWxfaWQpCiAgICAgICAgICAgIHlpZWxkIHVwZGF0ZV9kYXRhKGNoYW5nZV9kYXRhPXsnbGFzdF9kYXRhX3VwZGF0ZWRfYXQnOiBub3csCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZGF0YSc6IHJldF9kYXRhfSwgZGF0YV9pZD1kYXRhWydpZCddKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHlpZWxkIGluc2VydF9kYXRhKHsnaG90ZWxfaWQnOiBob3RlbF9pZCwgJ2xhc3RfZGF0YV91cGRhdGVkX2F0Jzogbm93LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2RhdGEnOiByZXRfZGF0YSwgJ3R5cGUnOiAnbGF5b3V0cyd9KQoKICAgICAgICBpZiBub3RpZnk6CiAgICAgICAgICAgIFB1c2hNZXNzYWdlQ29udHJvbGxlci51cGRhdGUoaG90ZWxfaWQsICJsYXlvdXRzIik=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSBhcHAuZXJyb3IgaW1wb3J0IFNVQ0NFU1MsIE5PX05FRURfVVBEQVRFCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QKICAgIEBnZW4uY29yb3V0aW5lCiAgICBkZWYgX3VwZGF0ZV9sYXlvdXQoaG90ZWxfaWQsIG5vdGlmeT1UcnVlKToKICAgICAgICBsb2dnZXIuaW5mbygic3RhcnQgdXBkYXRlIGxheW91dCwgaG90ZWxfaWQ6ICVzIiwgaG90ZWxfaWQpCiAgICAgICAgbGF5b3V0ID0geWllbGQgTGF5b3V0TWFuYWdlci5nZXQocXVlcnk9eydob3RlbF9pZCc6IGhvdGVsX2lkLCAndHlwZSc6IGxheW91dF90eXBlfSkKCiAgICAgICAgaWYgbm90IGxheW91dDoKICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJub3QgZm91bmQgbGF5b3V0ISBob3RlbF9pZDogJXMsIGxheW91dF90eXBlOiAlcyIsIGhvdGVsX2lkLCBsYXlvdXRfdHlwZSkKICAgICAgICAgICAgcmV0dXJuCgogICAgICAgIGxheW91dF9kYXRhID0ganNvbi5sb2FkcyhsYXlvdXRbJ2xheW91dCddKQogICAgICAgIGlmIG5vdCBsYXlvdXRfZGF0YSBvciAnZGF0YScgbm90IGluIGxheW91dF9kYXRhOgogICAgICAgICAgICBsb2dnZXIuZXJyb3IoImVycm9yIGxheW91dCBmb3JtYXQhIGhvdGVsX2lkOiAlcywgbGF5b3V0X3R5cGU6ICVzLCBsYXlvdXQ6ICVzIiwgaG90ZWxfaWQsIGxheW91dF90eXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgbGF5b3V0KQogICAgICAgICAgICByZXR1cm4KCiAgICAgICAgbGF5b3V0X3Jvb20gPSB5aWVsZCBMYXlvdXRVdGlsLmdlbl9sYXlvdXQobGF5b3V0X2RhdGFbJ2RhdGEnXSkKCiAgICAgICAgbGF5b3V0X3Jvb20gPSB7CiAgICAgICAgICAgICdkYXRhJzogbGF5b3V0X3Jvb20KICAgICAgICB9CiAgICAgICAgbGF5b3V0X3Jvb20gPSBqc29uLmR1bXBzKGxheW91dF9yb29tKQogICAgICAgIGxheW91dFsnbGF5b3V0X3Jvb20nXSA9IGxheW91dF9yb29tCiAgICAgICAgeWllbGQgTGF5b3V0TWFuYWdlci51cGRhdGUobGF5b3V0WydpZCddLCB7J2xheW91dF9yb29tJzogbGF5b3V0X3Jvb219KQoKICAgICAgICBzaGExID0gaGFzaGxpYi5zaGExKCkKICAgICAgICBzaGExLnVwZGF0ZShsYXlvdXRfcm9vbS5lbmNvZGUoKSkKCiAgICAgICAgbGF5b3V0ID0gewogICAgICAgICAgICAnc2hhMSc6IHNoYTEuaGV4ZGlnZXN0KCksCiAgICAgICAgICAgICd0eXBlJzogbGF5b3V0X3R5cGUsCiAgICAgICAgICAgICdsYXlvdXQnOiBsYXlvdXRfcm9vbQogICAgICAgIH0KCiAgICAgICAgc2F2ZV9sYXlvdXQoaG90ZWxfaWQsIGxheW91dCkKCiAgICAgICAgaWYgbm90aWZ5OgogICAgICAgICAgICBQdXNoTWVzc2FnZUNvbnRyb2xsZXIudXBkYXRlKGhvdGVsX2lkLCAibGF5b3V0cyIsIGxheW91dF90eXBlKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJzogcmV0X2RhdGEsICd0eXBlJzogJ2NvbnRyYWN0cyd9KQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgaW5zZXJ0X2RhdGEoeydob3RlbF9pZCc6IGhvdGVsX2lkLCAnbGFzdF9kYXRhX3VwZGF0ZWRfYXQnOiBsYXN0X3VwZGF0ZV9jb250cmFjdFsndXBkYXRlZF9hdCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RhdGEnOiB1cGRhdGVfZGF0YVsnZGF0YSddCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2xhc3RfZGF0YV91cGRhdGVkX2F0JzogaW50KHVwZGF0ZV9kYXRhWydsYXN0X2RhdGFfdXBkYXRlZF9hdCddLnRpbWVzdGFtcCgpKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdkYXRhJzogcmV0X2RhdGF9LCBkYXRhX2lkPWRhdGFbJ2lkJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgdXBkYXRlX2RhdGEoY2hhbmdlX2RhdGE9eydsYXN0X2RhdGFfdXBkYXRlZF9hdCc6IGxhc3RfdXBkYXRlX2NvbnRyYWN0Wyd1cGRhdGVkX2F0J10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm5pbmcoInVwZGF0ZSBob3RlbCBkYXRhLCB0eXBlOiBjb250cmFjdHMsIGhvdGVsX2lkOiAlcyIsIGhvdGVsX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>update_layouts</text>
+        <text>import_objecb</text>
       </register>
     </registers>
     <search>

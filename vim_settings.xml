@@ -285,11 +285,11 @@
         <mark key="." line="97" column="46" />
         <mark key="^" line="97" column="46" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/model/base.py" timestamp="1522896109480">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="46" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="46" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/model/base.py" timestamp="1523630159280">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" timestamp="1523616890122">
         <mark key="'" line="236" column="23" />
@@ -512,7 +512,13 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1523541604642">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/model/wifi.py" timestamp="1523630280364">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/extend_options.py" timestamp="1523629972787">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
@@ -585,37 +591,37 @@
         <text encoding="base64">ICAgICAgICAocicvYXBpLyg/UDxhcGlfdmVyc2lvbj52W1xkXXsxLDJ9KS9hZG1pbi9ob3RlbC9yb29tcy8oP1A8aWQ+W1xkXXsxLDZ9KS9yZWdpc3RlcicsIFJvb21SZWdpc3RlckhhbmRsZXIpLAogICAgICAgIChyJy9hcGkvKD9QPGFwaV92ZXJzaW9uPnZbXGRdezEsMn0pL2FkbWluL2hvdGVsL3Jvb21zLyg/UDxpZD5bXGRdezEsNn0pL2NoZWNrb3V0JywgUm9vbUNoZWNrb3V0SGFuZGxlciksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>renew</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBjcyByb29tIG9wZXJhdGlvbgo=</text>
+        <text encoding="base64">ICAgIGlkID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJyZWdpc3RlciByb29tIHJldDogJXMiLCByZXQpCg==</text>
+        <text encoding="base64">IyBjcyByb29tIG9wZXJhdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSB5aWVsZCBSb29tTWFuYWdlci5yZWdpc3Rlcihyb29tLCByZWdpc3Rlcl90aW1lLCBjaGVja291dF90aW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5pbmZvKCJyZWdpc3RlciByb29tIHJldDogJXMiLCByZXQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSB5aWVsZCBSb29tTWFuYWdlci5yZWdpc3Rlcihyb29tLCByZWdpc3Rlcl90aW1lLCBjaGVja291dF90aW1lKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>renew</text>
+        <text>InterruptedError</text>
       </register>
     </registers>
     <search>

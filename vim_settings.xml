@@ -139,11 +139,11 @@
         <mark key="." line="97" column="28" />
         <mark key="^" line="97" column="28" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/handler.py" timestamp="1522762857580">
-        <mark key="[" line="58" column="56" />
-        <mark key="]" line="58" column="55" />
-        <mark key="." line="58" column="55" />
-        <mark key="^" line="58" column="55" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/handler.py" timestamp="1523687701625">
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="45" />
+        <mark key="." line="61" column="45" />
+        <mark key="^" line="61" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/logging.json" timestamp="1522848302228">
         <mark key="[" line="10" column="5" />
@@ -594,7 +594,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, ret</text>
+        <text>phone_number</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIGlkID0gCg==</text>
@@ -621,7 +621,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>, ret</text>
+        <text>phone_number</text>
       </register>
     </registers>
     <search>

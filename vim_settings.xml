@@ -117,11 +117,11 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1522660419786">
-        <mark key="[" line="77" column="37" />
-        <mark key="]" line="77" column="36" />
-        <mark key="^" line="77" column="36" />
-        <mark key="." line="77" column="36" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1523776072271">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="67" column="35" />
+        <mark key="^" line="67" column="35" />
+        <mark key="." line="67" column="35" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/department/model_mysql.py" timestamp="1522845383634">
         <mark key="[" line="98" column="0" />
@@ -197,11 +197,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1523775450599">
-        <mark key="[" line="86" column="48" />
-        <mark key="]" line="21" column="78" />
-        <mark key="^" line="21" column="78" />
-        <mark key="." line="21" column="78" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/controller.py" timestamp="1523776338447">
+        <mark key="[" line="118" column="16" />
+        <mark key="]" line="118" column="15" />
+        <mark key="^" line="118" column="15" />
+        <mark key="." line="118" column="15" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/model_redis.py" timestamp="1523535216577">
         <mark key="[" line="45" column="84" />
@@ -572,13 +572,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigibmV3X3Jvb206ICVzIiwgbmV3X3Jvb20pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFUlJPUl9EQl9TQU1FX1JFQ09SRCgi6K+l6K6+5aSH5bey57uR5a6a5YW25LuW5oi/6Ze0ISIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNsaWVudF9pZDogJXMiLCBjbGllbnRfaWQpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>service</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBFUlJPUl9EQl9TQU1FX1JFQ09SRCgi6K+l6K6+5aSH5bey57uR5a6a5YW25LuW5oi/6Ze0ISIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigib2xkX3Jvb206ICVzIiwgb2xkX3Jvb20pCg==</text>

@@ -158,11 +158,11 @@
         <mark key="^" line="94" column="48" />
         <mark key="." line="94" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523851093570">
-        <mark key="[" line="150" column="67" />
-        <mark key="]" line="150" column="67" />
-        <mark key="." line="150" column="67" />
-        <mark key="^" line="150" column="62" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523853422790">
+        <mark key="[" line="179" column="53" />
+        <mark key="]" line="179" column="52" />
+        <mark key="." line="179" column="52" />
+        <mark key="^" line="179" column="52" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/manager.py" timestamp="1523780543955">
         <mark key="[" line="25" column="48" />
@@ -337,7 +337,7 @@
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/batch_ack_handler.py" timestamp="1522726890941" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/ad_handler.py" timestamp="1523152684563" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/manager.py" timestamp="1523616011275" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/model_mysql.py" timestamp="1523694326367">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/model_mysql.py" timestamp="1523852155382">
         <mark key="[" line="26" column="25" />
         <mark key="]" line="26" column="24" />
         <mark key="^" line="26" column="24" />
@@ -495,7 +495,7 @@
         <mark key="^" line="124" column="41" />
         <mark key="." line="124" column="41" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/model_mysql.py" timestamp="1523624192633">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/model_mysql.py" timestamp="1523852750007">
         <mark key="[" line="24" column="36" />
         <mark key="]" line="24" column="35" />
         <mark key="^" line="24" column="35" />
@@ -602,40 +602,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgSU9Mb29wLmN1cnJlbnQoKS5ydW5fc3luYyhsYW1iZGE6IGFkZF9tZXNzYWdlX2NvbmZpZ3MoMikpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY292ZXJfaW1hZ2U6ICcsIGNvdmVyX2ltYWdlKQogICAgICAgIHByaW50KCduZXdfaW1hZ2VzOicsIG5ld19pbWFnZXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdFVCBodHRwOi8vMTkyLjE2OC4wLjE2Nzo4MDgwL2ltYWdlcy9ob3RlbC8yLzlfMTUyMzYyMjc0Ny5wbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGEgPSB7fQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>image.frp.dodoo-tech.</text>
+        <text>product</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdvbGRfaW1hZ2U6ICcsIGltYWdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnYWQ6ICcsIGFkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNsaWVudF9pZDogJXMiLCBjbGllbnRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY28nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigib2xkX3Jvb206ICVzIiwgb2xkX3Jvb20pCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAuYWRtaW4uc2VydmljZS50eXBlLm1hbmFnZXIgaW1wb3J0IFNlcnZpY2VUeXBlTWFuYWdlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigibmV3X3Jvb206ICVzIiwgbmV3X3Jvb20pCg==</text>
+        <text encoding="base64">ZnJvbSBhcHAudXNlci5tYW5hZ2VyIGltcG9ydCBIb3RlbFVzZXJNYW5hZ2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bG9nZ2VyICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>image.frp.dodoo-tech.</text>
+        <text>product</text>
       </register>
     </registers>
     <search>

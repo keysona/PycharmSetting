@@ -158,10 +158,10 @@
         <mark key="^" line="94" column="48" />
         <mark key="." line="94" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523848539190">
-        <mark key="[" line="150" column="63" />
-        <mark key="]" line="150" column="62" />
-        <mark key="." line="150" column="62" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523851093570">
+        <mark key="[" line="150" column="67" />
+        <mark key="]" line="150" column="67" />
+        <mark key="." line="150" column="67" />
         <mark key="^" line="150" column="62" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/manager.py" timestamp="1523780543955">
@@ -608,7 +608,7 @@
         <text encoding="base64">ICAgIEdFVCBodHRwOi8vMTkyLjE2OC4wLjE2Nzo4MDgwL2ltYWdlcy9ob3RlbC8yLzlfMTUyMzYyMjc0Ny5wbmcK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>image.frp.dodoo-tech.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdvbGRfaW1hZ2U6ICcsIGltYWdlKQo=</text>
@@ -635,7 +635,7 @@
         <text encoding="base64">ICAgICAgICBsb2dnZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>image.frp.dodoo-tech.</text>
       </register>
     </registers>
     <search>

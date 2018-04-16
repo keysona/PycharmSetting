@@ -158,7 +158,7 @@
         <mark key="^" line="94" column="48" />
         <mark key="." line="94" column="48" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523853422790">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1523863435932">
         <mark key="[" line="179" column="53" />
         <mark key="]" line="179" column="52" />
         <mark key="." line="179" column="52" />
@@ -236,7 +236,7 @@
         <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1522850456682" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/Makefile" timestamp="1523862003057" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/Makefile" timestamp="1523863370829" />
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/msg_mgr.py" timestamp="1523261892313">
         <mark key="[" line="397" column="64" />
         <mark key="]" line="397" column="63" />
@@ -471,11 +471,11 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/manager.py" timestamp="1523532968959" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1523860602305">
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="24" column="50" />
-        <mark key="." line="24" column="50" />
-        <mark key="^" line="24" column="50" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1523863543446">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/manager.py" timestamp="1523540239292">
         <mark key="[" line="33" column="54" />

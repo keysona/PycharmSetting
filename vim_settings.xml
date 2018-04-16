@@ -236,7 +236,12 @@
         <mark key="^" line="13" column="45" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/api/base.py" timestamp="1522850456682" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/Makefile" timestamp="1523863370829" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/Makefile" timestamp="1523885902907">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/push-server/pushmgr/msg_mgr.py" timestamp="1523261892313">
         <mark key="[" line="397" column="64" />
         <mark key="]" line="397" column="63" />
@@ -603,13 +608,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IGNvbnRlbnQuZm9ybWF0KG1lc3NhZ2U9b3JkZXJbJ3NlcnZpY2VfbWVzc2FnZSddKQo=</text>
+        <text encoding="base64">I0RFU1RfRElSPXNlcnZlcjE6fgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IGNvbnRlbnQgKyAn5Y6f5ZugOiAnICsgc2VydmljZVsnc2VydmljZV9tZXNzYWdlJ10K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>order</text>
+        <text>server1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IGNvbnRlbnQgKyAn5Y6f5ZugOiAnICsgb3JkZXJbJ3NlcnZpY2VfbWVzc2FnZSddCg==</text>
@@ -636,7 +641,7 @@
         <text encoding="base64">ZnJvbSBhcHAudXNlci5tYW5hZ2VyIGltcG9ydCBIb3RlbFVzZXJNYW5hZ2VyCg==</text>
       </register>
       <register name="-" type="4">
-        <text>order</text>
+        <text>server1</text>
       </register>
     </registers>
     <search>

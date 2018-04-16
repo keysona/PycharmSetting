@@ -471,11 +471,11 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/manager.py" timestamp="1523532968959" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1523844688453">
-        <mark key="[" line="23" column="52" />
-        <mark key="]" line="24" column="51" />
-        <mark key="." line="24" column="51" />
-        <mark key="^" line="24" column="51" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/options.py" timestamp="1523860602305">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="24" column="50" />
+        <mark key="." line="24" column="50" />
+        <mark key="^" line="24" column="50" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/manager.py" timestamp="1523540239292">
         <mark key="[" line="33" column="54" />
@@ -609,7 +609,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2RhdGEgPSB7fQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>product</text>
+        <text>keysona</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
@@ -636,7 +636,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>product</text>
+        <text>keysona</text>
       </register>
     </registers>
     <search>

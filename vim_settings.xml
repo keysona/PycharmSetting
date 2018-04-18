@@ -244,7 +244,7 @@
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/Makefile" timestamp="1523885902907">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/Makefile" timestamp="1524045389501">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
@@ -274,11 +274,10 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1523884848159">
-        <mark key="[" line="213" column="52" />
-        <mark key="]" line="213" column="51" />
-        <mark key="." line="213" column="51" />
-        <mark key="^" line="213" column="51" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1524045167728">
+        <mark key="[" line="408" column="1" />
+        <mark key="]" line="408" column="0" />
+        <mark key="." line="408" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1523240486388">
         <mark key="[" line="44" column="0" />
@@ -508,6 +507,12 @@
         <mark key="." line="47" column="36" />
         <mark key="^" line="47" column="36" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/prod/exclude.file" timestamp="1524045666263">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="16" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1523893166794">
         <mark key="[" line="85" column="58" />
         <mark key="]" line="85" column="57" />
@@ -621,34 +626,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiY29udHJhY3RfaWQsIHNlcnZpY2U6ICVzIiwgc2VydmljZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoInNlcnZpY2UsIGNvbnRyYWN0OiAlcyIsIGNvbnRyYWN0KQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoInNlcnZpY2UsIGNvbnRyYWN0OiAlcyIsIGNvbnRyYWN0KQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiY29udHJhY3RfaWQsIHNlcnZpY2U6ICVzIiwgc2VydmljZSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNvbnRyYWN0X2lkOiAlcyIsIGNvbnRyYWN0X2lkKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNoYW5nZV9kYXRhOiAlcyIsIGNoYW5nZV9kYXRhKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImNsaWVudF9pZCIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NsaWVudF9pZCc6IHJvb21bJ2NsaWVudF9pZCddLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoInNlcnZpY2UsIGNvbnRyYWN0OiAlcyIsIGNvbnRyYWN0KQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZ2dlci5lcnJvcigicGFyYW1zOiAlcyIsIHBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiY29udHJhY3RfaWQsIHNlcnZpY2U6ICVzIiwgc2VydmljZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYubG9nCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNvbnRyYWN0X2lkOiAlcyIsIGNvbnRyYWN0X2lkKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNoYW5nZV9kYXRhOiAlcyIsIGNoYW5nZV9kYXRhKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoInBob25lX251bWJlcjogJSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>

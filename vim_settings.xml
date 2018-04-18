@@ -515,11 +515,11 @@
         <mark key="." line="47" column="36" />
         <mark key="^" line="47" column="36" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/prod/exclude.file" timestamp="1524045666263">
-        <mark key="[" line="16" column="17" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="16" />
-        <mark key="^" line="16" column="16" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/prod/exclude.file" timestamp="1524050610890">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1524048630641">
         <mark key="[" line="27" column="99" />

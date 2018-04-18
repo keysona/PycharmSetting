@@ -110,11 +110,11 @@
         <mark key="." line="21" column="84" />
         <mark key="^" line="21" column="84" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1523890219658">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/avatar_handler.py" timestamp="1524051661359">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="24" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/torcore/database/redis.py" timestamp="1522976197552">
         <mark key="[" line="4" column="1" />
@@ -636,8 +636,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3Bob25lX251bWJlcic6IHNlcnZpY2VbJ3Bob25lX251bWJlciddLAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Bob25lX251bWJlcic6IHNlcnZpY2VbJ3Bob25lX251bWJlciddLAo=</text>
+      <register name="&quot;" type="4">
+        <text>/hotel</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -664,7 +664,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0WydwaG9uZV9udW1iZXInXSA9ICcnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>service_type</text>
+        <text>/hotel</text>
       </register>
     </registers>
     <search>

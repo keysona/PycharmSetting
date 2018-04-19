@@ -239,10 +239,11 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1524123014607">
-        <mark key="[" line="256" column="1" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1524126559813">
+        <mark key="[" line="252" column="32" />
+        <mark key="]" line="252" column="31" />
+        <mark key="." line="252" column="31" />
+        <mark key="^" line="252" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/model_mysql.py" timestamp="1524048064489">
         <mark key="[" line="42" column="31" />

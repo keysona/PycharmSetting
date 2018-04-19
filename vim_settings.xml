@@ -145,7 +145,7 @@
         <mark key="." line="179" column="52" />
         <mark key="^" line="179" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/manager.py" timestamp="1523780543955">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/manager.py" timestamp="1524104506787">
         <mark key="[" line="25" column="48" />
         <mark key="]" line="25" column="47" />
         <mark key="." line="25" column="47" />
@@ -239,7 +239,7 @@
         <mark key="^" line="51" column="71" />
         <mark key="." line="51" column="71" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1524103702147">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/controller.py" timestamp="1524104220278">
         <mark key="[" line="256" column="1" />
         <mark key="]" line="256" column="0" />
         <mark key="." line="256" column="0" />
@@ -304,12 +304,12 @@
         <mark key="^" line="12" column="34" />
         <mark key="." line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/model_mysql.py" timestamp="1523712956377">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/model_mysql.py" timestamp="1524104310460">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1524048462544">
         <mark key="'" line="231" column="8" />

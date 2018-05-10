@@ -57,11 +57,11 @@
         <mark key="^" line="15" column="27" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/controller.py" timestamp="1525933418243">
-        <mark key="[" line="198" column="31" />
-        <mark key="]" line="198" column="30" />
-        <mark key="." line="198" column="30" />
-        <mark key="^" line="198" column="30" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/controller.py" timestamp="1525934171640">
+        <mark key="[" line="131" column="62" />
+        <mark key="]" line="131" column="43" />
+        <mark key="." line="131" column="43" />
+        <mark key="^" line="131" column="43" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/manager.py" timestamp="1522997537508">
         <mark key="[" line="30" column="49" />
@@ -599,8 +599,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3Rhc3RlJwo=</text>
@@ -627,7 +627,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
     </registers>
     <search>

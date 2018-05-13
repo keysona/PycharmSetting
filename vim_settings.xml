@@ -204,6 +204,12 @@
         <mark key="^" line="86" column="12" />
         <mark key="." line="86" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/password_handler.py" timestamp="1526215193938">
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="58" column="28" filename="$USER_HOME$/Dropbox/company/project/torpeewee/torpeewee/query.py" />

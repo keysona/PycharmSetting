@@ -22,6 +22,11 @@
         <mark key="." line="237" column="103" />
         <mark key="^" line="237" column="103" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/controller.py" timestamp="1526204213367">
+        <mark key="[" line="179" column="20" />
+        <mark key="]" line="179" column="19" />
+        <mark key="." line="179" column="19" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/error.py" timestamp="1526049433193">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="67" column="35" />
@@ -137,6 +142,11 @@
         <mark key="." line="37" column="26" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/category/model_mysql.py" timestamp="1526013829631" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1526005826722">
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/model_mysql.py" timestamp="1525917536845">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="32" />
@@ -182,6 +192,11 @@
         <mark key="]" line="108" column="14" />
         <mark key="^" line="54" column="25" />
         <mark key="." line="108" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1525787734618">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/weixin-server/wx_device/wx_device_handler.py" timestamp="1525922288139">
         <mark key="[" line="86" column="13" />

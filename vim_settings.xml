@@ -33,9 +33,6 @@
         <mark key="^" line="67" column="35" />
         <mark key="." line="67" column="35" />
       </file>
-      <file name="/Python Console" timestamp="1526004906072">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/image/image_handler.py" timestamp="1526179179641">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="36" />
@@ -183,11 +180,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" timestamp="1525940977417">
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="62" column="26" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" timestamp="1526193283406">
+        <mark key="[" line="108" column="15" />
+        <mark key="]" line="108" column="14" />
         <mark key="^" line="54" column="25" />
-        <mark key="." line="62" column="26" />
+        <mark key="." line="108" column="14" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/login_handler.py" timestamp="1525787734618">
         <mark key="[" line="16" column="1" />
@@ -263,7 +260,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>lang</text>
+        <text>-</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImNoYW5nZV9kYXRhOiAlcyIsIGNoYW5nZV9kYXRhKQo=</text>
@@ -290,7 +287,7 @@
         <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcGFyYW1zWydjb250ZW50J10K</text>
       </register>
       <register name="-" type="4">
-        <text>lang</text>
+        <text>-</text>
       </register>
     </registers>
     <search>

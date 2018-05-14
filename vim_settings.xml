@@ -34,11 +34,11 @@
         <mark key="." line="222" column="56" />
         <mark key="^" line="222" column="56" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1526283746346">
-        <mark key="[" line="126" column="47" />
-        <mark key="]" line="135" column="23" />
-        <mark key="." line="135" column="23" />
-        <mark key="^" line="135" column="23" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1526285178196">
+        <mark key="[" line="159" column="38" />
+        <mark key="]" line="159" column="37" />
+        <mark key="." line="159" column="37" />
+        <mark key="^" line="159" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/controller.py" timestamp="1526204213367">
         <mark key="[" line="179" column="20" />
@@ -80,6 +80,11 @@
         <mark key="]" line="32" column="39" />
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/update/manager.py" timestamp="1526285034241">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/model_mysql.py" timestamp="1525760181032">
         <mark key="[" line="39" column="31" />
@@ -240,6 +245,12 @@
         <mark key="^" line="86" column="12" />
         <mark key="." line="86" column="12" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/manager.py" timestamp="1526285155431">
+        <mark key="[" line="66" column="50" />
+        <mark key="]" line="66" column="49" />
+        <mark key="^" line="66" column="49" />
+        <mark key="." line="66" column="49" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/user/password_handler.py" timestamp="1526215193938">
         <mark key="[" line="20" column="1" />
         <mark key="]" line="19" column="0" />
@@ -315,7 +326,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGpzb24ubG9hZHMoYXJ0aWNsZVsnaW1hZ2VzJ10pCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>title</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlcyA9IGpzb24ubG9hZHMoYXJ0aWNsZVsnZW5faW1hZ2VzJ10pCg==</text>
@@ -342,7 +353,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>title</text>
       </register>
     </registers>
     <search>

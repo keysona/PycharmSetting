@@ -34,6 +34,11 @@
         <mark key="^" line="39" column="53" />
         <mark key="." line="39" column="53" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/controller.py" timestamp="1526566186949">
+        <mark key="[" line="179" column="20" />
+        <mark key="]" line="179" column="19" />
+        <mark key="." line="179" column="19" />
+      </file>
       <file name="/Python Console" timestamp="1526894780020">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,11 +54,11 @@
         <mark key="^" line="57" column="120" />
         <mark key="." line="57" column="120" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1526890943982">
-        <mark key="[" line="102" column="26" />
-        <mark key="]" line="102" column="25" />
-        <mark key="^" line="102" column="25" />
-        <mark key="." line="102" column="25" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/add_user.py" timestamp="1526901588494">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="13" />
+        <mark key="^" line="62" column="32" />
+        <mark key="." line="58" column="13" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/captcha/util.py" timestamp="1526889873050" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/controller.py" timestamp="1526869898515">
@@ -81,6 +86,11 @@
         <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/model_mysql.py" timestamp="1526694892299" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/controller.py" timestamp="1526900975714">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/user-server/app/gift/manager.py" timestamp="1526885162246">
         <mark key="[" line="56" column="20" />
         <mark key="]" line="56" column="19" />
@@ -198,38 +208,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nOiAoc3RyLCBOb25lKSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29uZmlnID0ge30=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>registrar</text>
+        <text>service['type'] == 'order':</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3R5cGUK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbl9uYW1lID0gcGFyYW1zWydlbl9uYW1lJ10K</text>
+        <text encoding="base64">ICAgIHJldCA9IHlpZWxkIE1lc3NhZ2VNYW5hZ2VyQ29uZmlnLmNyZWF0ZShjb25maWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbl9uYW1lID0gcGFyYW1zWydlbl9uYW1lJ10K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nOiAoc3RyLCBOb25lKSwK</text>
+        <text encoding="base64">ICAgICAgICAndHlwZSc6ICdvcmRlcicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnZW5fbmFtZSc6IChzdHIsIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZyA9IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnZW5fbmFtZSc6IChzdHIsIE5vbmUpLAo=</text>
+        <text encoding="base64">ICAgICAgICAnaG90ZWxfaWQnOiBob3RlbF9pZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb25maWcK</text>
       </register>
       <register name="-" type="4">
-        <text>registrar</text>
+        <text>service['type'] == 'order':</text>
       </register>
     </registers>
     <search>

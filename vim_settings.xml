@@ -15,6 +15,12 @@
         <mark key="." line="17" column="22" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/model_mysql.py" timestamp="1526907179887">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="3" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="24" column="3" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/product/controller.py" timestamp="1526737319940">
         <mark key="[" line="150" column="64" />
         <mark key="]" line="150" column="63" />
@@ -97,26 +103,19 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/model_mysql.py" timestamp="1525751840482">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="26" column="40" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1526383252811">
-        <mark key="'" line="248" column="8" />
-        <mark key="[" line="13" column="57" />
-        <mark key="]" line="13" column="56" />
-        <mark key="^" line="13" column="56" />
-        <mark key="." line="13" column="56" />
-      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/handler.py" timestamp="1526799996619" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1526902459516">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1526906935574">
         <mark key="[" line="92" column="37" />
         <mark key="]" line="92" column="36" />
         <mark key="." line="92" column="36" />
         <mark key="^" line="92" column="36" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/controller.py" timestamp="1526561420454">
+        <mark key="'" line="83" column="21" />
+        <mark key="[" line="124" column="32" />
+        <mark key="]" line="124" column="34" />
+        <mark key="." line="124" column="34" />
+        <mark key="^" line="124" column="34" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/ad/model_mysql.py" timestamp="1526566180343">
         <mark key="[" line="31" column="33" />
@@ -130,12 +129,12 @@
         <mark key="^" line="119" column="50" />
         <mark key="." line="119" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1526894916576">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1526907901897">
         <mark key="'" line="29" column="27" />
-        <mark key="[" line="61" column="46" />
-        <mark key="]" line="61" column="45" />
-        <mark key="." line="61" column="45" />
-        <mark key="^" line="61" column="45" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1526883748092">
         <mark key="[" line="155" column="43" />
@@ -206,40 +205,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nOiAoc3RyLCBOb25lKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29uZmlnID0ge30=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>service['type'] == 'order':</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVuX25hbWUgPSBGaWVsZChzdHIsICIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldCA9IHlpZWxkIE1lc3NhZ2VNYW5hZ2VyQ29uZmlnLmNyZWF0ZShjb25maWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcm9vbQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZSc6ICdvcmRlcicK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgZWxzZToKICAgICAgICAgICAgY29uZmlnID0ge30=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZyA9IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnaG90ZWxfaWQnOiBob3RlbF9pZCwK</text>
+        <text encoding="base64">ICAgIHByaW50KHJldCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb25maWcK</text>
+        <text encoding="base64">ICAgIHJldCA9IHlpZWxkIE1lc3NhZ2VNYW5hZ2VyQ29uZmlnLmNyZWF0ZShjb25maWcpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>service['type'] == 'order':</text>
+        <text>_</text>
       </register>
     </registers>
     <search>

@@ -255,6 +255,12 @@
         <mark key="." line="397" column="63" />
         <mark key="^" line="397" column="63" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/model_mysql.py" timestamp="1526869383168">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/model_mysql.py" timestamp="1526694892299" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/department/message/manager.py" timestamp="1522834667414">
         <mark key="[" line="9" column="23" />
@@ -537,7 +543,7 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1526842921290">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1526869363399">
         <mark key="[" line="155" column="43" />
         <mark key="]" line="155" column="42" />
         <mark key="." line="155" column="42" />

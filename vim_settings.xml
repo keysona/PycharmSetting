@@ -99,7 +99,7 @@
         <mark key="." line="22" column="16" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/model_mysql.py" timestamp="1526694892299" />
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/controller.py" timestamp="1526900975714">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/controller.py" timestamp="1526982316002">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -179,6 +179,12 @@
         <mark key="]" line="108" column="14" />
         <mark key="^" line="54" column="25" />
         <mark key="." line="108" column="14" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/handler.py" timestamp="1526982346242">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+        <mark key="^" line="18" column="31" />
       </file>
     </filemarks>
     <jumps>

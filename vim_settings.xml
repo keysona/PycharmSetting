@@ -33,11 +33,11 @@
         <mark key="." line="150" column="63" />
         <mark key="^" line="150" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1527039804399">
-        <mark key="[" line="209" column="37" />
-        <mark key="]" line="222" column="56" />
-        <mark key="." line="222" column="56" />
-        <mark key="^" line="222" column="56" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1527074379225">
+        <mark key="[" line="218" column="52" />
+        <mark key="]" line="224" column="56" />
+        <mark key="." line="224" column="56" />
+        <mark key="^" line="224" column="56" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/util.py" timestamp="1526741758649" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/wifi_handler.py" timestamp="1526870011537">
@@ -139,6 +139,11 @@
         <mark key="^" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/base.py" timestamp="1527074812002">
+        <mark key="[" line="99" column="1" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/handler.py" timestamp="1526911806594" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1526906935574">
         <mark key="[" line="92" column="37" />
@@ -165,13 +170,10 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/handler.py" timestamp="1527071779373">
-        <mark key="[" line="144" column="53" />
-        <mark key="]" line="144" column="52" />
-        <mark key="." line="144" column="52" />
-        <mark key="^" line="144" column="52" />
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/handler.py" timestamp="1527073992439">
+        <mark key="^" line="111" column="52" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/manager.py" timestamp="1527073144467">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/manager.py" timestamp="1527073906263">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="78" column="35" />
         <mark key="." line="78" column="35" />
@@ -189,7 +191,7 @@
         <mark key="^" line="119" column="50" />
         <mark key="." line="119" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1527061677017">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1527073978759">
         <mark key="'" line="29" column="27" />
         <mark key="[" line="59" column="34" />
         <mark key="]" line="59" column="33" />
@@ -273,35 +275,95 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>class HotelRoomListHandler(ApiRestHandler):
+
+    get_params = {
+        'floor': (str, None),
+        'category_id': (int, None),
+        'status': (str, None)
+    }
+
+    @gen.coroutine
+    def list(self):
+
+        params = self.params
+        user = self.user
+
+        query = {
+            'hotel_id': user['hotel_id']
+        }
+
+        if params['floor']:
+            query['floor'] = params['floor']
+        if params['category_id']:
+            try:
+                query['category_id'] = params['category_id']
+            except:
+                pass
+        if params['status']:
+            query['status'] = params['status']
+
+        result = yield controller.list(query=query, offset=self.offset, row_count=self.row_count)
+
+        self.response(result)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>class HotelRoomListHandler(ApiRestHandler):
+
+    get_params = {
+        'floor': (str, None),
+        'category_id': (int, None),
+        'status': (str, None)
+    }
+
+    @gen.coroutine
+    def list(self):
+
+        params = self.params
+        user = self.user
+
+        query = {
+            'hotel_id': user['hotel_id']
+        }
+
+        if params['floor']:
+            query['floor'] = params['floor']
+        if params['category_id']:
+            try:
+                query['category_id'] = params['category_id']
+            except:
+                pass
+        if params['status']:
+            query['status'] = params['status']
+
+        result = yield controller.list(query=query, offset=self.offset, row_count=self.row_count)
+
+        self.response(result)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsYW5ndWFnZSA9IHJvb21bJ2NsaWVudF9sYW5ndWFnZSddCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICBsYW5ndWFnZSA9IHJvb21bJ2NsaWVudF9sYW5ndWFnZSddCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShOT1RfRk9VTkRfUk9PTSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5yZXNwb25zZShOT1RfRk9VTkRfUk9PTSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuX25hbWUgPSBGaWVsZChzdHIsICIiKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVuX25hbWUgPSBGaWVsZChzdHIsICIiKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcm9vbQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>

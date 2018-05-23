@@ -33,7 +33,7 @@
         <mark key="." line="150" column="63" />
         <mark key="^" line="150" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1527074379225">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/app.py" timestamp="1527083639503">
         <mark key="[" line="218" column="52" />
         <mark key="]" line="224" column="56" />
         <mark key="." line="224" column="56" />
@@ -191,7 +191,7 @@
         <mark key="^" line="119" column="50" />
         <mark key="." line="119" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1527079726852">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1527083181600">
         <mark key="'" line="29" column="27" />
         <mark key="[" line="55" column="38" />
         <mark key="]" line="55" column="37" />
@@ -215,6 +215,12 @@
         <mark key="]" line="18" column="31" />
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/article_handler.py" timestamp="1527084365241">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="49" column="70" />
+        <mark key="." line="49" column="70" />
+        <mark key="^" line="49" column="70" />
       </file>
     </filemarks>
     <jumps>

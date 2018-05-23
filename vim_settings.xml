@@ -191,12 +191,12 @@
         <mark key="^" line="119" column="50" />
         <mark key="." line="119" column="50" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1527077119381">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" timestamp="1527079726852">
         <mark key="'" line="29" column="27" />
-        <mark key="[" line="59" column="34" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="34" />
-        <mark key="^" line="45" column="34" />
+        <mark key="[" line="55" column="38" />
+        <mark key="]" line="55" column="37" />
+        <mark key="." line="55" column="37" />
+        <mark key="^" line="55" column="37" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/order/controller.py" timestamp="1526974304338">
         <mark key="[" line="155" column="43" />

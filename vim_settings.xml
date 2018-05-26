@@ -79,6 +79,7 @@
         <mark key="^" line="24" column="3" />
         <mark key="." line="24" column="3" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/model_mysql.py" timestamp="1527326000931" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/order_handler.py" timestamp="1527154225360">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
@@ -98,7 +99,7 @@
         <mark key="^" line="57" column="120" />
         <mark key="." line="57" column="120" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1527171675035">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/service_handler.py" timestamp="1527326714979">
         <mark key="'" line="248" column="8" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
@@ -184,7 +185,7 @@
         <mark key="^" line="151" column="42" />
         <mark key="." line="151" column="42" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/model_mysql.py" timestamp="1527085311506">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/model_mysql.py" timestamp="1527326399248">
         <mark key="[" line="33" column="33" />
         <mark key="]" line="33" column="32" />
         <mark key="^" line="33" column="32" />
@@ -219,7 +220,7 @@
         <mark key="]" line="179" column="19" />
         <mark key="." line="179" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1527325343294">
+      <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1527325995462">
         <mark key="[" line="92" column="37" />
         <mark key="]" line="92" column="36" />
         <mark key="." line="92" column="36" />

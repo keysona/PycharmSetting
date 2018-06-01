@@ -214,7 +214,12 @@
         <mark key="." line="18" column="31" />
         <mark key="^" line="18" column="31" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/weixin-server/wx_device/wx_device_handler.py" timestamp="1527826099456" />
+      <file name="$USER_HOME$/Dropbox/company/project/weixin-server/wx_device/wx_device_handler.py" timestamp="1527833797487">
+        <mark key="[" line="209" column="12" />
+        <mark key="]" line="210" column="39" />
+        <mark key="." line="210" column="39" />
+        <mark key="^" line="210" column="39" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/article_handler.py" timestamp="1527084365241">
         <mark key="[" line="26" column="27" />
         <mark key="]" line="49" column="70" />
@@ -287,37 +292,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdkbnQnOiAnMScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdjb29raWVzJzogJ19fY2ZkdWlkPWQyNzYyOGVlM2ZiMzA3OTM3ZTQ3NDI4M2FiMmVmZGQ1NTE1MTQ5NjU0MjI7IGNfc2VjdXJlX3VpZD1Namt4TURFJTNEOyBjX3NlY3VyZV9wYXNzPTZlNGQ0MGJiMzZlMmVlODRiMTVjMDQ4ODI5ZDk2OWFlOyBjX3NlY3VyZV9zc2w9ZVdWaGFBJTNEJTNEOyBjX3NlY3VyZV90cmFja2VyX3NzbD1lV1ZoYUElM0QlM0Q7IGNfc2VjdXJlX2xvZ2luPWJtOXdaUSUzRCUzRCcsCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb2RlID0gMAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcsOfCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdjX3NlY3VyZV9sb2dpbic6ICdibTl3WlElM0QlM0QnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IC0xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICdjX3NlY3VyZV90cmFja2VyX3NzbCc6ICdlV1ZoYUElM0QlM0QnLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdjX3NlY3VyZV9zc2wnOiAnZVdWaGFBJTNEJTNEJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdjX3NlY3VyZV9wYXNzJzogJzZlNGQ0MGJiMzZlMmVlODRiMTVjMDQ4ODI5ZDk2OWFlJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdjX3NlY3VyZV91aWQnOiAnTWpreE1ERSUzRCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8</text>
+        <text>e</text>
       </register>
     </registers>
     <search>

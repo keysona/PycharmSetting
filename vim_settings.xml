@@ -119,6 +119,12 @@
         <mark key="." line="150" column="63" />
         <mark key="^" line="150" column="63" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/weixin/main.py" timestamp="1528429493912">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/cs/rooms/manager.py" timestamp="1527154359243">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="78" column="35" />
@@ -288,37 +294,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
+        <text encoding="base64">aXRjaGF0LnNlbmQoJ0hlbGxvLCBmaWxlaGVscGVyJywgdG9Vc2VyTmFtZT0nZmlsZWhlbHBlcicpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
+      <register name="&quot;" type="4">
+        <text>enableCmdQR=True</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlID0gMAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcsOfCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IC0xCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb2RlID0gMAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcsOfCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IC0xCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>enableCmdQR=True</text>
       </register>
     </registers>
     <search>

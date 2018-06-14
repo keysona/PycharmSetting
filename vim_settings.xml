@@ -123,7 +123,12 @@
         <mark key="." line="95" column="115" />
         <mark key="^" line="95" column="115" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/version-svr.py" timestamp="1528959661648" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/version-svr.py" timestamp="1528961865418">
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="35" column="10" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/handler.py" timestamp="1526869785688">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="120" />

@@ -65,6 +65,7 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/register_handler.py" timestamp="1528942797064" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/handler.py" timestamp="1527910231201">
         <mark key="[" line="95" column="116" />
         <mark key="]" line="95" column="115" />
@@ -77,7 +78,7 @@
         <mark key="^" line="24" column="3" />
         <mark key="." line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/__init__.py" timestamp="1528470724788">
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/__init__.py" timestamp="1528943731426">
         <mark key="[" line="79" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/order_handler.py" timestamp="1527154225360">
@@ -122,6 +123,11 @@
         <mark key="]" line="150" column="63" />
         <mark key="." line="150" column="63" />
         <mark key="^" line="150" column="63" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" timestamp="1528944234432">
+        <mark key="[" line="214" column="1" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/weixin/main.py" timestamp="1528470273610">
         <mark key="[" line="2" column="18" />
@@ -208,7 +214,8 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/reset_gift_handler.py" timestamp="1528470738849" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/reset_gift_handler.py" timestamp="1528942775387" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/core/utils/utils.py" timestamp="1528942903461" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/article/controller.py" timestamp="1526808683126">
         <mark key="[" line="108" column="15" />
         <mark key="]" line="108" column="14" />
@@ -299,37 +306,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aXRjaGF0LnNlbmQoJ0hlbGxvLCBmaWxlaGVscGVyJywgdG9Vc2VyTmFtZT0nZmlsZWhlbHBlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImtleTogJXMsIGlkZW50aXR5MnV1aWQiLCBrZXksIGNscy5fX2lkZW50aXR5X2tleV8yX3V1aWRfXykK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>enableCmdQR=True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImtleTogJXMsIGlkZW50aXR5MnV1aWQiLCBrZXksIGNscy5fX2lkZW50aXR5X2tleV8yX3V1aWRfXykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImlkZW50aXR5IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aXRjaGF0LnNlbmQoJ0hlbGxvLCBmaWxlaGVscGVyJywgdG9Vc2VyTmFtZT0nZmlsZWhlbHBlcicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcsOfCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IC0xCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb2RlID0gMAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcsOfCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29kZSA9IC0xCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="-" type="4">
-        <text>enableCmdQR=True</text>
+        <text>identity</text>
       </register>
     </registers>
     <search>

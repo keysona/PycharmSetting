@@ -93,6 +93,7 @@
         <mark key="." line="39" column="53" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/reset_gift_handler.py" timestamp="1528942775387" />
+      <file name="$USER_HOME$/Dropbox/company/project/weixin-server/wx_receiver/wx_mgr.py" timestamp="1529056049170" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1527325995462">
         <mark key="[" line="92" column="37" />
         <mark key="]" line="92" column="36" />
@@ -123,6 +124,7 @@
         <mark key="." line="95" column="115" />
         <mark key="^" line="95" column="115" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/weixin-server/apps/wx_notify/wx_msg_handler.py" timestamp="1529056055507" />
       <file name="$USER_HOME$/Dropbox/company/project/version-server/version-svr.py" timestamp="1528961865418">
         <mark key="[" line="36" column="11" />
         <mark key="]" line="35" column="10" />
@@ -191,6 +193,7 @@
         <mark key="^" line="119" column="50" />
         <mark key="." line="119" column="50" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/weixin-server/wx_receiver/wx_client.py" timestamp="1529056086577" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/handler.py" timestamp="1526972517933">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="68" column="51" />

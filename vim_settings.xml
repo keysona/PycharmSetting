@@ -243,6 +243,12 @@
         <mark key="." line="49" column="70" />
         <mark key="^" line="49" column="70" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/change_file.py" timestamp="1529207914493">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="56" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="58" column="28" filename="$USER_HOME$/Dropbox/company/project/torpeewee/torpeewee/query.py" />
@@ -303,37 +309,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50TWdyLmluc2VydF9kZXZpY2Vfc3luYyhpZGVudGl0eSwgc3RyKHNlbGYuYXBpX3ZlcnNpb24pLCBzZWxmLmlwLCBzZWxmLnBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZV9uYW1lX3RtcGwgJSBtLmdyb3VwcygpWzBdKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>insert_device_sync</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZV9uYW1lX3RtcGwgJSBtLmdyb3VwcygpWzBdKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2xpZW50TWdyLmluc2VydF9kZXZpY2Vfc3luYyhpZGVudGl0eSwgc3RyKHNlbGYuYXBpX3ZlcnNpb24pLCBzZWxmLmlwLCBzZWxmLnBhcmFtcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImtleTogJXMsIGlkZW50aXR5MnV1aWQiLCBrZXksIGNscy5fX2lkZW50aXR5X2tleV8yX3V1aWRfXykK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZXJyb3IoImlkZW50aXR5IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aXRjaGF0LnNlbmQoJ0hlbGxvLCBmaWxlaGVscGVyJywgdG9Vc2VyTmFtZT0nZmlsZWhlbHBlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cHMoKVswXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcsOfCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVswXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>insert_device_sync</text>
+        <text>t</text>
       </register>
     </registers>
     <search>

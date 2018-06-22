@@ -57,6 +57,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_controller.py" timestamp="1529633935373" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/model_mysql.py" timestamp="1526979065438">
         <mark key="[" line="97" column="47" />
         <mark key="]" line="97" column="46" />
@@ -75,6 +76,8 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_redis.py" timestamp="1529633312856" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/register_handler.py" timestamp="1529633753575" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/handler.py" timestamp="1527910231201">
         <mark key="[" line="95" column="116" />
         <mark key="]" line="95" column="115" />
@@ -102,6 +105,12 @@
         <mark key="." line="145" column="0" />
         <mark key="^" line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_mysql.py" timestamp="1529633815457">
+        <mark key="[" line="70" column="74" />
+        <mark key="]" line="70" column="73" />
+        <mark key="^" line="70" column="73" />
+        <mark key="." line="70" column="73" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/handler.py" timestamp="1526869785688">
         <mark key="[" line="57" column="121" />
         <mark key="]" line="57" column="120" />
@@ -120,10 +129,11 @@
         <mark key="." line="150" column="63" />
         <mark key="^" line="150" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" timestamp="1528944991548">
-        <mark key="[" line="214" column="1" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" timestamp="1529633803985">
+        <mark key="[" line="470" column="45" />
+        <mark key="]" line="470" column="40" />
+        <mark key="." line="470" column="40" />
+        <mark key="^" line="470" column="40" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/weixin/main.py" timestamp="1528470273610">
         <mark key="[" line="2" column="18" />
@@ -212,7 +222,6 @@
         <mark key="^" line="54" column="25" />
         <mark key="." line="108" column="14" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/weixin-server/wx_receiver/wx_mgr.py" timestamp="1529397389462" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/handler.py" timestamp="1526982346242">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="31" />
@@ -231,7 +240,13 @@
         <mark key="." line="49" column="70" />
         <mark key="^" line="49" column="70" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/change_file.py" timestamp="1529207914493">
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/version/check_handler.py" timestamp="1529633729190">
+        <mark key="[" line="89" column="31" />
+        <mark key="]" line="89" column="30" />
+        <mark key="." line="89" column="30" />
+        <mark key="^" line="89" column="30" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/change_file.py" timestamp="1529633064808">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -303,37 +318,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZV9uYW1lX3RtcGwgJSBtLmdyb3VwcygpWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZV9pbmZvWyJJTUVJIl0gCiAgICAgICAgICAgIGVsaWYgZmllbGQgPT0gInBvd2Vyb24iOgogICAgICAgICAgICAgICAgZGV2aWNlX2luZm9bInN5c3RlbV9zdGF0ZSJdWyJwb3dlcm9uIl0gPSBpbnQodmFsdWUpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZV9uYW1lX3RtcGwgJSBtLmdyb3VwcygpWzBdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>android_id</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MuCg==</text>
+        <text encoding="base64">ICAgICAgICAiSU1FSSI6ICIiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZV9uYW1lX3RtcGwgJSBtLmdyb3VwcygpWzBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cHMoKVswXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3lzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cHMoKVswXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cCgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>android_id</text>
       </register>
     </registers>
     <search>

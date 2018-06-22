@@ -114,7 +114,7 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/翻译/中文/strings.xml" timestamp="1529681966419">
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/翻译/中文/strings.xml" timestamp="1529683545853">
         <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1922899612/time.py" timestamp="1529681122859">
@@ -142,15 +142,14 @@
         <mark key="^" line="117" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_rest_handlers.py" timestamp="1529634920497" />
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/main.py" timestamp="1529683022047">
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="11" />
-        <mark key="." line="54" column="11" />
-        <mark key="^" line="54" column="11" />
+      <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/xml/dom/minidom.py" timestamp="1529683609771" />
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/main.py" timestamp="1529684581000">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="6" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/output/chichewa/strings.xml" timestamp="1529682901668">
-        <mark key="[" line="17" column="4" />
-      </file>
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/output/chichewa/strings.xml" timestamp="1529684464961" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/controller.py" timestamp="1526963542316">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="19" />
@@ -375,37 +374,37 @@
         <text encoding="base64">ICAgICMgY25fcGF0dGVybiA9IHJlLmNvbXBpbGUodSdbXHU0ZTAwLVx1OWZhNV0rJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGxldGU6ICcsIGkqbGltaXQsIChpKzEpKmxpbWl0KQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zbGF0ZWRfZmlsZV9wYXRoCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGxldGU6ICcsIGkqbGltaXQsIChpKzEpKmxpbWl0KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRyYW5zbGF0ZWRfZmlsZV9wYXRoCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNodXRpbC5jb3B5ZmlsZShmaWxlX3BhdGgsIHRyYW5zbGF0ZWRfZmlsZV9wYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>b</text>
       </register>
     </registers>
     <search>

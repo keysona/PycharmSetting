@@ -33,6 +33,7 @@
         <mark key="." line="117" column="42" />
         <mark key="^" line="117" column="42" />
       </file>
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_rest_handlers.py" timestamp="1529634920497" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/layout/handler.py" timestamp="1526739318022">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="17" column="22" />
@@ -57,7 +58,12 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_controller.py" timestamp="1529633935373" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_controller.py" timestamp="1529635416170">
+        <mark key="[" line="75" column="24" />
+        <mark key="]" line="75" column="23" />
+        <mark key="." line="75" column="23" />
+        <mark key="^" line="75" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/config/model_mysql.py" timestamp="1526979065438">
         <mark key="[" line="97" column="47" />
         <mark key="]" line="97" column="46" />
@@ -76,7 +82,7 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_redis.py" timestamp="1529633312856" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_redis.py" timestamp="1529634761821" />
       <file name="$USER_HOME$/Dropbox/company/project/version-server/app/device/register_handler.py" timestamp="1529633753575" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/hotel/room/handler.py" timestamp="1527910231201">
         <mark key="[" line="95" column="116" />
@@ -90,7 +96,7 @@
         <mark key="^" line="24" column="3" />
         <mark key="." line="24" column="3" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/__init__.py" timestamp="1528943731426">
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/app/__init__.py" timestamp="1529634739814">
         <mark key="[" line="79" column="55" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/version-svr.py" timestamp="1528961865418">
@@ -105,11 +111,11 @@
         <mark key="." line="145" column="0" />
         <mark key="^" line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_mysql.py" timestamp="1529633815457">
-        <mark key="[" line="70" column="74" />
-        <mark key="]" line="70" column="73" />
-        <mark key="^" line="70" column="73" />
-        <mark key="." line="70" column="73" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/models_mysql.py" timestamp="1529635209130">
+        <mark key="[" line="569" column="121" />
+        <mark key="]" line="569" column="120" />
+        <mark key="^" line="569" column="120" />
+        <mark key="." line="569" column="120" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/wifi/handler.py" timestamp="1526869785688">
         <mark key="[" line="57" column="121" />
@@ -129,11 +135,12 @@
         <mark key="." line="150" column="63" />
         <mark key="^" line="150" column="63" />
       </file>
-      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" timestamp="1529633803985">
-        <mark key="[" line="470" column="45" />
-        <mark key="]" line="470" column="40" />
-        <mark key="." line="470" column="40" />
-        <mark key="^" line="470" column="40" />
+      <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" timestamp="1529636111883">
+        <mark key="'" line="468" column="132" />
+        <mark key="[" line="474" column="103" />
+        <mark key="]" line="474" column="102" />
+        <mark key="^" line="474" column="102" />
+        <mark key="." line="474" column="102" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/weixin/main.py" timestamp="1528470273610">
         <mark key="[" line="2" column="18" />
@@ -312,43 +319,46 @@
       <jump line="82" column="21" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/service/type/controller.py" />
       <jump line="223" column="23" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/push/model_redis.py" />
       <jump line="27" column="27" filename="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/room_handler.py" />
+      <jump line="467" column="50" filename="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" />
+      <jump line="477" column="12" filename="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" />
+      <jump line="468" column="132" filename="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/manager.py" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X25hbWUgPSBjYXRlZ29yeVsnZW5fbmFtZSddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRldmljZV9pbmZvWyJJTUVJIl0gCiAgICAgICAgICAgIGVsaWYgZmllbGQgPT0gInBvd2Vyb24iOgogICAgICAgICAgICAgICAgZGV2aWNlX2luZm9bInN5c3RlbV9zdGF0ZSJdWyJwb3dlcm9uIl0gPSBpbnQodmFsdWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>android_id</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3IgJ0lNRUknIG5vdCBpbiBkZXZpY2VfaW5mb1snaWRlbnRpdHknXTo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiSU1FSSI6ICIiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZmlsZV9uYW1lX3RtcGwgJSBtLmdyb3VwcygpWzBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3MuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbmdlX2ZpZWxkcy5hcHBlbmQoImlkZW50aXR5IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGV2aWNlX2luZm9bImlkZW50aXR5Il1bIklNRUkiXSA9IGltZWkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGV2aWNlX2luZm9bImlkZW50aXR5Il1bIklNRUkiXSwgaW1laSwgZGV2aWNlX2luZm8pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3lzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLndhcm4oInVwZGF0ZV9jaGVja19pbmZvLCBJTUVJIGNoYW5nZSEgbmV3OiAlcywgbmV3OiAlcywgZGV2aWNlX2luZm86ICVzIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cHMoKVswXSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbWVpIGFuZCAnSU1FSScgaW4gZGV2aWNlX2luZm9bJ2lkZW50aXR5J10gYW5kIGRldmljZV9pbmZvWyJpZGVudGl0eSJdWyJJTUVJIl0gIT0gaW1laToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobS5ncm91cCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>android_id</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3IgJ0lNRUknIG5vdCBpbiBkZXZpY2VfaW5mb1snaWRlbnRpdHknXTo=</text>
       </register>
     </registers>
     <search>
@@ -379,6 +389,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

@@ -95,11 +95,11 @@
         <mark key="." line="224" column="56" />
         <mark key="^" line="224" column="56" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/translator.py" timestamp="1529682521639">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/translator.py" timestamp="1529689996763">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/wifi_handler.py" timestamp="1526870011537">
         <mark key="[" line="39" column="54" />
@@ -146,11 +146,11 @@
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_rest_handlers.py" timestamp="1529634920497" />
       <file name="$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6/xml/dom/minidom.py" timestamp="1529683609771" />
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/main.py" timestamp="1529689773251">
-        <mark key="[" line="170" column="12" />
-        <mark key="]" line="170" column="11" />
-        <mark key="." line="170" column="11" />
-        <mark key="^" line="170" column="11" />
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/main.py" timestamp="1529692463982">
+        <mark key="[" line="216" column="21" />
+        <mark key="]" line="216" column="20" />
+        <mark key="." line="216" column="20" />
+        <mark key="^" line="216" column="20" />
       </file>
       <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/output/chichewa/strings.xml" timestamp="1529687514339" />
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/message/controller.py" timestamp="1526963542316">
@@ -383,37 +383,37 @@
         <text encoding="base64">ICAgICMgY25fcGF0dGVybiA9IHJlLmNvbXBpbGUodSdbXHU0ZTAwLVx1OWZhNV0rJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">bWF4X3RocmVhZCA9IDUwCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>thread</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bWF4X3RocmVhZCA9IDUwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRhc2tzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJhbnNsYXRlX2ZpbGUoZGF0YSwgd2FpdF90cmFuc2xhdGVfZmlsZSwgYWJiciwgbGFuZ3VhZ2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBUYXNrcy5jcmVhdGVfdGFzayhkYXRhLCB3YWl0X3RyYW5zbGF0ZV9maWxlLCBhYmJyLCBsYW5ndWFnZSwgJ3poLWNuJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRhc2suCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAjIGRvbS53cml0ZXhtbChmLCBlbmNvZGluZz0ndXRmLTgnKQogICAgIyBwcmludChyZXN1bHQpCiAgICAjIGZvciBrLCB2IGluIHJlc3VsdDoKICAgICMgICAgIHByaW50KGssIHYpCgogICAgIyB0cmVlID0gRVQucGFyc2UodHJhbnNsYXRlZF9maWxlX3BhdGgpCiAgICAjIHJvb3QgPSB0cmVlLmdldHJvb3QoKQogICAgIwogICAgIyBmb3IgY2hpbGQgaW4gcm9vdDoKICAgICMgICAgIHByaW50KGNoaWxkLnRleHQp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxhbmd1YWdlID0gbGFuZ3VhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFiYnIgPSBhYmJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZpbGVfcGF0aCA9IGZpbGVfcGF0aAo=</text>
+        <text encoding="base64">ICAgICAgICB0YXNrID0K</text>
       </register>
       <register name="-" type="4">
-        <text>thread</text>
+        <text>dest</text>
       </register>
     </registers>
     <search>

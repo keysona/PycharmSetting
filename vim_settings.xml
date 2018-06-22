@@ -95,11 +95,11 @@
         <mark key="." line="224" column="56" />
         <mark key="^" line="224" column="56" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/translator.py" timestamp="1529668244087">
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="50" column="24" />
-        <mark key="." line="50" column="24" />
-        <mark key="^" line="50" column="24" />
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/translator.py" timestamp="1529680686486">
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="11" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="11" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/device/room/wifi_handler.py" timestamp="1526870011537">
         <mark key="[" line="39" column="54" />
@@ -107,11 +107,17 @@
         <mark key="^" line="39" column="53" />
         <mark key="." line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/exceptions.py" timestamp="1529666354111">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/exceptions.py" timestamp="1529678412796">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/翻译/中文/strings.xml" timestamp="1529679975593">
+        <mark key="[" line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1922899612/time.py" timestamp="1529681122859">
+        <mark key="[" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/hotel-server/app/admin/contracts/manager.py" timestamp="1527325995462">
         <mark key="[" line="92" column="37" />
@@ -135,10 +141,11 @@
         <mark key="^" line="117" column="42" />
       </file>
       <file name="$USER_HOME$/Dropbox/company/project/version-server/common/devicemgr/device_rest_handlers.py" timestamp="1529634920497" />
-      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/main.py" timestamp="1529666162572">
-        <mark key="[" line="32" column="32" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/main.py" timestamp="1529681254014">
+        <mark key="[" line="51" column="85" />
+        <mark key="]" line="51" column="84" />
+        <mark key="." line="51" column="84" />
+        <mark key="^" line="51" column="84" />
       </file>
       <file name="$USER_HOME$/OneDrive/Project/Python/Dodoo/output/chichewa/strings.xml" timestamp="1529652375035">
         <mark key="[" line="17" column="4" />
@@ -366,37 +373,37 @@
         <text encoding="base64">ICAgICMgY25fcGF0dGVybiA9IHJlLmNvbXBpbGUodSdbXHU0ZTAwLVx1OWZhNV0rJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>now</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1heF90cnkgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgJ25vJyAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY29tcGxldGU6ICcsIGkqbGltaXQsIChpKzEpKmxpbWl0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJveHkgPSBQcm94eS5nZXQoKQo=</text>
+        <text encoding="base64">ICAgIHRyYW5zbGF0ZWRfZmlsZV9wYXRoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm9Qcm94eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnbm8nIGluIHNlbGYucHJveHk6Cg==</text>
+        <text encoding="base64">ICAgIHNodXRpbC5jb3B5ZmlsZShmaWxlX3BhdGgsIHRyYW5zbGF0ZWRfZmlsZV9wYXRoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnByb3h5ID0gUHJveHkuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>now</text>
       </register>
     </registers>
     <search>
